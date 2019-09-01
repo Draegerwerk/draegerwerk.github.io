@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   viewBox="0 0 270.93334 270.93333"
+   version="1.1"
+   id="draeger_favicon"
+   sodipodi:docname="draeger_favicon.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1853"
+     inkscape:window-height="1016"
+     id="namedview7"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="0.66458998"
+     inkscape:cx="120.05051"
+     inkscape:cy="573.9841"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs837" />
+  <metadata
+     id="metadata840">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(0.05586948,-26.080697)">
+    <rect
+       style="fill:#000099;fill-opacity:0.94117647;stroke:#000099;stroke-width:0.26474103;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97907948"
+       id="rect816"
+       width="270.66858"
+       height="270.66858"
+       x="0.076501034"
+       y="26.21306" />
+    <path
+       d="M 173.54725,43.845493 H 40.540153 V 69.863146 H 145.81839 c 12.24044,-0.0078 22.13934,7.454107 22.26387,16.685108 V 235.46493 c -0.12437,9.2343 -10.02343,16.70939 -22.26387,16.70939 0,0 -18.49605,0 -39.99106,0 l 0.0123,-158.056074 -65.298794,0.004 V 279.24924 H 173.54796 c 31.16655,0 56.45112,-19.02155 56.73348,-42.64645 V 86.508522 c -0.28239,-23.6205 -25.56693,-42.663029 -56.73348,-42.663029 v 0"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.12641846"
+       id="D"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

@@ -1,0 +1,224 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>Dräger Open Source</title>
+
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="description" content="Dräger Open Source Statement &amp; Project Contributions">
+        <meta name="author" content="Drägerwerk AG &amp; Co. KGaA">
+
+        <!-- favicon -->
+        <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+        <link rel="manifest" href="assets/favicon/site.webmanifest">
+        <link rel="mask-icon" href="assets/favicon/safari-pinned-tab.svg" color="#0f0f9f">
+        <link rel="shortcut icon" href="assets/favicon/favicon.ico">
+        <meta name="msapplication-TileColor" content="#0f0f9f">
+        <meta name="msapplication-config" content="assets/favicon/browserconfig.xml">
+        <meta name="theme-color" content="#ffffff">
+
+        <!-- jQuery: https://jquery.com/ (https://github.com/jquery/jquery/blob/3.4.1/LICENSE.txt) -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+
+        <!-- Bootstrap: https://getbootstrap.com/ (https://github.com/twbs/bootstrap/blob/v4.3.1/LICENSE) -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY=" crossorigin="anonymous" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha256-CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s=" crossorigin="anonymous"></script>
+
+        <!-- fontawesome: https://fontawesome.com/ (https://github.com/FortAwesome/Font-Awesome/blob/5.9.0/LICENSE.txt) -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" integrity="sha256-UzFD2WYH2U1dQpKDjjZK72VtPeWP50NoJjd26rnAdUI=" crossorigin="anonymous" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/js/all.min.js" integrity="sha256-xzrHBImM2jn9oDLORlHS1/0ekn1VyypEkV1ALvUx8lU=" crossorigin="anonymous"></script>
+
+        <!-- jsTree: https://www.jstree.com/ (https://github.com/vakata/jstree/blob/3.3.8/LICENSE-MIT) -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.3.8/themes/default/style.min.css" integrity="sha256-gX9Z4Eev/EDg9VZ5YIkmKQSqcAHL8tST90dHvtutjTg=" crossorigin="anonymous" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.3.8/jstree.min.js" integrity="sha256-NPMXVob2cv6rH/kKUuzV2yXKAQIFUzRw+vJBq4CLi2E=" crossorigin="anonymous"></script>
+
+        <!-- Page-specific JS libs -->
+        <script src="assets/js/github.js"></script>
+        <script src="assets/js/product_tree.js"></script>
+
+        <!-- Page-specific CSS -->
+        <link rel="stylesheet" href="assets/style/oss.css" />
+    </head>
+
+    <body class="d-flex flex-column h-100" data-spy="scroll" data-target="#nb" data-offset="60">
+        <!-- NavBar -->
+        <header>
+            <nav id="nb" class="navbar navbar-expand-md navbar-light fixed-top" style="background-color: #fffffe;">
+                <div class="container">
+                    <a class="navbar-brand scroll" href="#">
+                        <img src="assets/draeger.svg" width="128px" alt="Dräger Logo" title="Drägerwerk AG &amp; Co. KGaA">
+                    </a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse"
+                            data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                        <div class="navbar-nav">
+                            <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+                            <a class="nav-item nav-link" href="#libs">Licenses</a>
+                            <a class="nav-item nav-link" href="#projects">Projects</a>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </header>
+
+        <!-- PDF preview modal -->
+        <div class="modal fade" id="iframe_modal" tabindex="-1" role="dialog" aria-labelledby="modal_title" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="modal_title">Open Source Licenses</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="embed-responsive embed-responsive-4by3">
+                            <embed id="modal_previewer_embed" type="application/pdf" style="width:100%;height:95%" />
+                        </div>
+                        <p>Download file directly: <a id="pdf_direct_download" href="#" download></a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Main content -->
+        <main role="main" class="container">
+            <div class="row justify-content-center" style="margin-top: 60px;">
+                <div class="col-lg-7 align-self-center content">
+                    <h2 class="mt-3 mb-3 draeger-walbaum">Open Source at Dräger</h2>
+                    <p class="lead">Dräger acknowledges the importance of Open Source and Open Source Community.</p>
+                    <p>During development of our products Dräger makes use of Free and Open Source Software subject
+                    to the applicable Open Source licenses as stated below. This use for development as well as in our
+                    products allows us to create better products and provide better service for our customers.</p>
+                    <p>For Open Source projects we participate in and contribute to please see the list below.</p>
+
+                    <!-- Overview of used OSS software and licenses -->
+                    <h4 id="libs" class="mt-3 draeger-walbaum anchor">Open Source Software Components</h4>
+                    <p>Please select a product below to view and download the applicable Open Source Licenses used in
+                    the product and other important information with regard to the software elements used. You can also
+                    find certain other relevant documents and content as e.g. notices or source code of modified
+                    Open Source components, where stipulated by the applicable license.</p>
+
+                    <p>Where certain licenses give you the option to receive the source code as a copy on a data medium,
+                    we offer to send them to you upon request, if you choose not to download them here directly.</p>
+                    <input id="product_tree_search" type="text" placeholder="Search..">
+                    <div id="product_tree" class="mt-3"></div>
+
+                    <!-- Overview of contributions / projects -->
+                    <h4 id="projects" class="mt-3 mb-3 draeger-walbaum anchor">Open Source Projects</h4>
+                    <p>Feel free to visit us directly on GitHub (<a href="https://github.com/Draegerwerk">@Draegerwerk</a>)!<br>
+                       These are the projects Dräger currently contributes to or publishes on GitHub:</p>
+
+                    <h5 id="github_nothinghere" class="mt-3 mb-3">Nothing here, yet! Perhaps the page is still loading or you are using Internet Explorer?</h5>
+
+                    <!-- Iterate all repository cards in carousel -->
+                    <div id="carousel_indicator" class="carousel slide" data-ride="carousel" style="display: none;">
+                        <ol class="carousel-indicators">
+                            <!-- Filled by github.js via carousel_indicator_template -->
+                        </ol>
+                        <div class="carousel-inner">
+                            <div id="project_list" class="d-block mx-auto">
+                                <!-- Filled by github.js via project_list_template -->
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#carousel_indicator" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carousel_indicator" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+
+                    <!-- Template for dynamic carousel indicator li creation -->
+                    <template id="carousel_indicator_template">
+                        <li class="indicator_list_item" data-target="#carousel_indicator" data-slide-to=""></li>
+                    </template>
+
+                    <!-- Template for carousel cards of OSS projects -->
+                    <template id="project_list_template">
+                        <div class="carousel-item" style="height:300px;">
+                            <div class="d-flex h-100 align-items-center justify-content-center">
+                                <div class="card bg-light mb-4" style="max-width: 18rem;">
+                                    <div class="card-header pb-1 pt-2">
+                                        <div class="d-flex justify-content-between">
+                                            <div class="align-self-start"><a href="#" class="repo_url" style="color:#54595c;"><h5 class="repo_name"></h5></a></div>
+                                            <div class="align-self-end"><i class="fab fa-github align-top" style="font-size:12px; color:#333;"></i></div>
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="d-flex justify-content-around">
+                                            <div class="align-self-start" title="Forks">
+                                                <i class="fas fa-code-branch" style="color:#333;"></i>
+                                                <span class="pl-2 repo_num_forks"></span>
+                                            </div>
+                                            <div class="align-self-end" title="Stars">
+                                                <i class="fas fa-star" style="color:#333;"></i>
+                                                <span class="pl-2 repo_num_stars"></span>
+                                            </div>
+                                            <div class="align-self-center" title="Watchers">
+                                                <i class="fas fa-eye" style="color:#333;"></i>
+                                                <span class="pl-2 repo_num_watchers"></span>
+                                            </div>
+                                        </div>
+                                        <p class="card-text pt-4 repo_desc"></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </template>
+                </div>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <div class="container mt-3">
+                <div class="row justify-content-center">
+                    <div class="col-lg-7 align-self-center">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm text-left">
+                                    <span class="text-muted" style="font-size: .75rem;">Drägerwerk AG &amp; Co. KGaA <script type="text/javascript">document.write(new Date().getFullYear());</script></span>
+                                </div>
+                                <div class="col-m">
+                                    <ul class="list-inline">
+                                        <li class="list-inline-item"><a href="https://www.draeger.com/en_corp/Home/Provider-Identification" style="font-size: .75rem;">Provider Identification</a></li>
+                                        <li class="list-inline-item"><a href="https://www.draeger.com/en_corp/Career" style="font-size: .75rem;">Career</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm text-right">
+                                    <a id="share-github" class="social-share-buttons" href="https://github.com/Draegerwerk">
+                                        <i class="fab fa-github-square"></i>
+                                    </a>
+                                    <a id="share-facebook" class="social-share-buttons" href="https://www.facebook.com/DraegerGlobal">
+                                        <i class="fab fa-facebook-square"></i>
+                                    </a>
+                                    <a id="share-twitter" class="social-share-buttons" href="https://twitter.com/DraegerNews">
+                                        <i class="fab fa-twitter-square"></i>
+                                    </a>
+                                    <a id="share-linkedin" class="social-share-buttons" href="https://www.linkedin.com/company/draeger">
+                                        <i class="fab fa-linkedin"></i>
+                                    </a>
+                                    <a id="share-youtube" class="social-share-buttons" href="https://www.youtube.com/user/DraegerDE">
+                                        <i class="fab fa-youtube"></i>
+                                    </a>
+                                    <a id="share-xing" class="social-share-buttons" href="https://www.xing.com/company/draeger">
+                                        <i class="fab fa-xing-square"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </body>
+</html>

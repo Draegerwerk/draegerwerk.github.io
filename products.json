@@ -1,0 +1,78 @@
+[
+    {
+        "text": "Open Source Licenses",
+        "a_attr": { "href": "assets/license_agreements/9055455_2018_12_07.pdf" },
+        "icon": "fas fa-file-pdf"
+    },
+    {
+        "text" : "Hospital products",
+        "state": {
+            "opened": true
+        },
+        "children" : [
+            {
+                "text": "Anesthesia devices",
+                "children" : [
+                    {
+                        "text": "Anesthesia machines",
+                        "children": [
+                            {
+                                "text": "Atlan® A300/A300 XL, A350/A350 XL SW 1.01",
+                                "children": [
+                                    {
+                                        "text": "License Agreements",
+                                        "a_attr": { "href": "assets/license_agreements/Atlan/9510561_2019_08_13.pdf" },
+                                        "icon": "fas fa-file-pdf"
+                                    },
+                                    {
+                                        "text": "WindRiver Third Party Legal Notices",
+                                        "a_attr": { "href": "assets/license_agreements/Atlan/windriver-legal-notices.zip" },
+                                        "icon": "fas fa-file-archive"
+                                    },
+                                    {
+                                        "text": "Das U-Boot sources",
+                                        "a_attr": { "href": "https://github.com/Draegerwerk/u-boot/branches/all?query=Draeger" },
+                                        "icon": "fab fa-github-square"
+                                    },
+                                    {
+                                        "text": "Acknowledgment of Open Source Projects",
+                                        "a_attr": { "href": "assets/license_agreements/Atlan/9510594.pdf"},
+                                        "icon": "fas fa-file-pdf"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+	{
+        "text": "This page",
+        "state": {
+            "opened": false
+        },
+        "children": [
+            {
+                "text": "jQuery v3.4.1 (MIT License)",
+                "icon": "fab fa-github-square",
+                "a_attr": { "href": "https://github.com/jquery/jquery/blob/3.4.1/LICENSE.txt" }
+            },
+            {
+                "text": "Twitter Bootstrap v3.4.1 (MIT License)",
+                "icon": "fab fa-github-square",
+                "a_attr": { "href": "https://github.com/twbs/bootstrap/blob/v4.3.1/LICENSE" }
+            },
+            {
+                "text": "FontAwesome v5.9.0 (SIL OFL 1.1, CC BY 4.0 and MIT License)",
+                "icon": "fab fa-github-square",
+                "a_attr": { "href": "https://github.com/FortAwesome/Font-Awesome/blob/5.9.0/LICENSE.txt" }
+            },
+            {
+                "text": "jsTree v3.3.8 (MIT License)",
+                "icon": "fab fa-github-square",
+                "a_attr": { "href": "https://github.com/vakata/jstree/blob/3.3.8/LICENSE-MIT" }
+            }
+        ]
+    }
+]

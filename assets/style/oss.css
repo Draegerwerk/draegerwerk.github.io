@@ -1,0 +1,71 @@
+@font-face {
+    font-family: DraegerSans;
+    src: url(DraegerSans-Regular.woff);
+}
+@font-face {
+    font-family: DraegerWalbaum;
+    src: url(DraegerWalbaum-Regular.woff);
+}
+.draeger-walbaum {
+    font-family: DraegerWalbaum;
+}
+* {
+    font-family: DraegerSans;
+    word-wrap: break-word;
+}
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+    background-color: #e8eff3;
+    color: #54595c;
+}
+main {
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+.content {
+    background-color: #fff;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    min-height: 60px;
+    background-color: #f5f5f5;
+}
+a#share-github:hover {
+    color: #333;
+}
+a#share-facebook:hover {
+    color: #3b5998;
+}
+a#share-twitter:hover {
+    color: #1da1f2;
+}
+a#share-linkedin:hover {
+    color: #007bb5;
+}
+a#share-youtube:hover {
+    color: #b00;
+}
+a#share-xing:hover {
+    color: #026466;
+}
+a.social-share-buttons {
+    text-decoration: none;
+    color: #b3b3b3;
+}
+.jstree-default a.jstree-search {
+    color: #5b92d3;
+    font-style: normal;
+    font-weight: normal;
+}
+.carousel-control-next,
+.carousel-control-prev,
+.carousel-indicators {
+    filter: invert(100%);
+}
