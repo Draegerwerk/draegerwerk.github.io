@@ -24,12 +24,12 @@
                                         "children": [
                                             {
                                                 "text": "License Agreements",
-                                                "a_attr": { "href": "assets/license_agreements/Atlan/9510561_2019_08_13.pdf" },
+                                                "a_attr": { "href": "assets/license_agreements/Atlan/1.01/9510561_2019_08_13.pdf" },
                                                 "icon": "fas fa-file-pdf"
                                             },
                                             {
                                                 "text": "Acknowledgement of Open Source Projects",
-                                                "a_attr": { "href": "assets/license_agreements/Atlan/9510594.pdf" },
+                                                "a_attr": { "href": "assets/license_agreements/Atlan/1.01/9510594.pdf" },
                                                 "icon": "fas fa-file-pdf"
                                             },
                                             {
