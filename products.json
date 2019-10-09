@@ -138,7 +138,7 @@
                 "a_attr": { "href": "https://github.com/jquery/jquery/blob/3.4.1/LICENSE.txt" }
             },
             {
-                "text": "Twitter Bootstrap v3.4.1 (MIT License)",
+                "text": "Twitter Bootstrap v4.3.1 (MIT License)",
                 "icon": "fab fa-github-square",
                 "a_attr": { "href": "https://github.com/twbs/bootstrap/blob/v4.3.1/LICENSE" }
             },
