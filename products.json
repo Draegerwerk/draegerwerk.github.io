@@ -20,24 +20,103 @@
                                 "text": "Atlan® A300/A300 XL, A350/A350 XL SW 1.01",
                                 "children": [
                                     {
-                                        "text": "License Agreements",
-                                        "a_attr": { "href": "assets/license_agreements/Atlan/9510561_2019_08_13.pdf" },
-                                        "icon": "fas fa-file-pdf"
-                                    },
+                                        "text": "Software Version 1.01",
+                                        "children": [
+                                            {
+                                                "text": "License Agreements",
+                                                "a_attr": { "href": "assets/license_agreements/Atlan/9510561_2019_08_13.pdf" },
+                                                "icon": "fas fa-file-pdf"
+                                            },
+                                            {
+                                                "text": "Acknowledgement of Open Source Projects",
+                                                "a_attr": { "href": "assets/license_agreements/Atlan/9510594.pdf" },
+                                                "icon": "fas fa-file-pdf"
+                                            },
+                                            {
+                                                "text": "WindRiver Third Party Legal Notices",
+                                                "a_attr": { "href": "assets/license_agreements/thirdparty_notices/WindRiver/a60ad9ea93d10036b263446bb98e1a57257ad914a83a97726d7959478837ef40/windriver-legal-notices.zip" },
+                                                "icon": "fas fa-file-archive"
+                                            },
+                                            {
+                                                "text": "Das U-Boot sources",
+                                                "a_attr": { "href": "https://github.com/Draegerwerk/u-boot/branches/all?query=Draeger" },
+                                                "icon": "fab fa-github-square"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "Ventilation and Respiratory Monitoring",
+                "children": [
+                    {
+                        "text": "Ventilators",
+                        "children": [
+                            {
+                                "text": "Evita V600, V800, Babylog VN600, VN800",
+                                "children": [
                                     {
-                                        "text": "WindRiver Third Party Legal Notices",
-                                        "a_attr": { "href": "assets/license_agreements/Atlan/windriver-legal-notices.zip" },
-                                        "icon": "fas fa-file-archive"
-                                    },
-                                    {
-                                        "text": "Das U-Boot sources",
-                                        "a_attr": { "href": "https://github.com/Draegerwerk/u-boot/branches/all?query=Draeger" },
-                                        "icon": "fab fa-github-square"
-                                    },
-                                    {
-                                        "text": "Acknowledgment of Open Source Projects",
-                                        "a_attr": { "href": "assets/license_agreements/Atlan/9510594.pdf"},
-                                        "icon": "fas fa-file-pdf"
+                                        "text": "Software Version 1.01",
+                                        "children": [
+                                            {
+                                                "text": "License Agreements",
+                                                "a_attr": { "href": "assets/license_agreements/VxxxEC/1.01/9510821_2019_10_02.pdf" },
+                                                "icon": "fas fa-file-pdf"
+                                            },
+                                            {
+                                                "text": "Acknowledgement of Open Source Projects",
+                                                "a_attr": { "href": "assets/license_agreements/VxxxEC/1.01/9510822_Acknowledgement.pdf"},
+                                                "icon": "fas fa-file-pdf"
+                                            },
+                                            {
+                                                "text": "WindRiver Third Party Legal Notices",
+                                                "a_attr": { "href": "assets/license_agreements/thirdparty_notices/WindRiver/a60ad9ea93d10036b263446bb98e1a57257ad914a83a97726d7959478837ef40/windriver-legal-notices.zip" },
+                                                "icon": "fas fa-file-archive"
+                                            },
+                                            {
+                                                "text": "Qt Third Party Legal Notices",
+                                                "a_attr": { "href": "assets/license_agreements/thirdparty_notices/Qt/efa51470f6a142218a7fe959fd1ba0521a0cde72979ca713fdd54a0b9876728e/OpenSource_qt_5_9_2.zip" },
+                                                "icon": "fas fa-file-archive",
+                                                "children": [
+                                                    {
+                                                        "text": "Public Suffix List sources",
+                                                        "a_attr": { "href": "https://github.com/publicsuffix/list" },
+                                                        "icon": "fab fa-github-square"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "text": "Solvatio Third Party Legal Notices",
+                                                "a_attr": { "href": "assets/license_agreements/thirdparty_notices/Solvatio/a8509eba94f400a89e6143db63f3436f328a42c34b4b378f48971645c07ea89c/Solvatio_licences.zip" },
+                                                "icon": "fas fa-file-archive",
+                                                "children": [
+                                                    {
+                                                        "text": "Eclipse Jetty® sources",
+                                                        "a_attr": { "href": "https://github.com/eclipse/jetty.project" },
+                                                        "icon": "fab fa-github-square"
+                                                    },
+                                                    {
+                                                        "text": "jsci sources",
+                                                        "a_attr": { "href": "https://sourceforge.net/p/jsci/jsci/ci/default/tree/" },
+                                                        "icon": "fas fa-code"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "text": "aicas JamaicaVM Third Party Legal Notices",
+                                                "a_attr": { "href": "assets/license_agreements/thirdparty_notices/Jamaica/1a9c9a23540cbcf4463822d8e4a95d3beb26254bc246c4753d4f6cee273d472d/Jamaica_licenses.zip" },
+                                                "icon": "fas fa-file-archive"
+                                            },
+                                            {
+                                                "text": "Das U-Boot sources",
+                                                "a_attr": { "href": "https://github.com/Draegerwerk/u-boot/branches/all?query=Draeger" },
+                                                "icon": "fab fa-github-square"
+                                            }
+                                        ]
                                     }
                                 ]
                             }
