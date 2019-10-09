@@ -143,9 +143,9 @@
                 "a_attr": { "href": "https://github.com/twbs/bootstrap/blob/v4.3.1/LICENSE" }
             },
             {
-                "text": "FontAwesome v5.9.0 (SIL OFL 1.1, CC BY 4.0 and MIT License)",
+                "text": "FontAwesome v5.11.2 (SIL OFL 1.1, CC BY 4.0 and MIT License)",
                 "icon": "fab fa-github-square",
-                "a_attr": { "href": "https://github.com/FortAwesome/Font-Awesome/blob/5.9.0/LICENSE.txt" }
+                "a_attr": { "href": "https://github.com/FortAwesome/Font-Awesome/blob/5.11.2/LICENSE.txt" }
             },
             {
                 "text": "jsTree v3.3.8 (MIT License)",
