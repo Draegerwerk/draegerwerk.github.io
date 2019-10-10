@@ -28,7 +28,7 @@
                                                 "icon": "fas fa-file-pdf"
                                             },
                                             {
-                                                "text": "Acknowledgement of Open Source Projects",
+                                                "text": "Acknowledgment of Open Source Projects",
                                                 "a_attr": { "href": "assets/license_agreements/Atlan/1.01/9510594.pdf" },
                                                 "icon": "fas fa-file-pdf"
                                             },
@@ -68,8 +68,8 @@
                                                 "icon": "fas fa-file-pdf"
                                             },
                                             {
-                                                "text": "Acknowledgement of Open Source Projects",
-                                                "a_attr": { "href": "assets/license_agreements/VxxxEC/1.01/9510822_Acknowledgement.pdf"},
+                                                "text": "Acknowledgment of Open Source Projects",
+                                                "a_attr": { "href": "assets/license_agreements/VxxxEC/1.01/9510822_Acknowledgment.pdf"},
                                                 "icon": "fas fa-file-pdf"
                                             },
                                             {
