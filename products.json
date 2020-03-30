@@ -126,6 +126,19 @@
             }
         ]
     },
+    {
+        "text": "Dräger Connect",
+        "state": {
+            "opened": false
+        },
+        "children": [
+            {
+                "text": "License Agreements",
+                "a_attr": { "href": "assets/license_agreements/Dräger%20Connect/9511239_2020_03_27.pdf" },
+                "icon": "fas fa-file-pdf"
+            }
+        ]
+    },
 	{
         "text": "This page",
         "state": {
