@@ -39,8 +39,19 @@
                                             },
                                             {
                                                 "text": "Das U-Boot sources",
-                                                "a_attr": { "href": "https://github.com/Draegerwerk/u-boot/branches/all?query=Draeger" },
-                                                "icon": "fab fa-github-square"
+                                                "icon": "fab fa-github-square",
+                                                "children": [
+                                                    {
+                                                        "text": "i.MX6",
+                                                        "icon": "fab fa-github-square",
+                                                        "a_attr": { "href": "https://github.com/Draegerwerk/u-boot/releases/tag/Atlan_1.01_imx6" }
+                                                    },
+                                                    {
+                                                        "text": "Altera SoC",
+                                                        "icon": "fab fa-github-square",
+                                                        "a_attr": { "href": "https://github.com/Draegerwerk/u-boot/releases/tag/Atlan_1.01_altsoc" }
+                                                    }
+                                                ]
                                             }
                                         ]
                                     }
@@ -79,7 +90,7 @@
                                             },
                                             {
                                                 "text": "Das U-Boot sources",
-                                                "a_attr": { "href": "https://github.com/Draegerwerk/u-boot/branches/all?query=Draeger" },
+                                                "a_attr": { "href": "https://github.com/Draegerwerk/u-boot/releases/tag/CoCo_2.0_imx6" },
                                                 "icon": "fab fa-github-square"
                                             }
                                         ]
@@ -153,8 +164,19 @@
                                             },
                                             {
                                                 "text": "Das U-Boot sources",
-                                                "a_attr": { "href": "https://github.com/Draegerwerk/u-boot/branches/all?query=Draeger" },
-                                                "icon": "fab fa-github-square"
+                                                "icon": "fab fa-github-square",
+                                                "children": [
+                                                    {
+                                                        "text": "i.MX6",
+                                                        "icon": "fab fa-github-square",
+                                                        "a_attr": { "href": "https://github.com/Draegerwerk/u-boot/releases/tag/VxxxEC_1.01_imx6" }
+                                                    },
+                                                    {
+                                                        "text": "Altera SoC",
+                                                        "icon": "fab fa-github-square",
+                                                        "a_attr": { "href": "https://github.com/Draegerwerk/u-boot/releases/tag/VxxxEC_1.01_altsoc" }
+                                                    }
+                                                ]
                                             }
                                         ]
                                     }
