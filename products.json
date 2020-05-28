@@ -56,6 +56,31 @@
                                         ]
                                     }
                                 ]
+                            },
+                            {
+                                "text": "Perseus® A500",
+                                "children": [
+                                    {
+                                        "text": "Software Version 2.03",
+                                        "children": [
+                                            {
+                                                "text": "License Agreements",
+                                                "a_attr": { "href": "assets/license_agreements/Perseus/9511238_License_Agreement_2020_03_12.pdf" },
+                                                "icon": "fas fa-file-pdf"
+                                            },
+                                            {
+                                                "text": "Acknowledgment of Open Source Projects",
+                                                "a_attr": { "href": "assets/license_agreements/Perseus/9511237_Acknowledgment.pdf" },
+                                                "icon": "fas fa-file-pdf"
+                                            },
+                                            {
+                                                "text": "WindRiver Third Party Legal Notices",
+                                                "a_attr": { "href": "assets/license_agreements/thirdparty_notices/WindRiver/08b03cdb23a9366d8ab695631004167e95dc50b92642048bbc96dd3abb705649/legal-notices.zip" },
+                                                "icon": "fas fa-file-archive"
+                                            }
+                                        ]
+                                    }
+                                ]
                             }
                         ]
                     }
