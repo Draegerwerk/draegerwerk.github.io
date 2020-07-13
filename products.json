@@ -284,6 +284,43 @@
         ]
     },
     {
+        "text": "Safety Products",
+        "state": {
+            "opened": false
+        },
+        "children": [
+            {
+                "text": "Fixed Gas Detection",
+                "state": {
+                    "opened": false
+                },
+                "children": [
+                    {
+                        "text": "Controller",
+                        "state": {
+                            "opened": false
+                        },
+                        "children": [
+                            {
+                                "text": "Dräger Regard® 7000",
+                                "state": {
+                                    "opened": false
+                                },
+                                "children": [
+                                    {
+                                        "text": "License Agreements",
+                                        "a_attr": { "href": "assets/license_agreements/regard.txt" },
+                                        "icon": "fas fa-file-alt"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "text": "Dräger Connect",
         "state": {
             "opened": false
