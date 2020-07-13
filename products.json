@@ -309,8 +309,13 @@
                                 "children": [
                                     {
                                         "text": "License Agreements",
-                                        "a_attr": { "href": "assets/license_agreements/regard.txt" },
+                                        "a_attr": { "href": "assets/license_agreements/REGARD7000.txt" },
                                         "icon": "fas fa-file-alt"
+                                    },
+                                    {
+                                        "text": "Qt 5.6.2 sources",
+                                        "icon": "fab fa-github-square",
+                                        "a_attr": { "href": "https://github.com/qt/qt5/tree/v5.6.2" }
                                     }
                                 ]
                             }
