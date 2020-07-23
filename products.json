@@ -322,6 +322,44 @@
                         ]
                     }
                 ]
+            },
+            {
+                "text": "Alcohol & Drug Detection",
+                "state": {
+                    "opened": false
+                },
+                "children": [
+                    {
+                        "text": "Software",
+                        "state": {
+                            "opened": false
+                        },
+                        "children": [
+                            {
+                                "text": "Dräger add",
+                                "state": {
+                                    "opened": false
+                                },
+                                "children": [
+                                    {
+                                        "text": "Acknowledgment of Open Source Projects App",
+                                        "a_attr": {
+                                            "href": "assets/license_agreements/add/add_Mobile_Licenses.pdf"
+                                        },
+                                        "icon": "fas fa-file-pdf"
+                                    },
+                                    {
+                                        "text": "Acknowledgment of Open Source Projects Backend",
+                                        "a_attr": {
+                                            "href": "assets/license_agreements/add/add_Backend_Licenses.pdf"
+                                        },
+                                        "icon": "fas fa-file-pdf"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     },
