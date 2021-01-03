@@ -371,6 +371,21 @@
                                         "icon": "fas fa-file-pdf"
                                     }
                                 ]
+                            },
+			    {
+                               	"text": "Dräger SafeTrack",
+                                "state": {
+                                    "opened": false
+                                },
+                                "children": [
+                                    {
+                                        "text":"License Agreements",
+                                        "a_attr": {
+                                            "href": "assets/license_agreements/SafeTrack/Lizenzen_SafeTrack_01_2020_en.pdf"
+                                        },
+                                        "icon": "fas fa-file-pdf"
+                                    }
+                                ]
                             }
                         ]
                     }
