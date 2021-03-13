@@ -375,6 +375,50 @@
                         ]
                     }
                 ]
+            },
+            {
+                "text": "Web & Cloud Solutions",
+                "state": {
+                    "opened": false
+                },
+                "children": [
+                    {
+                        "text": "Dräger Gas Detection Connect",
+                        "state": {
+                            "opened": false
+                        },
+                        "children": [
+                            {
+                                "text": "Frontend license agreements",
+                                "a_attr": {
+                                    "href": "assets/license_agreements/GDC/GDC_frontend.pdf"
+                                },
+                                "icon": "fas fa-file-pdf"
+                            },
+                            {
+                                "text": "Backend license agreements",
+                                "a_attr": {
+                                    "href": "assets/license_agreements/GDC/GDC_backend.pdf"
+                                },
+                                "icon": "fas fa-file-pdf"
+                            },
+                            {
+                                "text": "Android app license agreements",
+                                "a_attr": {
+                                    "href": "assets/license_agreements/GDC/GDC_androidApp.pdf"
+                                },
+                                "icon": "fas fa-file-pdf"
+                            },
+                            {
+                                "text": "iOS app license agreements",
+                                "a_attr": {
+                                    "href": "assets/license_agreements/GDC/GDC_IOSApp.pdf"
+                                },
+                                "icon": "fas fa-file-pdf"
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     },
