@@ -90,11 +90,11 @@
                 "text": "Hospital Capacity Board",
                 "children": [
                     {
-                        "text": "Software Version 2021-03-18",
+                        "text": "Software Version 2021-04-21",
                         "children": [
                                 {
                                     "text": "License Agreements",
-                                    "a_attr": { "href": "assets/license_agreements/HCB/2021-03-18_DraegerHCBLicenseReport.pdf" },
+                                    "a_attr": { "href": "assets/license_agreements/HCB/2021-04-21_CodeLicenseReport.pdf" },
                                     "icon": "fas fa-file-pdf"
                                 }
                             ]
