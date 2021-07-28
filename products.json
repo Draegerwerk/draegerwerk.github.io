@@ -317,15 +317,20 @@
                         },
                         "children": [
                             {
-                                "text": "Dräger Regard® 7000",
+                                "text": "Dräger REGARD® 7000",
                                 "state": {
                                     "opened": false
                                 },
                                 "children": [
                                     {
                                         "text": "License Agreements",
-                                        "a_attr": { "href": "assets/license_agreements/REGARD7000.txt" },
-                                        "icon": "fas fa-file-alt"
+                                        "a_attr": { "href": "assets/license_agreements/REGARD7000/License%20Agreements.pdf" },
+                                        "icon": "fas fa-file-pdf"
+                                    },
+                                    {
+                                        "text": "Acknowledgment of Open Source Projects",
+                                        "a_attr": { "href": "assets/license_agreements/REGARD7000/Acknowledgement%20Open%20Source%20Software.pdf" },
+                                        "icon": "fas fa-file-pdf"
                                     },
                                     {
                                         "text": "Qt 5.6.2 sources",
