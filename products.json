@@ -90,11 +90,11 @@
                 "text": "Hospital Capacity Board",
                 "children": [
                     {
-                        "text": "Software Version 2021-08-24",
+                        "text": "Software Version",
                         "children": [
                                 {
                                     "text": "License Agreements",
-                                    "a_attr": { "href": "assets/license_agreements/HCB/2021-09-21_CodeLicenseReport.pdf" },
+                                    "a_attr": { "href": "assets/license_agreements/HCB/HCB_CodeLicenseReport.pdf" },
                                     "icon": "fas fa-file-pdf"
                                 }
                             ]
