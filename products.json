@@ -338,6 +338,29 @@
                                         "a_attr": { "href": "https://github.com/qt/qt5/tree/v5.6.2" }
                                     }
                                 ]
+                            },
+                            {
+                                "text": "Dräger REGARD® 3000",
+                                "state": {
+                                    "opened": false
+                                },
+                                "children": [
+                                    {
+                                        "text": "License Agreements",
+                                        "a_attr": { "href": "assets/license_agreements/REGARD3000/License%20Agreements%20REGARD3000.pdf" },
+                                        "icon": "fas fa-file-pdf"
+                                    },
+                                    {
+                                        "text": "License Agreements Operating System",
+                                        "a_attr": { "href": "assets/license_agreements/REGARD3000/License%20Agreements%20REGARD3000%20Operating%20System.pdf" },
+                                        "icon": "fas fa-file-pdf"
+                                    },
+                                    {
+                                        "text": "Acknowledgment of Open Source Projects Operating System",
+                                        "a_attr": { "href": "assets/license_agreements/REGARD3000/Acknowledgment%20REGARD3000%20Operating%20System.pdf" },
+                                        "icon": "fas fa-file-pdf"
+                                    }
+                                ]
                             }
                         ]
                     }
