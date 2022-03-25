@@ -340,6 +340,19 @@
                                 ]
                             },
                             {
+                                "text": "Dräger REGARD® 7000 OPC UA Server",
+                                "state": {
+                                    "opened": false
+                                },
+                                "children": [
+                                    {
+                                        "text": "License Agreements",
+                                        "a_attr": { "href": "assets/license_agreements/REGARD7000_OPC_UA/License%20Agreements.pdf" },
+                                        "icon": "fas fa-file-pdf"
+                                    }
+                                ]
+                            },
+                            {
                                 "text": "Dräger REGARD® 3000",
                                 "state": {
                                     "opened": false
