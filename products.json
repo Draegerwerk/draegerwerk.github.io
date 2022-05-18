@@ -380,33 +380,48 @@
                 ]
             },
             {
-                "text": "Portable Gas Detection",
-                "state": {
-                    "opened": false
-                },
-                "children": [
-                    {
-                        "text": "Controller",
-                        "state": {
-                            "opened": false
+               "text": "Portable Gas Detection",
+               "state": {
+                  "opened": false
+               },
+               "children": [
+                  {
+                     "text": "X-am 2800 - 5800",
+                     "state": {
+                        "opened": false
+                     },
+                     "children": [
+                        {
+                           "text": "License Agreements",
+                           "a_attr": { "href": "assets/license_agreements/X-am-2800-5800/License-Agreements.pdf" },
+                           "icon": "fas fa-file-pdf"
+                        }
+                     ]
+                  },
+                  {
+                     "text": "X-dock",
+                     "state": {
+                        "opened": false
+                     },
+                     "children": [
+                        {
+                           "text": "License Agreements",
+                           "a_attr": { "href": "assets/license_agreements/X-dock/License-Agreements_X-dock.pdf" },
+                           "icon": "fas fa-file-pdf"
                         },
-                        "children": [
-                            {
-                                "text": "X-am 2800 - 5800",
-                                "state": {
-                                    "opened": false
-                                },
-                                "children": [
-                                    {
-                                        "text": "License Agreements",
-                                        "a_attr": { "href": "assets/license_agreements/X-am-2800-5800/License-Agreements.pdf" },
-                                        "icon": "fas fa-file-pdf"
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
+                        {
+                           "text": "License Agreements OS",
+                           "a_attr": { "href": "assets/license_agreements/X-dock/License-Agreements_X-dock_OS.pdf" },
+                           "icon": "fas fa-file-pdf"
+                        },
+                        {
+                           "text": "License Acknowledgement OS",
+                           "a_attr": { "href": "assets/license_agreements/X-dock/Acknowledgement_X-dock_OS.pdf" },
+                           "icon": "fas fa-file-pdf"
+                        }
+                     ]
+                  }
+               ]
             },
             {
                 "text": "Alcohol & Drug Detection",
