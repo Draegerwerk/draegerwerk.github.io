@@ -28,7 +28,7 @@
                                                 "icon": "fas fa-file-pdf"
                                             },
                                             {
-                                                "text": "Acknowledgment of Open Source Projects",
+                                                "text": "Acknowledgement of Open Source Projects",
                                                 "a_attr": { "href": "assets/license_agreements/Atlan/1.01/9510594.pdf" },
                                                 "icon": "fas fa-file-pdf"
                                             },
@@ -69,7 +69,7 @@
                                                 "icon": "fas fa-file-pdf"
                                             },
                                             {
-                                                "text": "Acknowledgment of Open Source Projects",
+                                                "text": "Acknowledgement of Open Source Projects",
                                                 "a_attr": { "href": "assets/license_agreements/Perseus/9511237_Acknowledgment.pdf" },
                                                 "icon": "fas fa-file-pdf"
                                             },
@@ -85,6 +85,31 @@
                         ]
                     }
                 ]
+            },
+            {
+               "text": "Medical Software",
+               "children": [
+                  {
+                     "text": "Patient Data Management Systems",
+                     "children": [
+                        {
+                           "text": "Innovian Anesthesia",
+                           "children": [
+                              {
+                                 "text": "Software Version 8.0.41",
+                                 "children": [
+                                    {
+                                       "text": "License Agreements",
+                                       "a_attr": { "href": "assets/license_agreements/Innovian%20Anesthesia/Innovian_Anesthesia_AGREEMENT.pdf" },
+                                       "icon": "fas fa-file-pdf"
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
             },
             {
                 "text": "Hospital Capacity Board",
@@ -119,7 +144,7 @@
                                                 "icon": "fas fa-file-pdf"
                                             },
                                             {
-                                                "text": "Acknowledgment of Open Source Projects",
+                                                "text": "Acknowledgement of Open Source Projects",
                                                 "a_attr": { "href": "assets/license_agreements/CoCo/CC300/2.0/9511025_01_EB_Danksagung_für_9511024.pdf"},
                                                 "icon": "fas fa-file-pdf"
                                             },
@@ -159,7 +184,7 @@
                                                 "icon": "fas fa-file-pdf"
                                             },
                                             {
-                                                "text": "Acknowledgment of Open Source Projects",
+                                                "text": "Acknowledgement of Open Source Projects",
                                                 "a_attr": { "href": "assets/license_agreements/VxxxEC/1.01/9510822_Acknowledgment.pdf"},
                                                 "icon": "fas fa-file-pdf"
                                             },
@@ -229,7 +254,7 @@
                                                 "icon": "fas fa-file-pdf"
                                             },
                                             {
-                                                "text": "Acknowledgment of Open Source Projects",
+                                                "text": "Acknowledgement of Open Source Projects",
                                                 "a_attr": { "href": "assets/license_agreements/VxxxEC/Acknowledgment.pdf"},
                                                 "icon": "fas fa-file-pdf"
                                             },
@@ -328,7 +353,7 @@
                                         "icon": "fas fa-file-pdf"
                                     },
                                     {
-                                        "text": "Acknowledgment of Open Source Projects",
+                                        "text": "Acknowledgement of Open Source Projects",
                                         "a_attr": { "href": "assets/license_agreements/REGARD7000/Acknowledgement%20Open%20Source%20Software.pdf" },
                                         "icon": "fas fa-file-pdf"
                                     },
@@ -369,7 +394,7 @@
                                         "icon": "fas fa-file-pdf"
                                     },
                                     {
-                                        "text": "Acknowledgment of Open Source Projects Operating System",
+                                        "text": "Acknowledgement of Open Source Projects Operating System",
                                         "a_attr": { "href": "assets/license_agreements/REGARD3000/Acknowledgment%20REGARD3000%20Operating%20System.pdf" },
                                         "icon": "fas fa-file-pdf"
                                     }
@@ -442,14 +467,14 @@
                                 },
                                 "children": [
                                     {
-                                        "text": "Acknowledgment of Open Source Projects App",
+                                        "text": "Acknowledgement of Open Source Projects App",
                                         "a_attr": {
                                             "href": "assets/license_agreements/add/add_Mobile_Licenses.pdf"
                                         },
                                         "icon": "fas fa-file-pdf"
                                     },
                                     {
-                                        "text": "Acknowledgment of Open Source Projects Backend",
+                                        "text": "Acknowledgement of Open Source Projects Backend",
                                         "a_attr": {
                                             "href": "assets/license_agreements/add/add_Backend_Licenses.pdf"
                                         },
