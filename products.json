@@ -374,6 +374,16 @@
                                         "text": "License Agreements",
                                         "a_attr": { "href": "assets/license_agreements/REGARD7000_OPC_UA/License%20Agreements.pdf" },
                                         "icon": "fas fa-file-pdf"
+                                    },
+                                    {
+                                        "text": "License Agreements Operating System",
+                                        "a_attr": { "href": "assets/license_agreements/REGARD7000_OPC_UA/License%20Agreements%20REGARD7000%20OPC%20UA%20Server%20OS.pdf" },
+                                        "icon": "fas fa-file-pdf"
+                                    },
+                                    {
+                                        "text": "Acknowledgement of Open Source Projects Operating System",
+                                        "a_attr": { "href": "assets/license_agreements/REGARD7000_OPC_UA/Acknowledgement%20REGARD7000%20OPC%20UA%20Server%20OS.pdf" },
+                                        "icon": "fas fa-file-pdf"
                                     }
                                 ]
                             },
