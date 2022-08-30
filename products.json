@@ -129,41 +129,59 @@
             {
                 "text": "Patient Monitoring",
                 "children": [
-                    {
-                        "text": "Connectivity and Remote Access",
-                        "children": [
-                            {
-                                "text": "Connectivity Converter CC300",
-                                "children": [
-                                    {
-                                        "text": "Software Version 2.0",
-                                        "children": [
-                                            {
-                                                "text": "License Agreements",
-                                                "a_attr": { "href": "assets/license_agreements/CoCo/CC300/2.0/9511024_01_EB_Lizenzvereinbarung.pdf" },
-                                                "icon": "fas fa-file-pdf"
-                                            },
-                                            {
-                                                "text": "Acknowledgement of Open Source Projects",
-                                                "a_attr": { "href": "assets/license_agreements/CoCo/CC300/2.0/9511025_01_EB_Danksagung_für_9511024.pdf"},
-                                                "icon": "fas fa-file-pdf"
-                                            },
-                                            {
-                                                "text": "WindRiver Third Party Legal Notices",
-                                                "a_attr": { "href": "assets/license_agreements/thirdparty_notices/WindRiver/9ba710f7f604bc88ddad2745c731a61ed42607a78872703e08221cf124669af5/windriver-legal-notices.zip" },
-                                                "icon": "fas fa-file-archive"
-                                            },
-                                            {
-                                                "text": "Das U-Boot sources",
-                                                "a_attr": { "href": "https://github.com/Draegerwerk/u-boot/releases/tag/CoCo_2.0_imx6" },
-                                                "icon": "fab fa-github-square"
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ]
-                    }
+                   {
+                      "text": "Connectivity and Remote Access",
+                      "children": [
+                         {
+                            "text": "Connectivity Converter CC300",
+                            "children": [
+                               {
+                                  "text": "Software Version 2.0",
+                                  "children": [
+                                     {
+                                        "text": "License Agreements",
+                                        "a_attr": { "href": "assets/license_agreements/CoCo/CC300/2.0/9511024_01_EB_Lizenzvereinbarung.pdf" },
+                                        "icon": "fas fa-file-pdf"
+                                     },
+                                     {
+                                        "text": "Acknowledgement of Open Source Projects",
+                                        "a_attr": { "href": "assets/license_agreements/CoCo/CC300/2.0/9511025_01_EB_Danksagung_für_9511024.pdf"},
+                                        "icon": "fas fa-file-pdf"
+                                     },
+                                     {
+                                        "text": "WindRiver Third Party Legal Notices",
+                                        "a_attr": { "href": "assets/license_agreements/thirdparty_notices/WindRiver/9ba710f7f604bc88ddad2745c731a61ed42607a78872703e08221cf124669af5/windriver-legal-notices.zip" },
+                                        "icon": "fas fa-file-archive"
+                                     },
+                                     {
+                                        "text": "Das U-Boot sources",
+                                        "a_attr": { "href": "https://github.com/Draegerwerk/u-boot/releases/tag/CoCo_2.0_imx6" },
+                                        "icon": "fab fa-github-square"
+                                     }
+                                  ]
+                               }
+                            ]
+                         }
+                      ],
+                      "text": "Patient Monitors",
+                      "children": [
+                         {
+                            "text": "Infinity Gateway Suite",
+                            "children": [
+                               {
+                                  "text": "Software Version VF9.0",
+                                  "children": [
+                                     {
+                                        "text": "License Agreements",
+                                        "a_attr": { "href": "assets/license_agreements/Infinity_Gateway_Suite/9.0/Infinity%20Gateway%20Suite_AGREEMENT.pdf" },
+                                        "icon": "fas fa-file-pdf"
+                                     }
+                                  ]
+                               }
+                            ]
+                         }
+                      ]
+                   }
                 ]
             },
             {
