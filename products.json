@@ -576,6 +576,19 @@
             }
         ]
     },
+    {
+        "text": "ServiceConnect® Gateway",
+        "state": {
+            "opened": false
+        },
+        "children": [
+            {
+                "text": "License Agreements",
+                "a_attr": { "href": "assets/license_agreements/ServiceConnect_Gateway/ServiceConnect_Gateway_license_agreement_2.34.2.pdf" },
+                "icon": "fas fa-file-pdf"
+            }
+        ]
+    },
 	{
         "text": "This page",
         "state": {
