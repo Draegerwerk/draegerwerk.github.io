@@ -715,17 +715,40 @@
     ]
   },
   {
-    "text": "ServiceConnect® Gateway",
+    "text": "Service Tools",
     "state": {
       "opened": false
     },
     "children": [
       {
-        "text": "License Agreements 2.34.2",
-        "a_attr": {
-          "href": "assets/license_agreements/ServiceConnect_Gateway/ServiceConnect_Gateway_license_agreement_2.34.2.pdf"
+        "text": "ServiceConnect® Gateway",
+        "state": {
+          "opened": false
         },
-        "icon": "fas fa-file-pdf"
+        "children": [
+          {
+            "text": "License Agreements 2.34.2",
+            "a_attr": {
+              "href": "assets/license_agreements/Service%20Tools/ServiceConnect_Gateway/ServiceConnect_Gateway_license_agreement_2.34.2.pdf"
+            },
+            "icon": "fas fa-file-pdf"
+          }
+        ]
+      },
+      {
+        "text": "Network Manager",
+        "state": {
+          "opened": false
+        },
+        "children": [
+          {
+            "text": "License Agreements 1.8.0",
+            "a_attr": {
+              "href": "assets/license_agreements/Service%20Tools/Network_Manager/Network_Manager_license_agreement_2022-09-27.pdf"
+            },
+            "icon": "fas fa-file-pdf"
+          }
+        ]
       }
     ]
   },
