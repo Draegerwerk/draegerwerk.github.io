@@ -1,620 +1,768 @@
 [
-   {
-      "text": "Open Source Licenses",
-      "a_attr": { "href": "assets/license_agreements/9055455_2018_12_07.pdf" },
-      "icon": "fas fa-file-pdf"
-   },
-   {
-      "text" : "Hospital Products",
-      "state": {
-         "opened": true
-      },
-      "children" : [
-         {
-            "text": "Anesthesia devices",
-            "children" : [
-               {
-                  "text": "Anesthesia machines",
-                  "children": [
-                     {
-                        "text": "Atlan® A300/A300 XL, A350/A350 XL",
-                        "children": [
-                           {
-                              "text": "Software Version 1.01",
-                              "children": [
-                                 {
-                                    "text": "License Agreements",
-                                    "a_attr": { "href": "assets/license_agreements/Atlan/1.01/9510561_2019_08_13.pdf" },
-                                    "icon": "fas fa-file-pdf"
-                                 },
-                                 {
-                                    "text": "Acknowledgement of Open Source Projects",
-                                    "a_attr": { "href": "assets/license_agreements/Atlan/1.01/9510594.pdf" },
-                                    "icon": "fas fa-file-pdf"
-                                 },
-                                 {
-                                    "text": "WindRiver Third Party Legal Notices",
-                                    "a_attr": { "href": "assets/license_agreements/thirdparty_notices/WindRiver/a60ad9ea93d10036b263446bb98e1a57257ad914a83a97726d7959478837ef40/windriver-legal-notices.zip" },
-                                    "icon": "fas fa-file-archive"
-                                 },
-                                 {
-                                    "text": "Das U-Boot sources",
-                                    "icon": "fab fa-github-square",
-                                    "children": [
-                                       {
-                                          "text": "i.MX6",
-                                          "icon": "fab fa-github-square",
-                                          "a_attr": { "href": "https://github.com/Draegerwerk/u-boot/releases/tag/Atlan_1.01_imx6" }
-                                       },
-                                       {
-                                          "text": "Altera SoC",
-                                          "icon": "fab fa-github-square",
-                                          "a_attr": { "href": "https://github.com/Draegerwerk/u-boot/releases/tag/Atlan_1.01_altsoc" }
-                                       }
-                                    ]
-                                 }
-                              ]
-                           }
-                        ]
-                     },
-                     {
-                        "text": "Perseus® A500",
-                        "children": [
-                           {
-                              "text": "Software Version 2.03",
-                              "children": [
-                                 {
-                                    "text": "License Agreements",
-                                    "a_attr": { "href": "assets/license_agreements/Perseus/9511238_License_Agreement_2020_03_12.pdf" },
-                                    "icon": "fas fa-file-pdf"
-                                 },
-                                 {
-                                    "text": "Acknowledgement of Open Source Projects",
-                                    "a_attr": { "href": "assets/license_agreements/Perseus/9511237_Acknowledgment.pdf" },
-                                    "icon": "fas fa-file-pdf"
-                                 },
-                                 {
-                                    "text": "WindRiver Third Party Legal Notices",
-                                    "a_attr": { "href": "assets/license_agreements/thirdparty_notices/WindRiver/08b03cdb23a9366d8ab695631004167e95dc50b92642048bbc96dd3abb705649/legal-notices.zip" },
-                                    "icon": "fas fa-file-archive"
-                                 }
-                              ]
-                           }
-                        ]
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "text": "Medical Systems Solutions",
+  {
+    "text": "Open Source Licenses",
+    "a_attr": { "href": "assets/license_agreements/9055455_2018_12_07.pdf" },
+    "icon": "fas fa-file-pdf"
+  },
+  {
+    "text": "Hospital Products",
+    "state": {
+      "opened": true
+    },
+    "children": [
+      {
+        "text": "Anesthesia devices",
+        "children": [
+          {
+            "text": "Anesthesia machines",
             "children": [
-               {
-                  "text": "Clinical-Information-Systems",
-                  "children": [
-                     {
-                        "text": "Innovian Anesthesia",
-                        "children": [
-                           {
-                              "text": "Software Version 8.0.41",
-                              "children": [
-                                 {
-                                    "text": "License Agreements",
-                                    "a_attr": { "href": "assets/license_agreements/Innovian%20Anesthesia/Innovian_Anesthesia_AGREEMENT.pdf" },
-                                    "icon": "fas fa-file-pdf"
-                                 }
-                              ]
-                           }
-                        ]
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "text": "Hospital Capacity Board",
-            "children": [
-               {
-                  "text": "Software Version",
-                  "children": [
-                     {
+              {
+                "text": "Atlan® A300/A300 XL, A350/A350 XL",
+                "children": [
+                  {
+                    "text": "Software Version 1.01",
+                    "children": [
+                      {
                         "text": "License Agreements",
-                        "a_attr": { "href": "assets/license_agreements/HCB/HCB_CodeLicenseReport.pdf" },
+                        "a_attr": {
+                          "href": "assets/license_agreements/Atlan/1.01/9510561_2019_08_13.pdf"
+                        },
                         "icon": "fas fa-file-pdf"
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "text": "Patient Monitoring",
-            "children": [
-               {
-                  "text": "Connectivity and Remote Access",
-                  "children": [
-                     {
-                        "text": "Connectivity Converter CC300",
-                        "children": [
-                           {
-                              "text": "Software Version 2.0",
-                              "children": [
-                                 {
-                                    "text": "License Agreements",
-                                    "a_attr": { "href": "assets/license_agreements/CoCo/CC300/2.0/9511024_01_EB_Lizenzvereinbarung.pdf" },
-                                    "icon": "fas fa-file-pdf"
-                                 },
-                                 {
-                                    "text": "Acknowledgement of Open Source Projects",
-                                    "a_attr": { "href": "assets/license_agreements/CoCo/CC300/2.0/9511025_01_EB_Danksagung_für_9511024.pdf"},
-                                    "icon": "fas fa-file-pdf"
-                                 },
-                                 {
-                                    "text": "WindRiver Third Party Legal Notices",
-                                    "a_attr": { "href": "assets/license_agreements/thirdparty_notices/WindRiver/9ba710f7f604bc88ddad2745c731a61ed42607a78872703e08221cf124669af5/windriver-legal-notices.zip" },
-                                    "icon": "fas fa-file-archive"
-                                 },
-                                 {
-                                    "text": "Das U-Boot sources",
-                                    "a_attr": { "href": "https://github.com/Draegerwerk/u-boot/releases/tag/CoCo_2.0_imx6" },
-                                    "icon": "fab fa-github-square"
-                                 }
-                              ]
-                           }
-                        ]
-                     }
-                  ]
-               },
-               {
-                  "text": "Patient Monitors",
-                  "children": [
-                     {
-                        "text": "Infinity Gateway Suite",
-                        "children": [
-                           {
-                              "text": "Software Version VF9.0",
-                              "children": [
-                                 {
-                                    "text": "License Agreements",
-                                    "a_attr": { "href": "assets/license_agreements/Infinity_Gateway_Suite/9.0/Infinity%20Gateway%20Suite_AGREEMENT.pdf" },
-                                    "icon": "fas fa-file-pdf"
-                                 }
-                              ]
-                           }
-                        ]
-                     }
-                  ]
-               }
-            ]
-
-         },
-         {
-            "text": "Ventilation and Respiratory Monitoring",
-            "children": [
-               {
-                  "text": "Ventilators",
-                  "children": [
-                     {
-                        "text": "Evita V600, V800, Babylog VN600, VN800",
-                        "children": [
-                           {
-                              "text": "Software Version 1.01",
-                              "children": [
-                                 {
-                                    "text": "License Agreements",
-                                    "a_attr": { "href": "assets/license_agreements/VxxxEC/1.01/9510821_2019_10_02.pdf" },
-                                    "icon": "fas fa-file-pdf"
-                                 },
-                                 {
-                                    "text": "Acknowledgement of Open Source Projects",
-                                    "a_attr": { "href": "assets/license_agreements/VxxxEC/1.01/9510822_Acknowledgment.pdf"},
-                                    "icon": "fas fa-file-pdf"
-                                 },
-                                 {
-                                    "text": "WindRiver Third Party Legal Notices",
-                                    "a_attr": { "href": "assets/license_agreements/thirdparty_notices/WindRiver/a60ad9ea93d10036b263446bb98e1a57257ad914a83a97726d7959478837ef40/windriver-legal-notices.zip" },
-                                    "icon": "fas fa-file-archive"
-                                 },
-                                 {
-                                    "text": "Qt Third Party Legal Notices",
-                                    "a_attr": { "href": "assets/license_agreements/thirdparty_notices/Qt/efa51470f6a142218a7fe959fd1ba0521a0cde72979ca713fdd54a0b9876728e/OpenSource_qt_5_9_2.zip" },
-                                    "icon": "fas fa-file-archive",
-                                    "children": [
-                                       {
-                                          "text": "Public Suffix List sources",
-                                          "a_attr": { "href": "https://github.com/publicsuffix/list" },
-                                          "icon": "fab fa-github-square"
-                                       }
-                                    ]
-                                 },
-                                 {
-                                    "text": "Solvatio Third Party Legal Notices",
-                                    "a_attr": { "href": "assets/license_agreements/thirdparty_notices/Solvatio/a8509eba94f400a89e6143db63f3436f328a42c34b4b378f48971645c07ea89c/Solvatio_licences.zip" },
-                                    "icon": "fas fa-file-archive",
-                                    "children": [
-                                       {
-                                          "text": "Eclipse Jetty® sources",
-                                          "a_attr": { "href": "https://github.com/eclipse/jetty.project" },
-                                          "icon": "fab fa-github-square"
-                                       },
-                                       {
-                                          "text": "jsci sources",
-                                          "a_attr": { "href": "https://sourceforge.net/p/jsci/jsci/ci/default/tree/" },
-                                          "icon": "fas fa-code"
-                                       }
-                                    ]
-                                 },
-                                 {
-                                    "text": "aicas JamaicaVM Third Party Legal Notices",
-                                    "a_attr": { "href": "assets/license_agreements/thirdparty_notices/Jamaica/1a9c9a23540cbcf4463822d8e4a95d3beb26254bc246c4753d4f6cee273d472d/Jamaica_licenses.zip" },
-                                    "icon": "fas fa-file-archive"
-                                 },
-                                 {
-                                    "text": "Das U-Boot sources",
-                                    "icon": "fab fa-github-square",
-                                    "children": [
-                                       {
-                                          "text": "i.MX6",
-                                          "icon": "fab fa-github-square",
-                                          "a_attr": { "href": "https://github.com/Draegerwerk/u-boot/releases/tag/VxxxEC_1.01_imx6" }
-                                       },
-                                       {
-                                          "text": "Altera SoC",
-                                          "icon": "fab fa-github-square",
-                                          "a_attr": { "href": "https://github.com/Draegerwerk/u-boot/releases/tag/VxxxEC_1.01_altsoc" }
-                                       }
-                                    ]
-                                 }
-                              ]
-                           },
-                           {
-                              "text": "Software Version 1.05",
-                              "children": [
-                                 {
-                                    "text": "License Agreements",
-                                    "a_attr": { "href": "assets/license_agreements/VxxxEC/1.05/9510821_2020_03_23_final.pdf" },
-                                    "icon": "fas fa-file-pdf"
-                                 },
-                                 {
-                                    "text": "Acknowledgement of Open Source Projects",
-                                    "a_attr": { "href": "assets/license_agreements/VxxxEC/Acknowledgment.pdf"},
-                                    "icon": "fas fa-file-pdf"
-                                 },
-                                 {
-                                    "text": "WindRiver Third Party Legal Notices",
-                                    "a_attr": { "href": "assets/license_agreements/thirdparty_notices/WindRiver/9ba710f7f604bc88ddad2745c731a61ed42607a78872703e08221cf124669af5/windriver-legal-notices.zip" },
-                                    "icon": "fas fa-file-archive"
-                                 },
-                                 {
-                                    "text": "Qt Third Party Legal Notices",
-                                    "a_attr": { "href": "assets/license_agreements/thirdparty_notices/Qt/efa51470f6a142218a7fe959fd1ba0521a0cde72979ca713fdd54a0b9876728e/OpenSource_qt_5_9_2.zip" },
-                                    "icon": "fas fa-file-archive",
-                                    "children": [
-                                       {
-                                          "text": "Public Suffix List sources",
-                                          "a_attr": { "href": "https://github.com/publicsuffix/list" },
-                                          "icon": "fab fa-github-square"
-                                       }
-                                    ]
-                                 },
-                                 {
-                                    "text": "Solvatio Third Party Legal Notices",
-                                    "a_attr": { "href": "assets/license_agreements/thirdparty_notices/Solvatio/a8509eba94f400a89e6143db63f3436f328a42c34b4b378f48971645c07ea89c/Solvatio_licences.zip" },
-                                    "icon": "fas fa-file-archive",
-                                    "children": [
-                                       {
-                                          "text": "Eclipse Jetty® sources",
-                                          "a_attr": { "href": "https://github.com/eclipse/jetty.project" },
-                                          "icon": "fab fa-github-square"
-                                       },
-                                       {
-                                          "text": "jsci sources",
-                                          "a_attr": { "href": "https://sourceforge.net/p/jsci/jsci/ci/default/tree/" },
-                                          "icon": "fas fa-code"
-                                       }
-                                    ]
-                                 },
-                                 {
-                                    "text": "aicas JamaicaVM Third Party Legal Notices",
-                                    "a_attr": { "href": "assets/license_agreements/thirdparty_notices/Jamaica/1a9c9a23540cbcf4463822d8e4a95d3beb26254bc246c4753d4f6cee273d472d/Jamaica_licenses.zip" },
-                                    "icon": "fas fa-file-archive"
-                                 },
-                                 {
-                                    "text": "Das U-Boot sources",
-                                    "icon": "fab fa-github-square",
-                                    "children": [
-                                       {
-                                          "text": "i.MX6",
-                                          "icon": "fab fa-github-square",
-                                          "a_attr": { "href": "https://github.com/Draegerwerk/u-boot/releases/tag/VxxxEC_1.05_imx6" }
-                                       },
-                                       {
-                                          "text": "Altera SoC",
-                                          "icon": "fab fa-github-square",
-                                          "a_attr": { "href": "https://github.com/Draegerwerk/u-boot/releases/tag/VxxxEC_1.05_altsoc" }
-                                       }
-                                    ]
-                                 }
-                              ]
-                           }
-                        ]
-                     }
-                  ]
-               }
-            ]
-         }
-      ]
-   },
-   {
-      "text": "Safety Products",
-      "state": {
-         "opened": false
-      },
-      "children": [
-         {
-            "text": "Fixed Gas Detection",
-            "state": {
-               "opened": false
-            },
-            "children": [
-               {
-                  "text": "Controller",
-                  "state": {
-                     "opened": false
-                  },
-                  "children": [
-                     {
-                        "text": "Dräger REGARD® 7000",
-                        "state": {
-                           "opened": false
+                      },
+                      {
+                        "text": "Acknowledgement of Open Source Projects",
+                        "a_attr": {
+                          "href": "assets/license_agreements/Atlan/1.01/9510594.pdf"
                         },
-                        "children": [
-                           {
-                              "text": "License Agreements",
-                              "a_attr": { "href": "assets/license_agreements/REGARD7000/License%20Agreements.pdf" },
-                              "icon": "fas fa-file-pdf"
-                           },
-                           {
-                              "text": "Acknowledgement of Open Source Projects",
-                              "a_attr": { "href": "assets/license_agreements/REGARD7000/Acknowledgement%20Open%20Source%20Software.pdf" },
-                              "icon": "fas fa-file-pdf"
-                           },
-                           {
-                              "text": "Qt 5.6.2 sources",
-                              "icon": "fab fa-github-square",
-                              "a_attr": { "href": "https://github.com/qt/qt5/tree/v5.6.2" }
-                           }
-                        ]
-                     },
-                     {
-                        "text": "Dräger REGARD® 7000 OPC UA Server",
-                        "state": {
-                           "opened": false
+                        "icon": "fas fa-file-pdf"
+                      },
+                      {
+                        "text": "WindRiver Third Party Legal Notices",
+                        "a_attr": {
+                          "href": "assets/license_agreements/thirdparty_notices/WindRiver/a60ad9ea93d10036b263446bb98e1a57257ad914a83a97726d7959478837ef40/windriver-legal-notices.zip"
                         },
+                        "icon": "fas fa-file-archive"
+                      },
+                      {
+                        "text": "Das U-Boot sources",
+                        "icon": "fab fa-github-square",
                         "children": [
-                           {
-                              "text": "License Agreements",
-                              "a_attr": { "href": "assets/license_agreements/REGARD7000_OPC_UA/License%20Agreements.pdf" },
-                              "icon": "fas fa-file-pdf"
-                           },
-                           {
-                              "text": "License Agreements Operating System",
-                              "a_attr": { "href": "assets/license_agreements/REGARD7000_OPC_UA/License%20Agreements%20REGARD7000%20OPC%20UA%20Server%20OS.pdf" },
-                              "icon": "fas fa-file-pdf"
-                           },
-                           {
-                              "text": "Acknowledgement of Open Source Projects Operating System",
-                              "a_attr": { "href": "assets/license_agreements/REGARD7000_OPC_UA/Acknowledgement%20REGARD7000%20OPC%20UA%20Server%20OS.pdf" },
-                              "icon": "fas fa-file-pdf"
-                           }
+                          {
+                            "text": "i.MX6",
+                            "icon": "fab fa-github-square",
+                            "a_attr": {
+                              "href": "https://github.com/Draegerwerk/u-boot/releases/tag/Atlan_1.01_imx6"
+                            }
+                          },
+                          {
+                            "text": "Altera SoC",
+                            "icon": "fab fa-github-square",
+                            "a_attr": {
+                              "href": "https://github.com/Draegerwerk/u-boot/releases/tag/Atlan_1.01_altsoc"
+                            }
+                          }
                         ]
-                     },
-                     {
-                        "text": "Dräger REGARD® 3000",
-                        "state": {
-                           "opened": false
-                        },
-                        "children": [
-                           {
-                              "text": "License Agreements",
-                              "a_attr": { "href": "assets/license_agreements/REGARD3000/License%20Agreements%20REGARD3000.pdf" },
-                              "icon": "fas fa-file-pdf"
-                           },
-                           {
-                              "text": "License Agreements Operating System",
-                              "a_attr": { "href": "assets/license_agreements/REGARD3000/License%20Agreements%20REGARD3000%20Operating%20System.pdf" },
-                              "icon": "fas fa-file-pdf"
-                           },
-                           {
-                              "text": "Acknowledgement of Open Source Projects Operating System",
-                              "a_attr": { "href": "assets/license_agreements/REGARD3000/Acknowledgment%20REGARD3000%20Operating%20System.pdf" },
-                              "icon": "fas fa-file-pdf"
-                           }
-                        ]
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "text": "Portable Gas Detection",
-            "state": {
-               "opened": false
-            },
-            "children": [
-               {
-                  "text": "X-am 2800 - 5800",
-                  "state": {
-                     "opened": false
-                  },
-                  "children": [
-                     {
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "Perseus® A500",
+                "children": [
+                  {
+                    "text": "Software Version 2.03",
+                    "children": [
+                      {
                         "text": "License Agreements",
-                        "a_attr": { "href": "assets/license_agreements/X-am-2800-5800/License-Agreements.pdf" },
+                        "a_attr": {
+                          "href": "assets/license_agreements/Perseus/9511238_License_Agreement_2020_03_12.pdf"
+                        },
                         "icon": "fas fa-file-pdf"
-                     }
-                  ]
-               },
-               {
-                  "text": "X-dock",
-                  "state": {
-                     "opened": false
-                  },
-                  "children": [
-                     {
-                        "text": "License Agreements",
-                        "a_attr": { "href": "assets/license_agreements/X-dock/License-Agreements_X-dock.pdf" },
+                      },
+                      {
+                        "text": "Acknowledgement of Open Source Projects",
+                        "a_attr": {
+                          "href": "assets/license_agreements/Perseus/9511237_Acknowledgment.pdf"
+                        },
                         "icon": "fas fa-file-pdf"
-                     },
-                     {
-                        "text": "License Agreements OS",
-                        "a_attr": { "href": "assets/license_agreements/X-dock/License-Agreements_X-dock_OS.pdf" },
-                        "icon": "fas fa-file-pdf"
-                     },
-                     {
-                        "text": "License Acknowledgement OS",
-                        "a_attr": { "href": "assets/license_agreements/X-dock/Acknowledgement_X-dock_OS.pdf" },
-                        "icon": "fas fa-file-pdf"
-                     }
-                  ]
-               }
+                      },
+                      {
+                        "text": "WindRiver Third Party Legal Notices",
+                        "a_attr": {
+                          "href": "assets/license_agreements/thirdparty_notices/WindRiver/08b03cdb23a9366d8ab695631004167e95dc50b92642048bbc96dd3abb705649/legal-notices.zip"
+                        },
+                        "icon": "fas fa-file-archive"
+                      }
+                    ]
+                  }
+                ]
+              }
             ]
-         },
-         {
-            "text": "Alcohol & Drug Detection",
-            "state": {
-               "opened": false
-            },
-            "children": [
-               {
-                  "text": "Software",
-                  "state": {
-                     "opened": false
-                  },
-                  "children": [
-                     {
-                        "text": "Dräger add",
-                        "state": {
-                           "opened": false
-                        },
-                        "children": [
-                           {
-                              "text": "Acknowledgement of Open Source Projects App",
-                              "a_attr": {
-                                 "href": "assets/license_agreements/add/add_Mobile_Licenses.pdf"
-                              },
-                              "icon": "fas fa-file-pdf"
-                           },
-                           {
-                              "text": "Acknowledgement of Open Source Projects Backend",
-                              "a_attr": {
-                                 "href": "assets/license_agreements/add/add_Backend_Licenses.pdf"
-                              },
-                              "icon": "fas fa-file-pdf"
-                           }
-                        ]
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "text": "Web & Cloud Solutions",
-            "state": {
-               "opened": false
-            },
-            "children": [
-               {
-                  "text": "Dräger Gas Detection Connect",
-                  "state": {
-                     "opened": false
-                  },
-                  "children": [
-                     {
-                        "text": "Frontend license agreements",
-                        "a_attr": {
-                           "href": "assets/license_agreements/GDC/GDC_frontend.pdf"
-                        },
-                        "icon": "fas fa-file-pdf"
-                     },
-                     {
-                        "text": "Backend license agreements",
-                        "a_attr": {
-                           "href": "assets/license_agreements/GDC/GDC_backend.pdf"
-                        },
-                        "icon": "fas fa-file-pdf"
-                     },
-                     {
-                        "text": "Android app license agreements",
-                        "a_attr": {
-                           "href": "assets/license_agreements/GDC/GDC_androidApp.pdf"
-                        },
-                        "icon": "fas fa-file-pdf"
-                     },
-                     {
-                        "text": "iOS app license agreements",
-                        "a_attr": {
-                           "href": "assets/license_agreements/GDC/GDC_IOSApp.pdf"
-                        },
-                        "icon": "fas fa-file-pdf"
-                     }
-                  ]
-               }
-            ]
-         }
-      ]
-   },
-   {
-      "text": "Dräger Connect",
-      "state": {
-         "opened": false
+          }
+        ]
       },
-      "children": [
-         {
+      {
+        "text": "Medical Systems Solutions",
+        "children": [
+          {
+            "text": "Clinical-Information-Systems",
+            "children": [
+              {
+                "text": "Innovian Anesthesia",
+                "children": [
+                  {
+                    "text": "Software Version 8.0.41",
+                    "children": [
+                      {
+                        "text": "License Agreements",
+                        "a_attr": {
+                          "href": "assets/license_agreements/Innovian%20Anesthesia/Innovian_Anesthesia_AGREEMENT.pdf"
+                        },
+                        "icon": "fas fa-file-pdf"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Hospital Capacity Board",
+        "children": [
+          {
+            "text": "Software Version",
+            "children": [
+              {
+                "text": "License Agreements",
+                "a_attr": {
+                  "href": "assets/license_agreements/HCB/HCB_CodeLicenseReport.pdf"
+                },
+                "icon": "fas fa-file-pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Patient Monitoring",
+        "children": [
+          {
+            "text": "Connectivity and Remote Access",
+            "children": [
+              {
+                "text": "Connectivity Converter CC300",
+                "children": [
+                  {
+                    "text": "Software Version 2.0",
+                    "children": [
+                      {
+                        "text": "License Agreements",
+                        "a_attr": {
+                          "href": "assets/license_agreements/CoCo/CC300/2.0/9511024_01_EB_Lizenzvereinbarung.pdf"
+                        },
+                        "icon": "fas fa-file-pdf"
+                      },
+                      {
+                        "text": "Acknowledgement of Open Source Projects",
+                        "a_attr": {
+                          "href": "assets/license_agreements/CoCo/CC300/2.0/9511025_01_EB_Danksagung_für_9511024.pdf"
+                        },
+                        "icon": "fas fa-file-pdf"
+                      },
+                      {
+                        "text": "WindRiver Third Party Legal Notices",
+                        "a_attr": {
+                          "href": "assets/license_agreements/thirdparty_notices/WindRiver/9ba710f7f604bc88ddad2745c731a61ed42607a78872703e08221cf124669af5/windriver-legal-notices.zip"
+                        },
+                        "icon": "fas fa-file-archive"
+                      },
+                      {
+                        "text": "Das U-Boot sources",
+                        "a_attr": {
+                          "href": "https://github.com/Draegerwerk/u-boot/releases/tag/CoCo_2.0_imx6"
+                        },
+                        "icon": "fab fa-github-square"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Patient Monitors",
+            "children": [
+              {
+                "text": "Infinity Gateway Suite",
+                "children": [
+                  {
+                    "text": "Software Version VF9.0",
+                    "children": [
+                      {
+                        "text": "License Agreements",
+                        "a_attr": {
+                          "href": "assets/license_agreements/Infinity_Gateway_Suite/9.0/Infinity%20Gateway%20Suite_AGREEMENT.pdf"
+                        },
+                        "icon": "fas fa-file-pdf"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Ventilation and Respiratory Monitoring",
+        "children": [
+          {
+            "text": "Ventilators",
+            "children": [
+              {
+                "text": "Evita V600, V800, Babylog VN600, VN800",
+                "children": [
+                  {
+                    "text": "Software Version 1.01",
+                    "children": [
+                      {
+                        "text": "License Agreements",
+                        "a_attr": {
+                          "href": "assets/license_agreements/VxxxEC/1.01/9510821_2019_10_02.pdf"
+                        },
+                        "icon": "fas fa-file-pdf"
+                      },
+                      {
+                        "text": "Acknowledgement of Open Source Projects",
+                        "a_attr": {
+                          "href": "assets/license_agreements/VxxxEC/1.01/9510822_Acknowledgment.pdf"
+                        },
+                        "icon": "fas fa-file-pdf"
+                      },
+                      {
+                        "text": "WindRiver Third Party Legal Notices",
+                        "a_attr": {
+                          "href": "assets/license_agreements/thirdparty_notices/WindRiver/a60ad9ea93d10036b263446bb98e1a57257ad914a83a97726d7959478837ef40/windriver-legal-notices.zip"
+                        },
+                        "icon": "fas fa-file-archive"
+                      },
+                      {
+                        "text": "Qt Third Party Legal Notices",
+                        "a_attr": {
+                          "href": "assets/license_agreements/thirdparty_notices/Qt/efa51470f6a142218a7fe959fd1ba0521a0cde72979ca713fdd54a0b9876728e/OpenSource_qt_5_9_2.zip"
+                        },
+                        "icon": "fas fa-file-archive",
+                        "children": [
+                          {
+                            "text": "Public Suffix List sources",
+                            "a_attr": {
+                              "href": "https://github.com/publicsuffix/list"
+                            },
+                            "icon": "fab fa-github-square"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Solvatio Third Party Legal Notices",
+                        "a_attr": {
+                          "href": "assets/license_agreements/thirdparty_notices/Solvatio/a8509eba94f400a89e6143db63f3436f328a42c34b4b378f48971645c07ea89c/Solvatio_licences.zip"
+                        },
+                        "icon": "fas fa-file-archive",
+                        "children": [
+                          {
+                            "text": "Eclipse Jetty® sources",
+                            "a_attr": {
+                              "href": "https://github.com/eclipse/jetty.project"
+                            },
+                            "icon": "fab fa-github-square"
+                          },
+                          {
+                            "text": "jsci sources",
+                            "a_attr": {
+                              "href": "https://sourceforge.net/p/jsci/jsci/ci/default/tree/"
+                            },
+                            "icon": "fas fa-code"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "aicas JamaicaVM Third Party Legal Notices",
+                        "a_attr": {
+                          "href": "assets/license_agreements/thirdparty_notices/Jamaica/1a9c9a23540cbcf4463822d8e4a95d3beb26254bc246c4753d4f6cee273d472d/Jamaica_licenses.zip"
+                        },
+                        "icon": "fas fa-file-archive"
+                      },
+                      {
+                        "text": "Das U-Boot sources",
+                        "icon": "fab fa-github-square",
+                        "children": [
+                          {
+                            "text": "i.MX6",
+                            "icon": "fab fa-github-square",
+                            "a_attr": {
+                              "href": "https://github.com/Draegerwerk/u-boot/releases/tag/VxxxEC_1.01_imx6"
+                            }
+                          },
+                          {
+                            "text": "Altera SoC",
+                            "icon": "fab fa-github-square",
+                            "a_attr": {
+                              "href": "https://github.com/Draegerwerk/u-boot/releases/tag/VxxxEC_1.01_altsoc"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Software Version 1.05",
+                    "children": [
+                      {
+                        "text": "License Agreements",
+                        "a_attr": {
+                          "href": "assets/license_agreements/VxxxEC/1.05/9510821_2020_03_23_final.pdf"
+                        },
+                        "icon": "fas fa-file-pdf"
+                      },
+                      {
+                        "text": "Acknowledgement of Open Source Projects",
+                        "a_attr": {
+                          "href": "assets/license_agreements/VxxxEC/Acknowledgment.pdf"
+                        },
+                        "icon": "fas fa-file-pdf"
+                      },
+                      {
+                        "text": "WindRiver Third Party Legal Notices",
+                        "a_attr": {
+                          "href": "assets/license_agreements/thirdparty_notices/WindRiver/9ba710f7f604bc88ddad2745c731a61ed42607a78872703e08221cf124669af5/windriver-legal-notices.zip"
+                        },
+                        "icon": "fas fa-file-archive"
+                      },
+                      {
+                        "text": "Qt Third Party Legal Notices",
+                        "a_attr": {
+                          "href": "assets/license_agreements/thirdparty_notices/Qt/efa51470f6a142218a7fe959fd1ba0521a0cde72979ca713fdd54a0b9876728e/OpenSource_qt_5_9_2.zip"
+                        },
+                        "icon": "fas fa-file-archive",
+                        "children": [
+                          {
+                            "text": "Public Suffix List sources",
+                            "a_attr": {
+                              "href": "https://github.com/publicsuffix/list"
+                            },
+                            "icon": "fab fa-github-square"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Solvatio Third Party Legal Notices",
+                        "a_attr": {
+                          "href": "assets/license_agreements/thirdparty_notices/Solvatio/a8509eba94f400a89e6143db63f3436f328a42c34b4b378f48971645c07ea89c/Solvatio_licences.zip"
+                        },
+                        "icon": "fas fa-file-archive",
+                        "children": [
+                          {
+                            "text": "Eclipse Jetty® sources",
+                            "a_attr": {
+                              "href": "https://github.com/eclipse/jetty.project"
+                            },
+                            "icon": "fab fa-github-square"
+                          },
+                          {
+                            "text": "jsci sources",
+                            "a_attr": {
+                              "href": "https://sourceforge.net/p/jsci/jsci/ci/default/tree/"
+                            },
+                            "icon": "fas fa-code"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "aicas JamaicaVM Third Party Legal Notices",
+                        "a_attr": {
+                          "href": "assets/license_agreements/thirdparty_notices/Jamaica/1a9c9a23540cbcf4463822d8e4a95d3beb26254bc246c4753d4f6cee273d472d/Jamaica_licenses.zip"
+                        },
+                        "icon": "fas fa-file-archive"
+                      },
+                      {
+                        "text": "Das U-Boot sources",
+                        "icon": "fab fa-github-square",
+                        "children": [
+                          {
+                            "text": "i.MX6",
+                            "icon": "fab fa-github-square",
+                            "a_attr": {
+                              "href": "https://github.com/Draegerwerk/u-boot/releases/tag/VxxxEC_1.05_imx6"
+                            }
+                          },
+                          {
+                            "text": "Altera SoC",
+                            "icon": "fab fa-github-square",
+                            "a_attr": {
+                              "href": "https://github.com/Draegerwerk/u-boot/releases/tag/VxxxEC_1.05_altsoc"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Safety Products",
+    "state": {
+      "opened": false
+    },
+    "children": [
+      {
+        "text": "Fixed Gas Detection",
+        "state": {
+          "opened": false
+        },
+        "children": [
+          {
+            "text": "Controller",
+            "state": {
+              "opened": false
+            },
+            "children": [
+              {
+                "text": "Dräger REGARD® 7000",
+                "state": {
+                  "opened": false
+                },
+                "children": [
+                  {
+                    "text": "License Agreements",
+                    "a_attr": {
+                      "href": "assets/license_agreements/REGARD7000/License%20Agreements.pdf"
+                    },
+                    "icon": "fas fa-file-pdf"
+                  },
+                  {
+                    "text": "Acknowledgement of Open Source Projects",
+                    "a_attr": {
+                      "href": "assets/license_agreements/REGARD7000/Acknowledgement%20Open%20Source%20Software.pdf"
+                    },
+                    "icon": "fas fa-file-pdf"
+                  },
+                  {
+                    "text": "Qt 5.6.2 sources",
+                    "icon": "fab fa-github-square",
+                    "a_attr": {
+                      "href": "https://github.com/qt/qt5/tree/v5.6.2"
+                    }
+                  }
+                ]
+              },
+              {
+                "text": "Dräger REGARD® 7000 OPC UA Server",
+                "state": {
+                  "opened": false
+                },
+                "children": [
+                  {
+                    "text": "License Agreements",
+                    "a_attr": {
+                      "href": "assets/license_agreements/REGARD7000_OPC_UA/License%20Agreements.pdf"
+                    },
+                    "icon": "fas fa-file-pdf"
+                  },
+                  {
+                    "text": "License Agreements Operating System",
+                    "a_attr": {
+                      "href": "assets/license_agreements/REGARD7000_OPC_UA/License%20Agreements%20REGARD7000%20OPC%20UA%20Server%20OS.pdf"
+                    },
+                    "icon": "fas fa-file-pdf"
+                  },
+                  {
+                    "text": "Acknowledgement of Open Source Projects Operating System",
+                    "a_attr": {
+                      "href": "assets/license_agreements/REGARD7000_OPC_UA/Acknowledgement%20REGARD7000%20OPC%20UA%20Server%20OS.pdf"
+                    },
+                    "icon": "fas fa-file-pdf"
+                  }
+                ]
+              },
+              {
+                "text": "Dräger REGARD® 3000",
+                "state": {
+                  "opened": false
+                },
+                "children": [
+                  {
+                    "text": "License Agreements",
+                    "a_attr": {
+                      "href": "assets/license_agreements/REGARD3000/License%20Agreements%20REGARD3000.pdf"
+                    },
+                    "icon": "fas fa-file-pdf"
+                  },
+                  {
+                    "text": "License Agreements Operating System",
+                    "a_attr": {
+                      "href": "assets/license_agreements/REGARD3000/License%20Agreements%20REGARD3000%20Operating%20System.pdf"
+                    },
+                    "icon": "fas fa-file-pdf"
+                  },
+                  {
+                    "text": "Acknowledgement of Open Source Projects Operating System",
+                    "a_attr": {
+                      "href": "assets/license_agreements/REGARD3000/Acknowledgment%20REGARD3000%20Operating%20System.pdf"
+                    },
+                    "icon": "fas fa-file-pdf"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Portable Gas Detection",
+        "state": {
+          "opened": false
+        },
+        "children": [
+          {
+            "text": "X-am 2800 - 5800",
+            "state": {
+              "opened": false
+            },
+            "children": [
+              {
+                "text": "License Agreements",
+                "a_attr": {
+                  "href": "assets/license_agreements/X-am-2800-5800/License-Agreements.pdf"
+                },
+                "icon": "fas fa-file-pdf"
+              }
+            ]
+          },
+          {
+            "text": "X-dock",
+            "state": {
+              "opened": false
+            },
+            "children": [
+              {
+                "text": "License Agreements",
+                "a_attr": {
+                  "href": "assets/license_agreements/X-dock/License-Agreements_X-dock.pdf"
+                },
+                "icon": "fas fa-file-pdf"
+              },
+              {
+                "text": "License Agreements OS",
+                "a_attr": {
+                  "href": "assets/license_agreements/X-dock/License-Agreements_X-dock_OS.pdf"
+                },
+                "icon": "fas fa-file-pdf"
+              },
+              {
+                "text": "License Acknowledgement OS",
+                "a_attr": {
+                  "href": "assets/license_agreements/X-dock/Acknowledgement_X-dock_OS.pdf"
+                },
+                "icon": "fas fa-file-pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Alcohol & Drug Detection",
+        "state": {
+          "opened": false
+        },
+        "children": [
+          {
+            "text": "Software",
+            "state": {
+              "opened": false
+            },
+            "children": [
+              {
+                "text": "Dräger add",
+                "state": {
+                  "opened": false
+                },
+                "children": [
+                  {
+                    "text": "Acknowledgement of Open Source Projects App",
+                    "a_attr": {
+                      "href": "assets/license_agreements/add/add_Mobile_Licenses.pdf"
+                    },
+                    "icon": "fas fa-file-pdf"
+                  },
+                  {
+                    "text": "Acknowledgement of Open Source Projects Backend",
+                    "a_attr": {
+                      "href": "assets/license_agreements/add/add_Backend_Licenses.pdf"
+                    },
+                    "icon": "fas fa-file-pdf"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Web & Cloud Solutions",
+        "state": {
+          "opened": false
+        },
+        "children": [
+          {
+            "text": "Dräger Gas Detection Connect",
+            "state": {
+              "opened": false
+            },
+            "children": [
+              {
+                "text": "Frontend license agreements",
+                "a_attr": {
+                  "href": "assets/license_agreements/GDC/GDC_frontend.pdf"
+                },
+                "icon": "fas fa-file-pdf"
+              },
+              {
+                "text": "Backend license agreements",
+                "a_attr": {
+                  "href": "assets/license_agreements/GDC/GDC_backend.pdf"
+                },
+                "icon": "fas fa-file-pdf"
+              },
+              {
+                "text": "Android app license agreements",
+                "a_attr": {
+                  "href": "assets/license_agreements/GDC/GDC_androidApp.pdf"
+                },
+                "icon": "fas fa-file-pdf"
+              },
+              {
+                "text": "iOS app license agreements",
+                "a_attr": {
+                  "href": "assets/license_agreements/GDC/GDC_IOSApp.pdf"
+                },
+                "icon": "fas fa-file-pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Dräger Connect",
+    "state": {
+      "opened": false
+    },
+    "children": [
+      {
+        "text": "Alarm History Analytics",
+        "children": [
+          {
             "text": "License Agreements",
-            "a_attr": { "href": "assets/license_agreements/Dräger%20Connect/9511239_2020_06_11.pdf" },
+            "a_attr": {
+              "href": "assets/license_agreements/Dräger%20Connect/Alarm%20History%20Analytics/Alarm%20History%20Analytics_v2.0.11_license_report.pdf"
+            },
             "icon": "fas fa-file-pdf"
-         }
-      ]
-   },
-   {
-      "text": "ServiceConnect® Gateway",
-      "state": {
-         "opened": false
+          }
+        ]
       },
-      "children": [
-         {
-            "text": "License Agreements 2.34.2",
-            "a_attr": { "href": "assets/license_agreements/ServiceConnect_Gateway/ServiceConnect_Gateway_license_agreement_2.34.2.pdf" },
+      {
+        "text": "Gas Consumption Analytics",
+        "children": [
+          {
+            "text": "License Agreements",
+            "a_attr": {
+              "href": "assets/license_agreements/Dräger%20Connect/Gas%20Consumption%20Analytics/Gas%20Consumption%20Analytics_v1.2.8_license_report.pdf"
+            },
             "icon": "fas fa-file-pdf"
-         }
-      ]
-   },
-   {
-      "text": "This page",
-      "state": {
-         "opened": false
+          }
+        ]
       },
-      "children": [
-         {
-            "text": "jQuery v3.4.1 (MIT License)",
-            "icon": "fab fa-github-square",
-            "a_attr": { "href": "https://github.com/jquery/jquery/blob/3.4.1/LICENSE.txt" }
-         },
-         {
-            "text": "Twitter Bootstrap v4.4.0 (MIT License)",
-            "icon": "fab fa-github-square",
-            "a_attr": { "href": "https://github.com/twbs/bootstrap/blob/v4.4.0/LICENSE" }
-         },
-         {
-            "text": "FontAwesome v5.13.0 (SIL OFL 1.1, CC BY 4.0 and MIT License)",
-            "icon": "fab fa-github-square",
-            "a_attr": { "href": "https://github.com/FortAwesome/Font-Awesome/blob/5.13.0/LICENSE.txt" }
-         },
-         {
-            "text": "jsTree v3.3.9 (MIT License)",
-            "icon": "fab fa-github-square",
-            "a_attr": { "href": "https://github.com/vakata/jstree/blob/3.3.9/LICENSE-MIT" }
-         }
-      ]
-   }
+      {
+        "text": "OR Companion & Self Test Tracker",
+        "children": [
+          {
+            "text": "License Agreements",
+            "a_attr": {
+              "href": "assets/license_agreements/Dräger%20Connect/OR%20Companion%20&%20Self%20Test%20Tracker/Operating%20Room%20Companion_v1.1.2_license_agreement.pdf"
+            },
+
+            "icon": "fas fa-file-pdf"
+          }
+        ]
+      },
+      {
+        "text": "License Agreements",
+        "a_attr": {
+          "href": "assets/license_agreements/Dräger%20Connect/9511239_2020_06_11.pdf"
+        },
+        "icon": "fas fa-file-pdf"
+      }
+    ]
+  },
+  {
+    "text": "ServiceConnect® Gateway",
+    "state": {
+      "opened": false
+    },
+    "children": [
+      {
+        "text": "License Agreements 2.34.2",
+        "a_attr": {
+          "href": "assets/license_agreements/ServiceConnect_Gateway/ServiceConnect_Gateway_license_agreement_2.34.2.pdf"
+        },
+        "icon": "fas fa-file-pdf"
+      }
+    ]
+  },
+  {
+    "text": "This page",
+    "state": {
+      "opened": false
+    },
+    "children": [
+      {
+        "text": "jQuery v3.4.1 (MIT License)",
+        "icon": "fab fa-github-square",
+        "a_attr": {
+          "href": "https://github.com/jquery/jquery/blob/3.4.1/LICENSE.txt"
+        }
+      },
+      {
+        "text": "Twitter Bootstrap v4.4.0 (MIT License)",
+        "icon": "fab fa-github-square",
+        "a_attr": {
+          "href": "https://github.com/twbs/bootstrap/blob/v4.4.0/LICENSE"
+        }
+      },
+      {
+        "text": "FontAwesome v5.13.0 (SIL OFL 1.1, CC BY 4.0 and MIT License)",
+        "icon": "fab fa-github-square",
+        "a_attr": {
+          "href": "https://github.com/FortAwesome/Font-Awesome/blob/5.13.0/LICENSE.txt"
+        }
+      },
+      {
+        "text": "jsTree v3.3.9 (MIT License)",
+        "icon": "fab fa-github-square",
+        "a_attr": {
+          "href": "https://github.com/vakata/jstree/blob/3.3.9/LICENSE-MIT"
+        }
+      }
+    ]
+  }
 ]
