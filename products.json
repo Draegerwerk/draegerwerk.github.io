@@ -124,6 +124,23 @@
                     ]
                   }
                 ]
+              },
+              {
+                "text": "Integrated Care Manager",
+                "children": [
+                  {
+                    "text": "Software Version ≤ 11.0",
+                    "children": [
+                      {
+                        "text": "License Agreements",
+                        "a_attr": {
+                          "href": "assets/license_agreements/Integrated_Care_Manager/Integrated_Care_Manager_AGREEMENT.pdf"
+                        },
+                        "icon": "fas fa-file-pdf"
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           }
