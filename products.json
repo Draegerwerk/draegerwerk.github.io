@@ -147,6 +147,30 @@
         ]
       },
       {
+        "text": "Dräger Discover",
+        "children": [
+          {
+            "text": "Software Version",
+            "children": [
+              {
+                "text": "Firmware License Agreements",
+                "a_attr": {
+                  "href": "/assets/license_agreements/Medical%20Products/Dräger%20Discover/Discover%20Firmware%202022-09-14%20Licences.pdf"
+                },
+                "icon": "fas fa-file-pdf"
+              },
+              {
+                "text": "Service License Agreements",
+                "a_attr": {
+                  "href": "/assets/license_agreements/Medical%20Products/Dräger%20Discover/Discover%20WebApp%202022-10-07%20Licences.pdf"
+                },
+                "icon": "fas fa-file-pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "text": "Hospital Capacity Board",
         "children": [
           {
