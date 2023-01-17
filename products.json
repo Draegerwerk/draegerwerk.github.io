@@ -1,7 +1,9 @@
 [
   {
     "text": "Open Source Licenses",
-    "a_attr": { "href": "assets/license_agreements/9055455_2018_12_07.pdf" },
+    "a_attr": {
+      "href": "assets/license_agreements/9055455_2018_12_07.pdf"
+    },
     "icon": "fas fa-file-pdf"
   },
   {
@@ -722,6 +724,30 @@
         ]
       },
       {
+        "text": "Device Utilization Analytics",
+        "children": [
+          {
+            "text": "License Agreements",
+            "a_attr": {
+              "href": "assets/license_agreements/Dräger%20Connect/Device%20Utilization%20Analytics/License%20Agreements%20Device%20Utilization%20Analytics.pdf"
+            },
+            "icon": "fas fa-file-pdf"
+          }
+        ]
+      },
+      {
+        "text": "Dräger Connect Portal",
+        "children": [
+          {
+            "text": "License Agreements",
+            "a_attr": {
+              "href": "assets/license_agreements/Dräger%20Connect/Dräger%20Connect%20Portal/License%20Agreements%20DC%20Portal.pdf"
+            },
+            "icon": "fas fa-file-pdf"
+          }
+        ]
+      },
+      {
         "text": "Gas Consumption Analytics",
         "children": [
           {
@@ -741,17 +767,45 @@
             "a_attr": {
               "href": "assets/license_agreements/Dräger%20Connect/OR%20Companion%20&%20Self%20Test%20Tracker/Operating%20Room%20Companion_v1.1.34_license-report.pdf"
             },
-
             "icon": "fas fa-file-pdf"
           }
         ]
       },
       {
-        "text": "License Agreements",
-        "a_attr": {
-          "href": "assets/license_agreements/Dräger%20Connect/9511239_2020_06_11.pdf"
-        },
-        "icon": "fas fa-file-pdf"
+        "text": "Service Reports",
+        "children": [
+          {
+            "text": "License Agreements",
+            "a_attr": {
+              "href": "assets/license_agreements/Dräger%20Connect/Service%20Reports/License%20Agreements%20Service%20Reports.pdf"
+            },
+            "icon": "fas fa-file-pdf"
+          }
+        ]
+      },
+      {
+        "text": "Service Request",
+        "children": [
+          {
+            "text": "License Agreements",
+            "a_attr": {
+              "href": "assets/license_agreements/Dräger%20Connect/Service%20Request/License%20Agreements%20Service%20Request.pdf"
+            },
+            "icon": "fas fa-file-pdf"
+          }
+        ]
+      },
+      {
+        "text": "Service Tracking",
+        "children": [
+          {
+            "text": "License Agreements",
+            "a_attr": {
+              "href": "assets/license_agreements/Dräger%20Connect/Service%20Tracking/License%20Agreements%20Service%20Tracking.pdf"
+            },
+            "icon": "fas fa-file-pdf"
+          }
+        ]
       }
     ]
   },
