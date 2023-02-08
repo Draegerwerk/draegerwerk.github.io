@@ -831,6 +831,21 @@
         ]
       },
       {
+        "text": "ServiceConnect® Config",
+        "state": {
+          "opened": false
+        },
+        "children": [
+          {
+            "text": "License Agreements 1.10.0",
+            "a_attr": {
+              "href": "assets/license_agreements/Service%20Tools/ServiceConnect_Config/ServiceConnect_Config_license_agreement_2023-02-02.pdf"
+            },
+            "icon": "fas fa-file-pdf"
+          }
+        ]
+      },
+      {
         "text": "Network Manager",
         "state": {
           "opened": false
