@@ -822,9 +822,9 @@
         },
         "children": [
           {
-            "text": "License Agreements 2.34.2",
+            "text": "License Agreements",
             "a_attr": {
-              "href": "assets/license_agreements/Service%20Tools/ServiceConnect_Gateway/ServiceConnect_Gateway_license_agreement_2.34.2.pdf"
+              "href": "assets/license_agreements/Service%20Tools/ServiceConnect_Gateway/ServiceConnect_Gateway_license_agreement.pdf"
             },
             "icon": "fas fa-file-pdf"
           }
