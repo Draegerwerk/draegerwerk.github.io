@@ -700,6 +700,28 @@
                 "icon": "fas fa-file-pdf"
               }
             ]
+          },
+          {
+            "text": "Rental & Safety Services",
+            "state": {
+              "opened": false
+            },
+            "children": [
+              {
+                "text": "Frontend license agreements",
+                "a_attr": {
+                  "href": "assets/license_agreements/Safety Products/Web_Cloud_solutions/Rental_Safety_Services/RR30_Frontend.pdf"
+                },
+                "icon": "fas fa-file-pdf"
+              },
+              {
+                "text": "Backend license agreements",
+                "a_attr": {
+                  "href": "assets/license_agreements/Safety Products/Web_Cloud_solutions/Rental_Safety_Services/RR30_Backend.pdf"
+                },
+                "icon": "fas fa-file-pdf"
+              }
+            ]
           }
         ]
       }
