@@ -1,10 +1,10 @@
 [
   {
     "text": "Open Source Licenses",
+    "icon": "fas fa-file-pdf",
     "a_attr": {
-      "href": "assets/license_agreements/9055455_2018_12_07.pdf"
-    },
-    "icon": "fas fa-file-pdf"
+      "href": "assets/licenses/9055455_2018_12_07.pdf"
+    }
   },
   {
     "text": "Hospital Products",
@@ -13,35 +13,35 @@
     },
     "children": [
       {
-        "text": "Anesthesia devices",
+        "text": "Anesthesiology Applications",
         "children": [
           {
-            "text": "Anesthesia machines",
+            "text": "Anesthesia machine",
             "children": [
               {
                 "text": "Atlan® A300/A300 XL, A350/A350 XL",
                 "children": [
                   {
-                    "text": "Software Version 1.01",
+                    "text": "1.01",
                     "children": [
                       {
                         "text": "License Agreements",
+                        "icon": "fas fa-file-pdf",
                         "a_attr": {
-                          "href": "assets/license_agreements/Atlan/1.01/9510561_2019_08_13.pdf"
-                        },
-                        "icon": "fas fa-file-pdf"
+                          "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Anesthesia%20machine/Atlan%20A300,%20A300%20XL,%20A350,%20Ae50%20XL/1.01/9510561_2019_08_13.pdf"
+                        }
                       },
                       {
                         "text": "Acknowledgement of Open Source Projects",
+                        "icon": "fas fa-file-pdf",
                         "a_attr": {
-                          "href": "assets/license_agreements/Atlan/1.01/9510594.pdf"
-                        },
-                        "icon": "fas fa-file-pdf"
+                          "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Anesthesia%20machine/Atlan%20A300,%20A300%20XL,%20A350,%20Ae50%20XL/1.01/9510594.pdf"
+                        }
                       },
                       {
                         "text": "WindRiver Third Party Legal Notices",
                         "a_attr": {
-                          "href": "assets/license_agreements/thirdparty_notices/WindRiver/a60ad9ea93d10036b263446bb98e1a57257ad914a83a97726d7959478837ef40/windriver-legal-notices.zip"
+                          "href": "assets/licenses/thirdparty_notices/WindRiver/a60ad9ea93d10036b263446bb98e1a57257ad914a83a97726d7959478837ef40/windriver-legal-notices.zip"
                         },
                         "icon": "fas fa-file-archive"
                       },
@@ -73,26 +73,26 @@
                 "text": "Perseus® A500",
                 "children": [
                   {
-                    "text": "Software Version 2.03",
+                    "text": "2.03",
                     "children": [
                       {
                         "text": "License Agreements",
+                        "icon": "fas fa-file-pdf",
                         "a_attr": {
-                          "href": "assets/license_agreements/Perseus/9511238_License_Agreement_2020_03_12.pdf"
-                        },
-                        "icon": "fas fa-file-pdf"
+                          "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Anesthesia%20machine/Perseus%20A500/2.03/9511238_License_Agreement_2020_03_12.pdf"
+                        }
                       },
                       {
                         "text": "Acknowledgement of Open Source Projects",
+                        "icon": "fas fa-file-pdf",
                         "a_attr": {
-                          "href": "assets/license_agreements/Perseus/9511237_Acknowledgment.pdf"
-                        },
-                        "icon": "fas fa-file-pdf"
+                          "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Anesthesia%20machine/Perseus%20A500/2.03/9511237_Acknowledgment.pdf"
+                        }
                       },
                       {
                         "text": "WindRiver Third Party Legal Notices",
                         "a_attr": {
-                          "href": "assets/license_agreements/thirdparty_notices/WindRiver/08b03cdb23a9366d8ab695631004167e95dc50b92642048bbc96dd3abb705649/legal-notices.zip"
+                          "href": "assets/licenses/thirdparty_notices/WindRiver/08b03cdb23a9366d8ab695631004167e95dc50b92642048bbc96dd3abb705649/windriver-legal-notices.zip"
                         },
                         "icon": "fas fa-file-archive"
                       }
@@ -105,25 +105,37 @@
         ]
       },
       {
-        "text": "Medical Systems Solutions",
+        "text": "Monitoring & IT Applications",
         "children": [
           {
-            "text": "Clinical-Information-Systems",
+            "text": "Information Systems",
             "children": [
+              {
+                "text": "Infinity Gateway Suite",
+                "children": [
+                  {
+                    "text": "9.0",
+                    "children": [
+                      {
+                        "text": "License Agreements",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                          "href": "assets/licenses/Hospital%20Products/Monitoring%20&%20IT%20Applications/Information%20Systems/Infinity%20Gateway%20Suite/9.0/Infinity%20Gateway%20Suite_AGREEMENT.pdf"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
               {
                 "text": "Innovian Anesthesia",
                 "children": [
                   {
-                    "text": "Software Version 8.0.41",
-                    "children": [
-                      {
-                        "text": "License Agreements",
-                        "a_attr": {
-                          "href": "assets/license_agreements/Innovian%20Anesthesia/Innovian_Anesthesia_AGREEMENT.pdf"
-                        },
-                        "icon": "fas fa-file-pdf"
-                      }
-                    ]
+                    "text": "License Agreements",
+                    "icon": "fas fa-file-pdf",
+                    "a_attr": {
+                      "href": "assets/licenses/Hospital%20Products/Monitoring%20&%20IT%20Applications/Information%20Systems/Innovian%20Anesthesia/Innovian_Anesthesia_AGREEMENT.pdf"
+                    }
                   }
                 ]
               },
@@ -131,16 +143,11 @@
                 "text": "Integrated Care Manager",
                 "children": [
                   {
-                    "text": "Software Version ≤ 11.0",
-                    "children": [
-                      {
-                        "text": "License Agreements",
-                        "a_attr": {
-                          "href": "assets/license_agreements/Integrated_Care_Manager/Integrated_Care_Manager_AGREEMENT.pdf"
-                        },
-                        "icon": "fas fa-file-pdf"
-                      }
-                    ]
+                    "text": "License Agreements Version ≤ 11.0",
+                    "icon": "fas fa-file-pdf",
+                    "a_attr": {
+                      "href": "assets/licenses/Hospital%20Products/Monitoring%20&%20IT%20Applications/Information%20Systems/Integrated%20Care%20Manager/Integrated_Care_Manager_AGREEMENT.pdf"
+                    }
                   }
                 ]
               }
@@ -149,153 +156,42 @@
         ]
       },
       {
-        "text": "Dräger Discover",
+        "text": "Respiratory Care Applications",
         "children": [
           {
-            "text": "Software Version",
-            "children": [
-              {
-                "text": "Firmware License Agreements",
-                "a_attr": {
-                  "href": "/assets/license_agreements/Medical%20Products/Dräger%20Discover/Discover%20Firmware%202022-09-14%20Licences.pdf"
-                },
-                "icon": "fas fa-file-pdf"
-              },
-              {
-                "text": "Service License Agreements",
-                "a_attr": {
-                  "href": "/assets/license_agreements/Medical%20Products/Dräger%20Discover/Discover%20WebApp%202022-11-29%20Licences.pdf"
-                },
-                "icon": "fas fa-file-pdf"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "text": "Hospital Capacity Board",
-        "children": [
-          {
-            "text": "Software Version",
-            "children": [
-              {
-                "text": "License Agreements",
-                "a_attr": {
-                  "href": "assets/license_agreements/HCB/HCB_CodeLicenseReport.pdf"
-                },
-                "icon": "fas fa-file-pdf"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "text": "Patient Monitoring",
-        "children": [
-          {
-            "text": "Connectivity and Remote Access",
-            "children": [
-              {
-                "text": "Connectivity Converter CC300",
-                "children": [
-                  {
-                    "text": "Software Version 2.0",
-                    "children": [
-                      {
-                        "text": "License Agreements",
-                        "a_attr": {
-                          "href": "assets/license_agreements/CoCo/CC300/2.0/9511024_01_EB_Lizenzvereinbarung.pdf"
-                        },
-                        "icon": "fas fa-file-pdf"
-                      },
-                      {
-                        "text": "Acknowledgement of Open Source Projects",
-                        "a_attr": {
-                          "href": "assets/license_agreements/CoCo/CC300/2.0/9511025_01_EB_Danksagung_für_9511024.pdf"
-                        },
-                        "icon": "fas fa-file-pdf"
-                      },
-                      {
-                        "text": "WindRiver Third Party Legal Notices",
-                        "a_attr": {
-                          "href": "assets/license_agreements/thirdparty_notices/WindRiver/9ba710f7f604bc88ddad2745c731a61ed42607a78872703e08221cf124669af5/windriver-legal-notices.zip"
-                        },
-                        "icon": "fas fa-file-archive"
-                      },
-                      {
-                        "text": "Das U-Boot sources",
-                        "a_attr": {
-                          "href": "https://github.com/Draegerwerk/u-boot/releases/tag/CoCo_2.0_imx6"
-                        },
-                        "icon": "fab fa-github-square"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "text": "Patient Monitors",
-            "children": [
-              {
-                "text": "Infinity Gateway Suite",
-                "children": [
-                  {
-                    "text": "Software Version VF9.0",
-                    "children": [
-                      {
-                        "text": "License Agreements",
-                        "a_attr": {
-                          "href": "assets/license_agreements/Infinity_Gateway_Suite/9.0/Infinity%20Gateway%20Suite_AGREEMENT.pdf"
-                        },
-                        "icon": "fas fa-file-pdf"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "text": "Ventilation and Respiratory Monitoring",
-        "children": [
-          {
-            "text": "Ventilators",
+            "text": "Ventilation devices",
             "children": [
               {
                 "text": "Evita V600, V800, Babylog VN600, VN800",
                 "children": [
                   {
-                    "text": "Software Version 1.01",
+                    "text": "1.01",
                     "children": [
                       {
                         "text": "License Agreements",
+                        "icon": "fas fa-file-pdf",
                         "a_attr": {
-                          "href": "assets/license_agreements/VxxxEC/1.01/9510821_2019_10_02.pdf"
-                        },
-                        "icon": "fas fa-file-pdf"
+                          "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/1.01/9510821_2019_10_02.pdf"
+                        }
                       },
                       {
                         "text": "Acknowledgement of Open Source Projects",
+                        "icon": "fas fa-file-pdf",
                         "a_attr": {
-                          "href": "assets/license_agreements/VxxxEC/1.01/9510822_Acknowledgment.pdf"
-                        },
-                        "icon": "fas fa-file-pdf"
+                          "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/1.01/9510822_Acknowledgment.pdf"
+                        }
                       },
                       {
                         "text": "WindRiver Third Party Legal Notices",
                         "a_attr": {
-                          "href": "assets/license_agreements/thirdparty_notices/WindRiver/a60ad9ea93d10036b263446bb98e1a57257ad914a83a97726d7959478837ef40/windriver-legal-notices.zip"
+                          "href": "assets/licenses/thirdparty_notices/WindRiver/a60ad9ea93d10036b263446bb98e1a57257ad914a83a97726d7959478837ef40/windriver-legal-notices.zip"
                         },
                         "icon": "fas fa-file-archive"
                       },
                       {
                         "text": "Qt Third Party Legal Notices",
                         "a_attr": {
-                          "href": "assets/license_agreements/thirdparty_notices/Qt/efa51470f6a142218a7fe959fd1ba0521a0cde72979ca713fdd54a0b9876728e/OpenSource_qt_5_9_2.zip"
+                          "href": "assets/licenses/thirdparty_notices/Qt/efa51470f6a142218a7fe959fd1ba0521a0cde72979ca713fdd54a0b9876728e/OpenSource_qt_5_9_2.zip"
                         },
                         "icon": "fas fa-file-archive",
                         "children": [
@@ -311,7 +207,7 @@
                       {
                         "text": "Solvatio Third Party Legal Notices",
                         "a_attr": {
-                          "href": "assets/license_agreements/thirdparty_notices/Solvatio/a8509eba94f400a89e6143db63f3436f328a42c34b4b378f48971645c07ea89c/Solvatio_licences.zip"
+                          "href": "assets/licenses/thirdparty_notices/Solvatio/a8509eba94f400a89e6143db63f3436f328a42c34b4b378f48971645c07ea89c/Solvatio_licences.zip"
                         },
                         "icon": "fas fa-file-archive",
                         "children": [
@@ -334,7 +230,7 @@
                       {
                         "text": "aicas JamaicaVM Third Party Legal Notices",
                         "a_attr": {
-                          "href": "assets/license_agreements/thirdparty_notices/Jamaica/1a9c9a23540cbcf4463822d8e4a95d3beb26254bc246c4753d4f6cee273d472d/Jamaica_licenses.zip"
+                          "href": "assets/licenses/thirdparty_notices/Jamaica/1a9c9a23540cbcf4463822d8e4a95d3beb26254bc246c4753d4f6cee273d472d/Jamaica_licenses.zip"
                         },
                         "icon": "fas fa-file-archive"
                       },
@@ -361,33 +257,33 @@
                     ]
                   },
                   {
-                    "text": "Software Version 1.05",
+                    "text": "1.05",
                     "children": [
                       {
                         "text": "License Agreements",
+                        "icon": "fas fa-file-pdf",
                         "a_attr": {
-                          "href": "assets/license_agreements/VxxxEC/1.05/9510821_2020_03_23_final.pdf"
-                        },
-                        "icon": "fas fa-file-pdf"
+                          "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/1.05/9510821_2020_03_23_final.pdf"
+                        }
                       },
                       {
                         "text": "Acknowledgement of Open Source Projects",
+                        "icon": "fas fa-file-pdf",
                         "a_attr": {
-                          "href": "assets/license_agreements/VxxxEC/Acknowledgment.pdf"
-                        },
-                        "icon": "fas fa-file-pdf"
+                          "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/1.05/Acknowledgment.pdf"
+                        }
                       },
                       {
                         "text": "WindRiver Third Party Legal Notices",
                         "a_attr": {
-                          "href": "assets/license_agreements/thirdparty_notices/WindRiver/9ba710f7f604bc88ddad2745c731a61ed42607a78872703e08221cf124669af5/windriver-legal-notices.zip"
+                          "href": "assets/licenses/thirdparty_notices/WindRiver/9ba710f7f604bc88ddad2745c731a61ed42607a78872703e08221cf124669af5/windriver-legal-notices.zip"
                         },
                         "icon": "fas fa-file-archive"
                       },
                       {
                         "text": "Qt Third Party Legal Notices",
                         "a_attr": {
-                          "href": "assets/license_agreements/thirdparty_notices/Qt/efa51470f6a142218a7fe959fd1ba0521a0cde72979ca713fdd54a0b9876728e/OpenSource_qt_5_9_2.zip"
+                          "href": "assets/licenses/thirdparty_notices/Qt/efa51470f6a142218a7fe959fd1ba0521a0cde72979ca713fdd54a0b9876728e/OpenSource_qt_5_9_2.zip"
                         },
                         "icon": "fas fa-file-archive",
                         "children": [
@@ -403,7 +299,7 @@
                       {
                         "text": "Solvatio Third Party Legal Notices",
                         "a_attr": {
-                          "href": "assets/license_agreements/thirdparty_notices/Solvatio/a8509eba94f400a89e6143db63f3436f328a42c34b4b378f48971645c07ea89c/Solvatio_licences.zip"
+                          "href": "assets/licenses/thirdparty_notices/Solvatio/a8509eba94f400a89e6143db63f3436f328a42c34b4b378f48971645c07ea89c/Solvatio_licences.zip"
                         },
                         "icon": "fas fa-file-archive",
                         "children": [
@@ -426,7 +322,7 @@
                       {
                         "text": "aicas JamaicaVM Third Party Legal Notices",
                         "a_attr": {
-                          "href": "assets/license_agreements/thirdparty_notices/Jamaica/1a9c9a23540cbcf4463822d8e4a95d3beb26254bc246c4753d4f6cee273d472d/Jamaica_licenses.zip"
+                          "href": "assets/licenses/thirdparty_notices/Jamaica/1a9c9a23540cbcf4463822d8e4a95d3beb26254bc246c4753d4f6cee273d472d/Jamaica_licenses.zip"
                         },
                         "icon": "fas fa-file-archive"
                       },
@@ -457,111 +353,451 @@
             ]
           }
         ]
+      },
+      {
+        "text": "Service Products & Solutions MD",
+        "children": [
+          {
+            "text": "Dräger Connect Portal",
+            "children": [
+              {
+                "text": "License Agreements",
+                "icon": "fas fa-file-pdf",
+                "a_attr": {
+                  "href": "assets/licenses/Hospital%20Products/Service%20Products%20&%20Solutions%20MD/Dräger%20Connect%20Portal/License%20Agreements%20DC%20Portal.pdf"
+                }
+              }
+            ]
+          },
+          {
+            "text": "Network Manager",
+            "children": [
+              {
+                "text": "License Agreements",
+                "icon": "fas fa-file-pdf",
+                "a_attr": {
+                  "href": "assets/licenses/Hospital%20Products/Service%20Products%20&%20Solutions%20MD/Network%20Manager/Network_Manager_license_agreement_2022-09-27.pdf"
+                }
+              }
+            ]
+          },
+          {
+            "text": "Service Reports",
+            "children": [
+              {
+                "text": "License Agreements",
+                "icon": "fas fa-file-pdf",
+                "a_attr": {
+                  "href": "assets/licenses/Hospital%20Products/Service%20Products%20&%20Solutions%20MD/Service%20Reports/License%20Agreements%20Service%20Reports.pdf"
+                }
+              }
+            ]
+          },
+          {
+            "text": "Service Requests",
+            "children": [
+              {
+                "text": "License Agreements",
+                "icon": "fas fa-file-pdf",
+                "a_attr": {
+                  "href": "assets/licenses/Hospital%20Products/Service%20Products%20&%20Solutions%20MD/Service%20Requests/License%20Agreements%20Service%20Request.pdf"
+                }
+              }
+            ]
+          },
+          {
+            "text": "Service Tracking",
+            "children": [
+              {
+                "text": "License Agreements",
+                "icon": "fas fa-file-pdf",
+                "a_attr": {
+                  "href": "assets/licenses/Hospital%20Products/Service%20Products%20&%20Solutions%20MD/Service%20Tracking/License%20Agreements%20Service%20Tracking.pdf"
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceConnect® Config",
+            "children": [
+              {
+                "text": "License Agreements",
+                "icon": "fas fa-file-pdf",
+                "a_attr": {
+                  "href": "assets/licenses/Hospital%20Products/Service%20Products%20&%20Solutions%20MD/ServiceConnect%20Config/ServiceConnect_Config_license_agreement_2023-02-02.pdf"
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceConnect® Gateway",
+            "children": [
+              {
+                "text": "License Agreements",
+                "icon": "fas fa-file-pdf",
+                "a_attr": {
+                  "href": "assets/licenses/Hospital%20Products/Service%20Products%20&%20Solutions%20MD/ServiceConnect%20Gateway/ServiceConnect_Gateway_license_agreement.pdf"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "System Products",
+        "children": [
+          {
+            "text": "Dräger hardware components",
+            "children": [
+              {
+                "text": "Connectivity Converter CC300",
+                "children": [
+                  {
+                    "text": "2.0",
+                    "children": [
+                      {
+                        "text": "License Agreements",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                          "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20hardware%20components/Connectivity%20Converter%20CC300/2.0/9511024_01_EB_Lizenzvereinbarung.pdf"
+                        }
+                      },
+                      {
+                        "text": "Acknowledgement of Open Source Projects",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                          "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20hardware%20components/Connectivity%20Converter%20CC300/2.0/9511025_01_EB_Danksagung_f\u00fcr_9511024.pdf"
+                        }
+                      },
+                      {
+                        "text": "WindRiver Third Party Legal Notices",
+                        "a_attr": {
+                          "href": "assets/licenses/thirdparty_notices/WindRiver/9ba710f7f604bc88ddad2745c731a61ed42607a78872703e08221cf124669af5/windriver-legal-notices.zip"
+                        },
+                        "icon": "fas fa-file-archive"
+                      },
+                      {
+                        "text": "Das U-Boot sources",
+                        "a_attr": {
+                          "href": "https://github.com/Draegerwerk/u-boot/releases/tag/CoCo_2.0_imx6"
+                        },
+                        "icon": "fab fa-github-square"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Dräger software components",
+            "children": [
+              {
+                "text": "Alarm History Analytics",
+                "children": [
+                  {
+                    "text": "License Agreements",
+                    "icon": "fas fa-file-pdf",
+                    "a_attr": {
+                      "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Alarm%20History%20Analytics/Alarm%20History%20Analytics_license-report.pdf"
+                    }
+                  }
+                ]
+              },
+              {
+                "text": "Device Utilization Analytics",
+                "children": [
+                  {
+                    "text": "License Agreements",
+                    "icon": "fas fa-file-pdf",
+                    "a_attr": {
+                      "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Device%20Utilization%20Analytics/License%20Agreements%20Device%20Utilization%20Analytics.pdf"
+                    }
+                  }
+                ]
+              },
+              {
+                "text": "Dräger Discover",
+                "children": [
+                  {
+                    "text": "Firmware License Agreements",
+                    "icon": "fas fa-file-pdf",
+                    "a_attr": {
+                      "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Dräger%20Discover/Discover%20Firmware%202022-09-14%20Licences.pdf"
+                    }
+                  },
+                  {
+                    "text": "Service License Agreements",
+                    "icon": "fas fa-file-pdf",
+                    "a_attr": {
+                      "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Dräger%20Discover/Discover%20WebApp%202022-11-29%20Licences.pdf"
+                    }
+                  }
+                ]
+              },
+              {
+                "text": "Gas Consumption Analytics",
+                "children": [
+                  {
+                    "text": "License Agreements",
+                    "icon": "fas fa-file-pdf",
+                    "a_attr": {
+                      "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Gas%20Consumption%20Analytics/Gas%20Consumption%20Analytics_license-report.pdf"
+                    }
+                  }
+                ]
+              },
+              {
+                "text": "Hospital Capacity Board",
+                "children": [
+                  {
+                    "text": "License Agreements",
+                    "icon": "fas fa-file-pdf",
+                    "a_attr": {
+                      "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Hospital%20Capacity%20Board/HCB_CodeLicenseReport.pdf"
+                    }
+                  }
+                ]
+              },
+              {
+                "text": "M540 Converter Service",
+                "children": [
+                  {
+                    "text": "License Agreements",
+                    "icon": "fas fa-file-pdf",
+                    "a_attr": {
+                      "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/M540%20Converter%20Service/M540_Converter_Service_AGREEMENT.pdf"
+                    }
+                  },
+                  {
+                    "text": "Acknowledgement of Open Source Projects",
+                    "icon": "fas fa-file-pdf",
+                    "a_attr": {
+                      "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/M540%20Converter%20Service/M540_Converter_Service_ACK.pdf"
+                    }
+                  }
+                ]
+              },
+              {
+                "text": "OR Companion & Self Test Tracker",
+                "children": [
+                  {
+                    "text": "License Agreements",
+                    "icon": "fas fa-file-pdf",
+                    "a_attr": {
+                      "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/OR%20Companion%20&%20Self%20Test%20Tracker/Operation%20Room%20Companion_license-report.pdf"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   },
   {
     "text": "Safety Products",
     "state": {
-      "opened": false
+      "opened": true
     },
     "children": [
       {
-        "text": "Fixed Gas Detection",
-        "state": {
-          "opened": false
-        },
+        "text": "Gas Detection",
         "children": [
           {
-            "text": "Controller",
-            "state": {
-              "opened": false
-            },
+            "text": "Fixed Gas Detection",
             "children": [
               {
-                "text": "Dräger REGARD® 7000",
-                "state": {
-                  "opened": false
-                },
+                "text": "Regard",
                 "children": [
                   {
-                    "text": "License Agreements",
-                    "a_attr": {
-                      "href": "assets/license_agreements/REGARD7000/License%20Agreements.pdf"
-                    },
-                    "icon": "fas fa-file-pdf"
+                    "text": "Dräger REGARD® 3000",
+                    "children": [
+                      {
+                        "text": "License Agreements",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                          "href": "assets/licenses/Safety%20Products/Gas%20Detection/Fixed%20Gas%20Detection/Regard/Dräger%20REGARD%203000/License%20Agreements%20REGARD3000.pdf"
+                        }
+                      },
+                      {
+                        "text": "License Agreements Operating System",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                          "href": "assets/licenses/Safety%20Products/Gas%20Detection/Fixed%20Gas%20Detection/Regard/Dräger%20REGARD%203000/License%20Agreements%20REGARD3000%20Operating%20System.pdf"
+                        }
+                      },
+                      {
+                        "text": "Acknowledgement of Open Source Projects Operating System",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                          "href": "assets/licenses/Safety%20Products/Gas%20Detection/Fixed%20Gas%20Detection/Regard/Dräger%20REGARD%203000/Acknowledgment%20REGARD3000%20Operating%20System.pdf"
+                        }
+                      }
+                    ]
                   },
                   {
-                    "text": "Acknowledgement of Open Source Projects",
-                    "a_attr": {
-                      "href": "assets/license_agreements/REGARD7000/Acknowledgement%20Open%20Source%20Software.pdf"
-                    },
-                    "icon": "fas fa-file-pdf"
+                    "text": "Dräger REGARD® 7000",
+                    "children": [
+                      {
+                        "text": "License Agreements",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                          "href": "assets/licenses/Safety%20Products/Gas%20Detection/Fixed%20Gas%20Detection/Regard/Dräger%20REGARD%207000/License%20Agreements.pdf"
+                        }
+                      },
+                      {
+                        "text": "Acknowledgement of Open Source Projects",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                          "href": "assets/licenses/Safety%20Products/Gas%20Detection/Fixed%20Gas%20Detection/Regard/Dräger%20REGARD%207000/Acknowledgement%20Open%20Source%20Software.pdf"
+                        }
+                      },
+                      {
+                        "text": "Qt 5.6.2 sources",
+                        "icon": "fab fa-github-square",
+                        "a_attr": {
+                          "href": "https://github.com/qt/qt5/tree/v5.6.2"
+                        }
+                      }
+                    ]
                   },
                   {
-                    "text": "Qt 5.6.2 sources",
-                    "icon": "fab fa-github-square",
+                    "text": "Dräger REGARD® 7000 OPC UA Server",
+                    "children": [
+                      {
+                        "text": "License Agreements",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                          "href": "assets/licenses/Safety%20Products/Gas%20Detection/Fixed%20Gas%20Detection/Regard/Dräger%20REGARD%207000%20OPC%20UA%20Server/License%20Agreements.pdf"
+                        }
+                      },
+                      {
+                        "text": "License Agreements Operating System",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                          "href": "assets/licenses/Safety%20Products/Gas%20Detection/Fixed%20Gas%20Detection/Regard/Dräger%20REGARD%207000%20OPC%20UA%20Server/License%20Agreements%20REGARD7000%20OPC%20UA%20Server%20OS.pdf"
+                        }
+                      },
+                      {
+                        "text": "Acknowledgement of Open Source Projects Operating System",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                          "href": "assets/licenses/Safety%20Products/Gas%20Detection/Fixed%20Gas%20Detection/Regard/Dräger%20REGARD%207000%20OPC%20UA%20Server/Acknowledgement%20REGARD7000%20OPC%20UA%20Server%20OS.pdf"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Mobile Gas Detection",
+            "children": [
+              {
+                "text": "Alcotest",
+                "children": [
+                  {
+                    "text": "Alcohol & Drug Detection",
+                    "children": [
+                      {
+                        "text": "Mobile app License Agreements",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                          "href": "assets/licenses/Safety%20Products/Gas%20Detection/Mobile%20Gas%20Detection/Alcotest/Alcohol%20&%20Drug%20Detection/add_Mobile_Licenses.pdf"
+                        }
+                      },
+                      {
+                        "text": "Backend License Agreements",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                          "href": "assets/licenses/Safety%20Products/Gas%20Detection/Mobile%20Gas%20Detection/Alcotest/Alcohol%20&%20Drug%20Detection/add_Backend_Licenses.pdf"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "Gas detection connect",
+                "children": [
+                  {
+                    "text": "Android app License Agreements",
+                    "icon": "fas fa-file-pdf",
                     "a_attr": {
-                      "href": "https://github.com/qt/qt5/tree/v5.6.2"
+                      "href": "assets/licenses/Safety%20Products/Gas%20Detection/Mobile%20Gas%20Detection/Gas%20detection%20connect/GDC_androidApp.pdf"
+                    }
+                  },
+                  {
+                    "text": "iOS app License Agreements",
+                    "icon": "fas fa-file-pdf",
+                    "a_attr": {
+                      "href": "assets/licenses/Safety%20Products/Gas%20Detection/Mobile%20Gas%20Detection/Gas%20detection%20connect/GDC_IOSApp.pdf"
+                    }
+                  },
+                  {
+                    "text": "Frontend License Agreements",
+                    "icon": "fas fa-file-pdf",
+                    "a_attr": {
+                      "href": "assets/licenses/Safety%20Products/Gas%20Detection/Mobile%20Gas%20Detection/Gas%20detection%20connect/GDC_frontend.pdf"
+                    }
+                  },
+                  {
+                    "text": "Backend License Agreements",
+                    "icon": "fas fa-file-pdf",
+                    "a_attr": {
+                      "href": "assets/licenses/Safety%20Products/Gas%20Detection/Mobile%20Gas%20Detection/Gas%20detection%20connect/GDC_backend.pdf"
                     }
                   }
                 ]
               },
               {
-                "text": "Dräger REGARD® 7000 OPC UA Server",
-                "state": {
-                  "opened": false
-                },
+                "text": "X-am",
                 "children": [
                   {
-                    "text": "License Agreements",
-                    "a_attr": {
-                      "href": "assets/license_agreements/REGARD7000_OPC_UA/License%20Agreements.pdf"
-                    },
-                    "icon": "fas fa-file-pdf"
-                  },
-                  {
-                    "text": "License Agreements Operating System",
-                    "a_attr": {
-                      "href": "assets/license_agreements/REGARD7000_OPC_UA/License%20Agreements%20REGARD7000%20OPC%20UA%20Server%20OS.pdf"
-                    },
-                    "icon": "fas fa-file-pdf"
-                  },
-                  {
-                    "text": "Acknowledgement of Open Source Projects Operating System",
-                    "a_attr": {
-                      "href": "assets/license_agreements/REGARD7000_OPC_UA/Acknowledgement%20REGARD7000%20OPC%20UA%20Server%20OS.pdf"
-                    },
-                    "icon": "fas fa-file-pdf"
+                    "text": "X-am 2800 - 5800",
+                    "children": [
+                      {
+                        "text": "License Agreements",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                          "href": "assets/licenses/Safety%20Products/Gas%20Detection/Mobile%20Gas%20Detection/X-am/X-am%202800%20\u2013%205800/License-Agreements.pdf"
+                        }
+                      }
+                    ]
                   }
                 ]
               },
               {
-                "text": "Dräger REGARD® 3000",
-                "state": {
-                  "opened": false
-                },
+                "text": "X-dock",
                 "children": [
                   {
-                    "text": "License Agreements",
-                    "a_attr": {
-                      "href": "assets/license_agreements/REGARD3000/License%20Agreements%20REGARD3000.pdf"
-                    },
-                    "icon": "fas fa-file-pdf"
-                  },
-                  {
-                    "text": "License Agreements Operating System",
-                    "a_attr": {
-                      "href": "assets/license_agreements/REGARD3000/License%20Agreements%20REGARD3000%20Operating%20System.pdf"
-                    },
-                    "icon": "fas fa-file-pdf"
-                  },
-                  {
-                    "text": "Acknowledgement of Open Source Projects Operating System",
-                    "a_attr": {
-                      "href": "assets/license_agreements/REGARD3000/Acknowledgment%20REGARD3000%20Operating%20System.pdf"
-                    },
-                    "icon": "fas fa-file-pdf"
+                    "text": "X-dock",
+                    "children": [
+                      {
+                        "text": "License Agreements",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                          "href": "assets/licenses/Safety%20Products/Gas%20Detection/Mobile%20Gas%20Detection/X-dock/X-dock/License-Agreements_X-dock.pdf"
+                        }
+                      },
+                      {
+                        "text": "License Agreements OS",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                          "href": "assets/licenses/Safety%20Products/Gas%20Detection/Mobile%20Gas%20Detection/X-dock/X-dock/License-Agreements_X-dock_OS.pdf"
+                        }
+                      },
+                      {
+                        "text": "License Acknowledgement OS",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                          "href": "assets/licenses/Safety%20Products/Gas%20Detection/Mobile%20Gas%20Detection/X-dock/X-dock/Acknowledgement_X-dock_OS.pdf"
+                        }
+                      }
+                    ]
                   }
                 ]
               }
@@ -570,315 +806,31 @@
         ]
       },
       {
-        "text": "Portable Gas Detection",
-        "state": {
-          "opened": false
-        },
+        "text": "Service Products & Solutions SD",
         "children": [
           {
-            "text": "X-am 2800 - 5800",
-            "state": {
-              "opened": false
-            },
+            "text": "Web Cloud Solutions",
             "children": [
               {
-                "text": "License Agreements",
-                "a_attr": {
-                  "href": "assets/license_agreements/X-am-2800-5800/License-Agreements.pdf"
-                },
-                "icon": "fas fa-file-pdf"
-              }
-            ]
-          },
-          {
-            "text": "X-dock",
-            "state": {
-              "opened": false
-            },
-            "children": [
-              {
-                "text": "License Agreements",
-                "a_attr": {
-                  "href": "assets/license_agreements/X-dock/License-Agreements_X-dock.pdf"
-                },
-                "icon": "fas fa-file-pdf"
-              },
-              {
-                "text": "License Agreements OS",
-                "a_attr": {
-                  "href": "assets/license_agreements/X-dock/License-Agreements_X-dock_OS.pdf"
-                },
-                "icon": "fas fa-file-pdf"
-              },
-              {
-                "text": "License Acknowledgement OS",
-                "a_attr": {
-                  "href": "assets/license_agreements/X-dock/Acknowledgement_X-dock_OS.pdf"
-                },
-                "icon": "fas fa-file-pdf"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "text": "Alcohol & Drug Detection",
-        "state": {
-          "opened": false
-        },
-        "children": [
-          {
-            "text": "Software",
-            "state": {
-              "opened": false
-            },
-            "children": [
-              {
-                "text": "Dräger add",
-                "state": {
-                  "opened": false
-                },
+                "text": "Rental Safety Services",
                 "children": [
                   {
-                    "text": "Acknowledgement of Open Source Projects App",
+                    "text": "Frontend License Agreements",
+                    "icon": "fas fa-file-pdf",
                     "a_attr": {
-                      "href": "assets/license_agreements/add/add_Mobile_Licenses.pdf"
-                    },
-                    "icon": "fas fa-file-pdf"
+                      "href": "assets/licenses/Safety%20Products/Service%20Products%20&%20Solutions%20SD/Web_Cloud_Solutions/Rental_Safety_Services/RR30_Frontend.pdf"
+                    }
                   },
                   {
-                    "text": "Acknowledgement of Open Source Projects Backend",
+                    "text": "Backend License Agreements",
+                    "icon": "fas fa-file-pdf",
                     "a_attr": {
-                      "href": "assets/license_agreements/add/add_Backend_Licenses.pdf"
-                    },
-                    "icon": "fas fa-file-pdf"
+                      "href": "assets/licenses/Safety%20Products/Service%20Products%20&%20Solutions%20SD/Web_Cloud_Solutions/Rental_Safety_Services/RR30_Backend.pdf"
+                    }
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "text": "Web & Cloud Solutions",
-        "state": {
-          "opened": false
-        },
-        "children": [
-          {
-            "text": "Dräger Gas Detection Connect",
-            "state": {
-              "opened": false
-            },
-            "children": [
-              {
-                "text": "Frontend license agreements",
-                "a_attr": {
-                  "href": "assets/license_agreements/GDC/GDC_frontend.pdf"
-                },
-                "icon": "fas fa-file-pdf"
-              },
-              {
-                "text": "Backend license agreements",
-                "a_attr": {
-                  "href": "assets/license_agreements/GDC/GDC_backend.pdf"
-                },
-                "icon": "fas fa-file-pdf"
-              },
-              {
-                "text": "Android app license agreements",
-                "a_attr": {
-                  "href": "assets/license_agreements/GDC/GDC_androidApp.pdf"
-                },
-                "icon": "fas fa-file-pdf"
-              },
-              {
-                "text": "iOS app license agreements",
-                "a_attr": {
-                  "href": "assets/license_agreements/GDC/GDC_IOSApp.pdf"
-                },
-                "icon": "fas fa-file-pdf"
-              }
-            ]
-          },
-          {
-            "text": "Rental & Safety Services",
-            "state": {
-              "opened": false
-            },
-            "children": [
-              {
-                "text": "Frontend license agreements",
-                "a_attr": {
-                  "href": "assets/license_agreements/Safety%20Products/Web_Cloud_Solutions/Rental_Safety_Services/RR30_Frontend.pdf"
-                },
-                "icon": "fas fa-file-pdf"
-              },
-              {
-                "text": "Backend license agreements",
-                "a_attr": {
-                  "href": "assets/license_agreements/Safety%20Products/Web_Cloud_Solutions/Rental_Safety_Services/RR30_Backend.pdf"
-                },
-                "icon": "fas fa-file-pdf"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "text": "Dräger Connect",
-    "state": {
-      "opened": false
-    },
-    "children": [
-      {
-        "text": "Alarm History Analytics",
-        "children": [
-          {
-            "text": "License Agreements",
-            "a_attr": {
-              "href": "assets/license_agreements/Dräger%20Connect/Alarm%20History%20Analytics/Alarm%20History%20Analytics_license-report.pdf"
-            },
-            "icon": "fas fa-file-pdf"
-          }
-        ]
-      },
-      {
-        "text": "Device Utilization Analytics",
-        "children": [
-          {
-            "text": "License Agreements",
-            "a_attr": {
-              "href": "assets/license_agreements/Dräger%20Connect/Device%20Utilization%20Analytics/License%20Agreements%20Device%20Utilization%20Analytics.pdf"
-            },
-            "icon": "fas fa-file-pdf"
-          }
-        ]
-      },
-      {
-        "text": "Dräger Connect Portal",
-        "children": [
-          {
-            "text": "License Agreements",
-            "a_attr": {
-              "href": "assets/license_agreements/Dräger%20Connect/Dräger%20Connect%20Portal/License%20Agreements%20DC%20Portal.pdf"
-            },
-            "icon": "fas fa-file-pdf"
-          }
-        ]
-      },
-      {
-        "text": "Gas Consumption Analytics",
-        "children": [
-          {
-            "text": "License Agreements",
-            "a_attr": {
-              "href": "assets/license_agreements/Dräger%20Connect/Gas%20Consumption%20Analytics/Gas%20Consumption%20Analytics_license-report.pdf"
-            },
-            "icon": "fas fa-file-pdf"
-          }
-        ]
-      },
-      {
-        "text": "OR Companion & Self Test Tracker",
-        "children": [
-          {
-            "text": "License Agreements",
-            "a_attr": {
-              "href": "assets/license_agreements/Dräger%20Connect/OR%20Companion%20&%20Self%20Test%20Tracker/Operation%20Room%20Companion_license-report.pdf"
-            },
-            "icon": "fas fa-file-pdf"
-          }
-        ]
-      },
-      {
-        "text": "Service Reports",
-        "children": [
-          {
-            "text": "License Agreements",
-            "a_attr": {
-              "href": "assets/license_agreements/Dräger%20Connect/Service%20Reports/License%20Agreements%20Service%20Reports.pdf"
-            },
-            "icon": "fas fa-file-pdf"
-          }
-        ]
-      },
-      {
-        "text": "Service Request",
-        "children": [
-          {
-            "text": "License Agreements",
-            "a_attr": {
-              "href": "assets/license_agreements/Dräger%20Connect/Service%20Request/License%20Agreements%20Service%20Request.pdf"
-            },
-            "icon": "fas fa-file-pdf"
-          }
-        ]
-      },
-      {
-        "text": "Service Tracking",
-        "children": [
-          {
-            "text": "License Agreements",
-            "a_attr": {
-              "href": "assets/license_agreements/Dräger%20Connect/Service%20Tracking/License%20Agreements%20Service%20Tracking.pdf"
-            },
-            "icon": "fas fa-file-pdf"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "text": "Service Tools",
-    "state": {
-      "opened": false
-    },
-    "children": [
-      {
-        "text": "ServiceConnect® Gateway",
-        "state": {
-          "opened": false
-        },
-        "children": [
-          {
-            "text": "License Agreements",
-            "a_attr": {
-              "href": "assets/license_agreements/Service%20Tools/ServiceConnect_Gateway/ServiceConnect_Gateway_license_agreement.pdf"
-            },
-            "icon": "fas fa-file-pdf"
-          }
-        ]
-      },
-      {
-        "text": "ServiceConnect® Config",
-        "state": {
-          "opened": false
-        },
-        "children": [
-          {
-            "text": "License Agreements 1.10.0",
-            "a_attr": {
-              "href": "assets/license_agreements/Service%20Tools/ServiceConnect_Config/ServiceConnect_Config_license_agreement_2023-02-02.pdf"
-            },
-            "icon": "fas fa-file-pdf"
-          }
-        ]
-      },
-      {
-        "text": "Network Manager",
-        "state": {
-          "opened": false
-        },
-        "children": [
-          {
-            "text": "License Agreements 1.8.0",
-            "a_attr": {
-              "href": "assets/license_agreements/Service%20Tools/Network_Manager/Network_Manager_license_agreement_2022-09-27.pdf"
-            },
-            "icon": "fas fa-file-pdf"
           }
         ]
       }
