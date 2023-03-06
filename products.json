@@ -710,14 +710,14 @@
               {
                 "text": "Frontend license agreements",
                 "a_attr": {
-                  "href": "assets/license_agreements/Safety%20Products/Web_Cloud_solutions/Rental_Safety_Services/RR30_Frontend.pdf"
+                  "href": "assets/license_agreements/Safety%20Products/Web_Cloud_Solutions/Rental_Safety_Services/RR30_Frontend.pdf"
                 },
                 "icon": "fas fa-file-pdf"
               },
               {
                 "text": "Backend license agreements",
                 "a_attr": {
-                  "href": "assets/license_agreements/Safety%20Products/Web_Cloud_solutions/Rental_Safety_Services/RR30_Backend.pdf"
+                  "href": "assets/license_agreements/Safety%20Products/Web_Cloud_Solutions/Rental_Safety_Services/RR30_Backend.pdf"
                 },
                 "icon": "fas fa-file-pdf"
               }
