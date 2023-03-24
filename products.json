@@ -809,13 +809,49 @@
         "text": "Service Products & Solutions SD",
         "children": [
           {
-            "text": "Network Manager",
+            "text": "Dräger Connect Portal",
             "children": [
               {
                 "text": "License Agreements",
                 "icon": "fas fa-file-pdf",
                 "a_attr": {
-                  "href": "assets/licenses/Hospital%20Products/Service%20Products%20&%20Solutions%20MD/Network%20Manager/Network_Manager_license_agreement.pdf"
+                  "href": "assets/licenses/Hospital%20Products/Service%20Products%20&%20Solutions%20MD/Dräger%20Connect%20Portal/License%20Agreements%20DC%20Portal.pdf"
+                }
+              }
+            ]
+          },
+          {
+            "text": "Service Reports",
+            "children": [
+              {
+                "text": "License Agreements",
+                "icon": "fas fa-file-pdf",
+                "a_attr": {
+                  "href": "assets/licenses/Hospital%20Products/Service%20Products%20&%20Solutions%20MD/Service%20Reports/License%20Agreements%20Service%20Reports.pdf"
+                }
+              }
+            ]
+          },
+          {
+            "text": "Service Requests",
+            "children": [
+              {
+                "text": "License Agreements",
+                "icon": "fas fa-file-pdf",
+                "a_attr": {
+                  "href": "assets/licenses/Hospital%20Products/Service%20Products%20&%20Solutions%20MD/Service%20Requests/License%20Agreements%20Service%20Request.pdf"
+                }
+              }
+            ]
+          },
+          {
+            "text": "Service Tracking",
+            "children": [
+              {
+                "text": "License Agreements",
+                "icon": "fas fa-file-pdf",
+                "a_attr": {
+                  "href": "assets/licenses/Hospital%20Products/Service%20Products%20&%20Solutions%20MD/Service%20Tracking/License%20Agreements%20Service%20Tracking.pdf"
                 }
               }
             ]
@@ -828,18 +864,6 @@
                 "icon": "fas fa-file-pdf",
                 "a_attr": {
                   "href": "assets/licenses/Hospital%20Products/Service%20Products%20&%20Solutions%20MD/ServiceConnect%20Config/ServiceConnect_Config_license_agreement.pdf"
-                }
-              }
-            ]
-          },
-          {
-            "text": "ServiceConnect® Gateway",
-            "children": [
-              {
-                "text": "License Agreements",
-                "icon": "fas fa-file-pdf",
-                "a_attr": {
-                  "href": "assets/licenses/Hospital%20Products/Service%20Products%20&%20Solutions%20MD/ServiceConnect%20Gateway/ServiceConnect_Gateway_license_agreement.pdf"
                 }
               }
             ]
