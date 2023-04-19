@@ -66,37 +66,61 @@
                         ]
                       }
                     ]
-                  }
-                ]
-              },
-              {
-                "text": "Perseus® A500",
-                "children": [
+                  },
                   {
-                    "text": "2.03",
+                    "text": "Perseus® A500",
                     "children": [
                       {
-                        "text": "License Agreements",
-                        "icon": "fas fa-file-pdf",
-                        "a_attr": {
-                          "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Anesthesia%20machine/Perseus%20A500/2.03/9511238_License_Agreement_2020_03_12.pdf"
-                        }
-                      },
-                      {
-                        "text": "Acknowledgement of Open Source Projects",
-                        "icon": "fas fa-file-pdf",
-                        "a_attr": {
-                          "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Anesthesia%20machine/Perseus%20A500/2.03/9511237_Acknowledgment.pdf"
-                        }
-                      },
-                      {
-                        "text": "WindRiver Third Party Legal Notices",
-                        "a_attr": {
-                          "href": "assets/licenses/thirdparty_notices/WindRiver/08b03cdb23a9366d8ab695631004167e95dc50b92642048bbc96dd3abb705649/windriver-legal-notices.zip"
-                        },
-                        "icon": "fas fa-file-archive"
+                        "text": "2.03",
+                        "children": [
+                          {
+                            "text": "License Agreements",
+                            "icon": "fas fa-file-pdf",
+                            "a_attr": {
+                              "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Anesthesia%20machine/Perseus%20A500/2.03/9511238_License_Agreement_2020_03_12.pdf"
+                            }
+                          },
+                          {
+                            "text": "Acknowledgement of Open Source Projects",
+                            "icon": "fas fa-file-pdf",
+                            "a_attr": {
+                              "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Anesthesia%20machine/Perseus%20A500/2.03/9511237_Acknowledgment.pdf"
+                            }
+                          },
+                          {
+                            "text": "WindRiver Third Party Legal Notices",
+                            "a_attr": {
+                              "href": "assets/licenses/thirdparty_notices/WindRiver/08b03cdb23a9366d8ab695631004167e95dc50b92642048bbc96dd3abb705649/windriver-legal-notices.zip"
+                            },
+                            "icon": "fas fa-file-archive"
+                          }
+                        ]
                       }
                     ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Decision support",
+            "children": [
+              {
+                "text": "SmartPilot View",
+                "children": [
+                  {
+                    "text": "License Agreements",
+                    "icon": "fas fa-file-pdf",
+                    "a_attr": {
+                      "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Decision%20support/SmartPilot%20View/SmartPilot%20Agreement.pdf"
+                    }
+                  },
+                  {
+                    "text": "Acknowledgement of Open Source Projects",
+                    "icon": "fas fa-file-pdf",
+                    "a_attr": {
+                      "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Decision%20support/SmartPilot%20View/SmartPilot%20Acknowledgement.pdf"
+                    }
                   }
                 ]
               }
