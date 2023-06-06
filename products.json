@@ -622,6 +622,18 @@
                 ]
               },
               {
+                "text": "MPW",
+                "children": [
+                  {
+                    "text": "License Agreements",
+                    "icon": "fas fa-file-pdf",
+                    "a_attr": {
+                      "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/MPW/MPW_OpenSourceLicenses.pdf"
+                    }
+                  }
+                ]
+              },
+              {
                 "text": "OR Companion & Self Test Tracker",
                 "children": [
                   {
