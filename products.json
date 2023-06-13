@@ -603,6 +603,18 @@
                 ]
               },
               {
+                "text": "Lung Protective Ventilation Analytics - Anesthesia",
+                "children": [
+                  {
+                    "text": "License Agreements",
+                    "icon": "fas fa-file-pdf",
+                    "a_attr": {
+                      "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Lung%20Protective%20Ventilation%20Analytics - Anesthesia/Lung%20Protective%20Ventilation%20Analytics%20-%20Anesthesia_license-report.pdf"
+                    }
+                  }
+                ]
+              },
+              {
                 "text": "M540 Converter Service",
                 "children": [
                   {
