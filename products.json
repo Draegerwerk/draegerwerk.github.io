@@ -821,6 +821,18 @@
                 ]
               },
               {
+                "text": "LPIR",
+                "children": [
+                  {
+                    "text": "License Agreements",
+                    "icon": "fas fa-file-pdf",
+                    "a_attr": {
+                      "href": "assets/licenses/Safety%20Products/Gas%20Detection/Mobile%20Gas%20Detection/LPIR/Opensource-License-Agreements%20LPIR.pdf"
+                    }
+                  }
+                ]
+              },
+              {
                 "text": "X-am",
                 "children": [
                   {
