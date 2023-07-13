@@ -693,6 +693,13 @@
                           "href": "assets/licenses/thirdparty_notices/WindRiver/a60ad9ea93d10036b263446bb98e1a57257ad914a83a97726d7959478837ef40/windriver-legal-notices.zip"
                         },
                         "icon": "fas fa-file-archive"
+                      },
+                      {
+                        "text": "Das U-Boot sources",
+                        "icon": "fab fa-github-square",
+                        "a_attr": {
+                          "href": "https://github.com/Draegerwerk/u-boot/tree/TN300_1.10.00"
+                        }
                       }
                     ]
                   }
