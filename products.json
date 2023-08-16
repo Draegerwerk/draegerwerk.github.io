@@ -724,6 +724,23 @@
             "text": "Fixed Gas Detection",
             "children": [
               {
+                "text": "Hub",
+                "children": [
+                  {
+                    "text": "X-node Hub",
+                    "children": [
+                      {
+                        "text": "License Agreements",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                          "href": "assets/licenses/Safety%20Products/Gas%20Detection/Fixed%20Gas%20Detection/Hub/X-node%20Hub%20Licences.pdf"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
                 "text": "Regard",
                 "children": [
                   {
