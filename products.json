@@ -22,20 +22,20 @@
                 "text": "Atlan® A300/A300 XL, A350/A350 XL",
                 "children": [
                   {
-                    "text": "1.01",
+                    "text": "1.01 & 1.02",
                     "children": [
                       {
                         "text": "License Agreements",
                         "icon": "fas fa-file-pdf",
                         "a_attr": {
-                          "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Anesthesia%20machine/Atlan%20A300,%20A300%20XL,%20A350,%20Ae50%20XL/1.01/9510561_2019_08_13.pdf"
+                          "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Anesthesia%20machine/Atlan%20A300,%20A300%20XL,%20A350,%20Ae50%20XL/1.0n/9510561_2019_08_13.pdf"
                         }
                       },
                       {
                         "text": "Acknowledgement of Open Source Projects",
                         "icon": "fas fa-file-pdf",
                         "a_attr": {
-                          "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Anesthesia%20machine/Atlan%20A300,%20A300%20XL,%20A350,%20Ae50%20XL/1.01/9510594.pdf"
+                          "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Anesthesia%20machine/Atlan%20A300,%20A300%20XL,%20A350,%20Ae50%20XL/1.0n/9510594.pdf"
                         }
                       },
                       {
