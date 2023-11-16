@@ -919,13 +919,13 @@
                 ]
               },
               {
-                "text": "LPIR",
+                "text": "XD-IR",
                 "children": [
                   {
                     "text": "License Agreements",
                     "icon": "fas fa-file-pdf",
                     "a_attr": {
-                      "href": "assets/licenses/Safety%20Products/Gas%20Detection/Mobile%20Gas%20Detection/LPIR/Opensource-License-Agreements%20LPIR.pdf"
+                      "href": "assets/licenses/Safety%20Products/Gas%20Detection/Mobile%20Gas%20Detection/XD-IR/Opensource-License-Agreements%20XD-IR.pdf"
                     }
                   }
                 ]
