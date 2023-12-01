@@ -1066,6 +1066,24 @@
                     }
                   }
                 ]
+              },
+              {
+                "text": "Emergency & Rescure Services",
+                "children": [
+                  {
+                    "text": "RAM Connector Licenses Agreements",
+                    "icon": "fas fa-file-pdf",
+                    "a_attr": {
+                      "href": "assets/licenses/Safety Products/Service Products & Solutions SD/Emergency_and_Rescue_Services/Web_RAM_FireGround/RAM-Connector_Open_Source_Licenses.pdf"}
+                  },
+                  {
+                    "text": "RAM/FireGround Web Licenses Agreements",
+                    "icon": "fas fa-file-pdf",
+                    "a_attr": {
+                      "href": "assets/licenses/Safety Products/Service Products & Solutions SD/Emergency_and_Rescue_Services/Web_RAM_FireGround/RAM_FireGround_Web_Open_Source_Licenses.pdf"
+                    }
+                  }
+                ]
               }
             ]
           }
