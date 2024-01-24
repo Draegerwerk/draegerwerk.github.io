@@ -427,6 +427,18 @@
             ]
           },
           {
+            "text": "MyDevices",
+            "children": [
+              {
+                "text": "License Agreements",
+                "icon": "fas fa-file-pdf",
+                "a_attr": {
+                  "href": "assets/licenses/Hospital%20Products/Service%20Products%20&%20Solutions%20MD/MyDevices/License%20Agreements%20MyDevices.pdf"
+                }
+              }
+            ]
+          },
+          {
             "text": "Network Manager",
             "children": [
               {
@@ -993,6 +1005,18 @@
                 "icon": "fas fa-file-pdf",
                 "a_attr": {
                   "href": "assets/licenses/Hospital%20Products/Service%20Products%20&%20Solutions%20MD/Dräger%20Connect%20Portal/License%20Agreements%20DC%20Portal.pdf"
+                }
+              }
+            ]
+          },
+          {
+            "text": "MyDevices",
+            "children": [
+              {
+                "text": "License Agreements",
+                "icon": "fas fa-file-pdf",
+                "a_attr": {
+                  "href": "assets/licenses/Hospital%20Products/Service%20Products%20&%20Solutions%20MD/MyDevices/License%20Agreements%20MyDevices.pdf"
                 }
               }
             ]
