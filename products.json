@@ -179,6 +179,13 @@
                         "a_attr": {
                           "href": "assets/licenses/Hospital%20Products/Monitoring%20&%20IT%20Applications/Information%20Systems/Infinity%20Gateway%20Suite/9.0/Infinity%20Gateway%20Suite_AGREEMENT.pdf"
                         }
+                      },
+                      {
+                        "text": "Acknowledgement of Open Source Projects",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                          "href": "assets/licenses/Hospital%20Products/Monitoring%20&%20IT%20Applications/Information%20Systems/Infinity%20Gateway%20Suite/9.0/Infinity%20Gateway%20Suite_ACK.pdf"
+                        }
                       }
                     ]
                   }
@@ -1098,7 +1105,8 @@
                     "text": "RAM Connector Licenses Agreements",
                     "icon": "fas fa-file-pdf",
                     "a_attr": {
-                      "href": "assets/licenses/Safety Products/Service Products & Solutions SD/Emergency_and_Rescue_Services/Web_RAM_FireGround/RAM-Connector_Open_Source_Licenses.pdf"}
+                      "href": "assets/licenses/Safety Products/Service Products & Solutions SD/Emergency_and_Rescue_Services/Web_RAM_FireGround/RAM-Connector_Open_Source_Licenses.pdf"
+                    }
                   },
                   {
                     "text": "RAM/FireGround Web Licenses Agreements",
