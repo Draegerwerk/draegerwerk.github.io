@@ -411,6 +411,98 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "text": "2.00.01",
+                    "children": [
+                      {
+                        "text": "License Agreements",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                          "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/2.00.01/VFamily_ACK.pdf"
+                        }
+                      },
+                      {
+                        "text": "Acknowledgement of Open Source Projects",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                          "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/2.00.01/VFamily_AGREEMENT.pdf"
+                        }
+                      },
+                      {
+                        "text": "WindRiver Third Party Legal Notices",
+                        "a_attr": {
+                          "href": "assets/licenses/thirdparty_notices/WindRiver/9ba710f7f604bc88ddad2745c731a61ed42607a78872703e08221cf124669af5/windriver-legal-notices.zip"
+                        },
+                        "icon": "fas fa-file-archive"
+                      },
+                      {
+                        "text": "Qt Third Party Legal Notices",
+                        "a_attr": {
+                          "href": "assets/licenses/thirdparty_notices/Qt/QT5.12.6_Licenses.zip"
+                        },
+                        "icon": "fas fa-file-archive",
+                        "children": [
+                          {
+                            "text": "Public Suffix List sources",
+                            "a_attr": {
+                              "href": "https://github.com/publicsuffix/list"
+                            },
+                            "icon": "fab fa-github-square"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Solvatio Third Party Legal Notices",
+                        "a_attr": {
+                          "href": "assets/licenses/thirdparty_notices/Solvatio/a8509eba94f400a89e6143db63f3436f328a42c34b4b378f48971645c07ea89c/Solvatio_licences.zip"
+                        },
+                        "icon": "fas fa-file-archive",
+                        "children": [
+                          {
+                            "text": "Eclipse Jetty® sources",
+                            "a_attr": {
+                              "href": "https://github.com/eclipse/jetty.project"
+                            },
+                            "icon": "fab fa-github-square"
+                          },
+                          {
+                            "text": "jsci sources",
+                            "a_attr": {
+                              "href": "https://sourceforge.net/p/jsci/jsci/ci/default/tree/"
+                            },
+                            "icon": "fas fa-code"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "aicas JamaicaVM Third Party Legal Notices",
+                        "a_attr": {
+                          "href": "assets/licenses/thirdparty_notices/Jamaica/1a9c9a23540cbcf4463822d8e4a95d3beb26254bc246c4753d4f6cee273d472d/Jamaica_licenses.zip"
+                        },
+                        "icon": "fas fa-file-archive"
+                      },
+                      {
+                        "text": "Das U-Boot sources",
+                        "icon": "fab fa-github-square",
+                        "children": [
+                          {
+                            "text": "i.MX6",
+                            "icon": "fab fa-github-square",
+                            "a_attr": {
+                              "href": "https://github.com/Draegerwerk/u-boot/releases/tag/VxxxEC_1.05_imx6"
+                            }
+                          },
+                          {
+                            "text": "Altera SoC",
+                            "icon": "fab fa-github-square",
+                            "a_attr": {
+                              "href": "https://github.com/Draegerwerk/u-boot/releases/tag/VxxxEC_1.05_altsoc"
+                            }
+                          }
+                        ]
+                      }
+                    ]
                   }
                 ]
               }
