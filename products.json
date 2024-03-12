@@ -868,6 +868,18 @@
             "text": "Fixed Gas Detection",
             "children": [
               {
+                "text": "Gas Detection Assist",
+                "children": [
+                  {
+                    "text": "License Agreements 1.0.0",
+                    "icon": "fas fa-file-pdf",
+                    "a_attr": {
+                      "href": "assets/licenses/Safety%20Products/Gas%20Detection/Fixed%20Gas%20Detection/Gas%20Detection%20Assist/Gas%20Detection%20Assist_1.0.0_software-bill-of-materials-report.pdf"
+                    }
+                  }
+                ]
+              },
+              {
                 "text": "X-node",
                 "children": [
                   {
