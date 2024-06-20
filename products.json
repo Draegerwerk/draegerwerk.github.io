@@ -245,7 +245,22 @@
                     "a_attr": {
                       "href": "assets/licenses/Hospital%20Products/Monitoring%20&%20IT%20Applications/Information%20Systems/Integrated%20Care%20Manager/Integrated_Care_Manager_AGREEMENT.pdf"
                     }
+                  },
+                  {
+                    "text": "License Agreements Version ≤ 14.0.1",
+                    "icon": "fas fa-file-pdf",
+                    "a_attr": {
+                      "href": "assets/licenses/Hospital%20Products/Monitoring%20&%20IT%20Applications/Information%20Systems/Integrated%20Care%20Manager/Open%20Source%2014.0.1_and%20lower_11.06.2024.pdf"
+                    }
+                  },
+                  {
+                    "text": "License Agreements Version 14.1",
+                    "icon": "fas fa-file-pdf",
+                    "a_attr": {
+                      "href": "assets/licenses/Hospital%20Products/Monitoring%20&%20IT%20Applications/Information%20Systems/Integrated%20Care%20Manager/Open%20Source%2014.1_11.06.2024.pdf"
+                    }
                   }
+
                 ]
               }
             ]
