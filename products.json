@@ -939,14 +939,14 @@
                                     "text": "License Agreements",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Core/Core 1.n/Core_AGREEMENT.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Core/Core%201.n/Core_AGREEMENT.pdf"
                                     }
                                  },
                                  {
                                     "text": "Acknowledgement of Open Source Projects",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Core/Core 1.n/Core_ACK.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Core/Core%201.n/Core_ACK.pdf"
                                     }
                                  }
                               ]
@@ -958,14 +958,14 @@
                                     "text": "License Agreements",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Core/Core 2.n/Core_AGREEMENT.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Core/Core%202.n/Core_AGREEMENT.pdf"
                                     }
                                  },
                                  {
                                     "text": "Acknowledgement of Open Source Projects",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Core/Core 2.n/Core_ACK.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Core/Core%202.n/Core_ACK.pdf"
                                     }
                                  }
                               ]
