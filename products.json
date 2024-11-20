@@ -1081,6 +1081,30 @@
                               }
                            }
                         ]
+                     },
+                     {
+                        "text": "Targeted Alarm Service",
+                        "children": [
+                           {
+                              "text": "Targeted Alarm Service 1.n",
+                              "children": [
+                                 {
+                                    "text": "License Agreements",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Targeted%20Alarm%20Service/Targeted%20Alarm%20Service%201.n/TAS_FOSS.pdf"
+                                    }
+                                 },
+                                 {
+                                    "text": "Acknowledgement of Open Source Projects",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Targeted%20Alarm%20Service/Targeted%20Alarm%20Service%201.n/TAS_FOSS_Acknowledgement.pdf"
+                                    }
+                                 }
+                              ]
+                           }
+                        ]
                      }
                   ]
                }
