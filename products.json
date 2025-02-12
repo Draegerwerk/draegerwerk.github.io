@@ -878,20 +878,20 @@
                         "text": "Connectivity Converter CC300",
                         "children": [
                            {
-                              "text": "2.0",
+                              "text": "1.n",
                               "children": [
                                  {
                                     "text": "License Agreements",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20hardware%20components/Connectivity%20Converter%20CC300/2.0/9511024_01_EB_Lizenzvereinbarung.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20hardware%20components/Connectivity%20Converter%20CC300/1.n/CC300_AGREEMENT.pdf"
                                     }
                                  },
                                  {
                                     "text": "Acknowledgement of Open Source Projects",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20hardware%20components/Connectivity%20Converter%20CC300/2.0/9511025_01_EB_Danksagung_f\u00fcr_9511024.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20hardware%20components/Connectivity%20Converter%20CC300/1.n/CC300_ACK.pdf"
                                     }
                                  },
                                  {
@@ -904,7 +904,7 @@
                                  {
                                     "text": "Das U-Boot sources",
                                     "a_attr": {
-                                       "href": "https://github.com/Draegerwerk/u-boot/releases/tag/CoCo_2.0_imx6"
+                                       "href": "https://github.com/Draegerwerk/u-boot/releases/tag/v2014.07"
                                     },
                                     "icon": "fab fa-github-square"
                                  }
