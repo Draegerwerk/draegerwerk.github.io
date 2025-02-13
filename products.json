@@ -909,6 +909,39 @@
                                     "icon": "fab fa-github-square"
                                  }
                               ]
+                           },
+                           {
+                              "text": "3.n",
+                              "children": [
+                                 {
+                                    "text": "License Agreements",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20hardware%20components/Connectivity%20Converter%20CC300/3.n/CC300_AGREEMENT.pdf"
+                                    }
+                                 },
+                                 {
+                                    "text": "Acknowledgement of Open Source Projects",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20hardware%20components/Connectivity%20Converter%20CC300/3.n/CC300_ACK.pdf"
+                                    }
+                                 },
+                                 {
+                                    "text": "WindRiver Third Party Legal Notices",
+                                    "a_attr": {
+                                       "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks7/VxWorks7__ThirdPartyNotices_v5.4_22.06.pdf"
+                                    },
+                                    "icon": "fas fa-file-archive"
+                                 },
+                                 {
+                                    "text": "Das U-Boot sources",
+                                    "a_attr": {
+                                       "href": "https://github.com/Draegerwerk/u-boot/releases/tag/PCS_3.2.0"
+                                    },
+                                    "icon": "fab fa-github-square"
+                                 }
+                              ]
                            }
                         ]
                      }
