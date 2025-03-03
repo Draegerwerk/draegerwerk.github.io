@@ -1018,6 +1018,25 @@
                         ]
                      },
                      {
+                        "text": "Discovery Proxy",
+                        "children": [
+                           {
+                              "text": "License Agreements",
+                              "icon": "fas fa-file-pdf",
+                              "a_attr": {
+                                 "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Discovery%20Proxy/DISCO2_FOSS.pdf"
+                              }
+                           },
+                           {
+                              "text": "Acknowledgement of Open Source Projects",
+                              "icon": "fas fa-file-pdf",
+                              "a_attr": {
+                                 "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Discovery%20Proxy/DISCO2_FOSS_Acknowledgement.pdf"
+                              }
+                           }
+                        ]
+                     },
+                     {
                         "text": "Dräger Discover",
                         "children": [
                            {
