@@ -762,6 +762,25 @@
                               ]
                            }
                         ]
+                     },
+                     {
+                        "text": "Savina 300",
+                        "children": [
+                           {
+                              "text": "License Agreements",
+                              "icon": "fas fa-file-pdf",
+                              "a_attr": {
+                                 "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Savina%20300/Savina%20300%20FOSS.pdf"
+                              }
+                           },
+                           {
+                              "text": "WindRiver Third Party Legal Notices",
+                              "a_attr": {
+                                 "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks5/VxWorks5.5.x.LicenseNotices.pdf"
+                              },
+                              "icon": "fas fa-file-archive"
+                           }
+                        ]
                      }
                   ]
                }
