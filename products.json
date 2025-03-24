@@ -1191,7 +1191,7 @@
                         "text": "TN300",
                         "children": [
                            {
-                              "text": "1.02 & 1.10",
+                              "text": "1.02 & 1.10 & 1.11",
                               "children": [
                                  {
                                     "text": "License Agreements",
@@ -1219,6 +1219,77 @@
                                     "icon": "fab fa-github-square",
                                     "a_attr": {
                                        "href": "https://github.com/Draegerwerk/u-boot/tree/TN300_1.10.00"
+                                    }
+                                 }
+                              ]
+                           },
+                           {
+                              "text": "1.12",
+                              "children": [
+                                 {
+                                    "text": "License Agreements",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital%20Products/Thermoregulation%20Applications/Open%20Care%20Warming%20Therapy/TN300/1.12/TN300_AGREEMENT.pdf"
+                                    }
+                                 },
+                                 {
+                                    "text": "Acknowledgement of Open Source Projects",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital%20Products/Thermoregulation%20Applications/Open%20Care%20Warming%20Therapy/TN300/1.12/TN300_ACK.pdf"
+                                    }
+                                 },
+                                 {
+                                    "text": "WindRiver Third Party Legal Notices",
+                                    "a_attr": {
+                                       "href": "assets/licenses/thirdparty_notices/WindRiver/a60ad9ea93d10036b263446bb98e1a57257ad914a83a97726d7959478837ef40/windriver-legal-notices.zip"
+                                    },
+                                    "icon": "fas fa-file-archive"
+                                 },
+                                 {
+                                    "text": "Das U-Boot sources",
+                                    "icon": "fab fa-github-square",
+                                    "a_attr": {
+                                       "href": "https://github.com/Draegerwerk/u-boot/tree/v2024.10"
+                                    }
+                                 }
+                              ]
+                           }
+                        ]
+                     },
+                     {
+                        "text": "TN500",
+                        "children": [
+                           {
+                              "text": "2.00.xx",
+                              "children": [
+                                 {
+                                    "text": "License Agreements",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital%20Products/Thermoregulation%20Applications/Open%20Care%20Warming%20Therapy/TN500/2.00/TN500_AGREEMENT.pdf"
+                                    }
+                                 },
+                                 {
+                                    "text": "Acknowledgement of Open Source Projects",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital%20Products/Thermoregulation%20Applications/Open%20Care%20Warming%20Therapy/TN500/2.00/TN500_ACK.pdf"
+                                    }
+                                 },
+                                 {
+                                    "text": "WindRiver Third Party Legal Notices",
+                                    "a_attr": {
+                                       "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks7/VxWorks7__ThirdPartyNotices_v5.4_22.06.pdf"
+                                    },
+                                    "icon": "fas fa-file-archive"
+                                 },
+                                 {
+                                    "text": "Das U-Boot sources",
+                                    "icon": "fab fa-github-square",
+                                    "a_attr": {
+                                       "href": "https://github.com/Draegerwerk/u-boot/tree/TN500_2.00.00"
                                     }
                                  }
                               ]
