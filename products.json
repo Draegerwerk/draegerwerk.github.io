@@ -1682,38 +1682,58 @@
       ]
    },
    {
-      "text": "This page",
+      "text": "Websites",
       "state": {
          "opened": false
       },
       "children": [
          {
-            "text": "jQuery v3.4.1 (MIT License)",
-            "icon": "fab fa-github-square",
-            "a_attr": {
-               "href": "https://github.com/jquery/jquery/blob/3.4.1/LICENSE.txt"
-            }
+            "text": "www.draeger.com",
+            "children": [
+               {
+                  "text": "Open Source Licenses",
+                  "icon": "fas fa-file-pdf",
+                  "a_attr": {
+                     "href": "assets/licenses/Websites/Licenses Draeger Website.pdf"
+                  }
+               }
+            ]
          },
          {
-            "text": "Twitter Bootstrap v4.4.0 (MIT License)",
-            "icon": "fab fa-github-square",
-            "a_attr": {
-               "href": "https://github.com/twbs/bootstrap/blob/v4.4.0/LICENSE"
-            }
-         },
-         {
-            "text": "FontAwesome v5.13.0 (SIL OFL 1.1, CC BY 4.0 and MIT License)",
-            "icon": "fab fa-github-square",
-            "a_attr": {
-               "href": "https://github.com/FortAwesome/Font-Awesome/blob/5.13.0/LICENSE.txt"
-            }
-         },
-         {
-            "text": "jsTree v3.3.9 (MIT License)",
-            "icon": "fab fa-github-square",
-            "a_attr": {
-               "href": "https://github.com/vakata/jstree/blob/3.3.9/LICENSE-MIT"
-            }
+            "text": "www.draeger.com/opensource",
+            "state": {
+               "opened": false
+            },
+            "children": [
+               {
+                  "text": "jQuery v3.4.1 (MIT License)",
+                  "icon": "fab fa-github-square",
+                  "a_attr": {
+                     "href": "https://github.com/jquery/jquery/blob/3.4.1/LICENSE.txt"
+                  }
+               },
+               {
+                  "text": "Twitter Bootstrap v4.4.0 (MIT License)",
+                  "icon": "fab fa-github-square",
+                  "a_attr": {
+                     "href": "https://github.com/twbs/bootstrap/blob/v4.4.0/LICENSE"
+                  }
+               },
+               {
+                  "text": "FontAwesome v5.13.0 (SIL OFL 1.1, CC BY 4.0 and MIT License)",
+                  "icon": "fab fa-github-square",
+                  "a_attr": {
+                     "href": "https://github.com/FortAwesome/Font-Awesome/blob/5.13.0/LICENSE.txt"
+                  }
+               },
+               {
+                  "text": "jsTree v3.3.9 (MIT License)",
+                  "icon": "fab fa-github-square",
+                  "a_attr": {
+                     "href": "https://github.com/vakata/jstree/blob/3.3.9/LICENSE-MIT"
+                  }
+               }
+            ]
          }
       ]
    }
