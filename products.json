@@ -1,12 +1,5 @@
 [
    {
-      "text": "Open Source Licenses",
-      "icon": "fas fa-file-pdf",
-      "a_attr": {
-         "href": "assets/licenses/9055455_2018_12_07.pdf"
-      }
-   },
-   {
       "text": "Hospital Products",
       "state": {
          "opened": true
