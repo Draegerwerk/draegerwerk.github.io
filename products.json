@@ -1092,6 +1092,18 @@
                         ]
                      },
                      {
+                        "text": "Inbound Service - SDC",
+                        "children": [
+                           {
+                              "text": "License Agreements",
+                              "icon": "fas fa-file-pdf",
+                              "a_attr": {
+                                 "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Inbound%20Service%20-%20SDC/SDC_FOSS.pdf"
+                              }
+                           }
+                        ]
+                     },
+                     {
                         "text": "Lung Protective Ventilation Analytics - Anesthesia",
                         "children": [
                            {
@@ -1142,6 +1154,18 @@
                               "icon": "fas fa-file-pdf",
                               "a_attr": {
                                  "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/OR%20Companion%20&%20Self%20Test%20Tracker/Operation%20Room%20Companion_license-report.pdf"
+                              }
+                           }
+                        ]
+                     },
+                     {
+                        "text": "Outbound Service - HL7 Metrics",
+                        "children": [
+                           {
+                              "text": "License Agreements",
+                              "icon": "fas fa-file-pdf",
+                              "a_attr": {
+                                 "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Outbound%20Service%20-%20HL7/HL7_FOSS.pdf"
                               }
                            }
                         ]
