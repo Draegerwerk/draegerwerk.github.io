@@ -194,18 +194,35 @@
                         "text": "SmartPilot View",
                         "children": [
                            {
-                              "text": "License Agreements",
-                              "icon": "fas fa-file-pdf",
-                              "a_attr": {
-                                 "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Decision%20support/SmartPilot%20View/SmartPilot%20Agreement.pdf"
-                              }
+                              "text": "3.n",
+                              "children": [
+                                 {
+                                    "text": "License Agreements",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Decision%20support/SmartPilot%20View/3.n/SmartPilot%20Agreements.pdf"
+                                    }
+                                 },
+                                 {
+                                    "text": "Acknowledgement of Open Source Projects",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Decision%20support/SmartPilot%20View/3.n/SmartPilot%20Acknowledgement.pdf"
+                                    }
+                                 }
+                              ]
                            },
                            {
-                              "text": "Acknowledgement of Open Source Projects",
-                              "icon": "fas fa-file-pdf",
-                              "a_attr": {
-                                 "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Decision%20support/SmartPilot%20View/SmartPilot%20Acknowledgement.pdf"
-                              }
+                              "text": "4.n",
+                              "children": [
+                                 {
+                                    "text": "License Agreements",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Decision%20support/SmartPilot%20View/4.n/SmartPilot%20Agreements.pdf"
+                                    }
+                                 }
+                              ]
                            }
                         ]
                      }
