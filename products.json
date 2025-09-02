@@ -125,6 +125,39 @@
                                     }
                                  }
                               ]
+                           },
+                           {
+                              "text": "2.11",
+                              "children": [
+                                 {
+                                    "text": "License Agreements",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital Products/Anesthesiology Applications/Anesthesia machine/Atlan A100%2C A100 XL%2C A300%2C A300 XL%2C A350%2C A350 XL/2.11/Atlan_2_11_AGREEMENT.pdf"
+                                    }
+                                 },
+                                 {
+                                    "text": "Acknowledgement of Open Source Projects",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital Products/Anesthesiology Applications/Anesthesia machine/Atlan A100%2C A100 XL%2C A300%2C A300 XL%2C A350%2C A350 XL/2.11/Atlan_2_11_ACK.pdf"
+                                    }
+                                 },
+                                 {
+                                    "text": "WindRiver Third Party Legal Notices",
+                                    "a_attr": {
+                                       "href": "assets/licenses/thirdparty_notices/WindRiver/a60ad9ea93d10036b263446bb98e1a57257ad914a83a97726d7959478837ef40/windriver-legal-notices.zip"
+                                    },
+                                    "icon": "fas fa-file-archive"
+                                 },
+                                 {
+                                    "text": "Das U-Boot sources",
+                                    "icon": "fab fa-github-square",
+                                    "a_attr": {
+                                       "href": "https://github.com/Draegerwerk/u-boot/tree/PCS_1.2.3"
+                                    }
+                                 }
+                              ]
                            }
                         ]
                      },
