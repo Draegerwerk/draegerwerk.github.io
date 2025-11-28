@@ -1156,6 +1156,25 @@
                                     }
                                  }
                               ]
+                           },
+                           {
+                              "text": "Core 3.n",
+                              "children": [
+                                 {
+                                    "text": "License Agreements",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Core/Core%203.n/Core_AGREEMENT.pdf"
+                                    }
+                                 },
+                                 {
+                                    "text": "Acknowledgement of Open Source Projects",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Core/Core%203.n/Core_ACK.pdf"
+                                    }
+                                 }
+                              ]
                            }
                         ]
                      },
