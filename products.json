@@ -897,6 +897,104 @@
                               ]
                            },
                            {
+                              "text": "3.00.00",
+                              "children": [
+                                 {
+                                    "text": "License Agreements",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/3.00.00/VFamily_AGREEMENT.pdf"
+                                    }
+                                 },
+                                 {
+                                    "text": "Acknowledgement of Open Source Projects",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/3.00.00/VFamily_ACK.pdf"
+                                    }
+                                 },
+                                 {
+                                    "text": "WindRiver Third Party Legal Notices",
+                                    "a_attr": {
+                                       "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks7/VxWorks7__ThirdPartyNotices_v5.4_22.06.pdf"
+                                    },
+                                    "icon": "fas fa-file-archive"
+                                 },
+                                 {
+                                    "text": "Qt Third Party Legal Notices",
+                                    "a_attr": {
+                                       "href": "assets/licenses/thirdparty_notices/Qt/Qt-5.15.10_Licenses.zip"
+                                    },
+                                    "icon": "fas fa-file-archive",
+                                    "children": [
+                                       {
+                                          "text": "Public Suffix List sources",
+                                          "a_attr": {
+                                             "href": "https://github.com/publicsuffix/list"
+                                          },
+                                          "icon": "fab fa-github-square"
+                                       }
+                                    ]
+                                 },
+                                 {
+                                    "text": "Das U-Boot sources",
+                                    "icon": "fab fa-github-square",
+                                    "a_attr": {
+                                       "href": "https://github.com/Draegerwerk/u-boot/releases/tag/PCS_3.2.0"
+                                    }
+                                 }
+                              ]
+                           },
+                           {
+                              "text": "3.00.01",
+                              "children": [
+                                 {
+                                    "text": "License Agreements",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/3.00.01/VFamily_AGREEMENT.pdf"
+                                    }
+                                 },
+                                 {
+                                    "text": "Acknowledgement of Open Source Projects",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/3.00.01/VFamily_ACK.pdf"
+                                    }
+                                 },
+                                 {
+                                    "text": "WindRiver Third Party Legal Notices",
+                                    "a_attr": {
+                                       "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks7/VxWorks7__ThirdPartyNotices_v5.4_22.06.pdf"
+                                    },
+                                    "icon": "fas fa-file-archive"
+                                 },
+                                 {
+                                    "text": "Qt Third Party Legal Notices",
+                                    "a_attr": {
+                                       "href": "assets/licenses/thirdparty_notices/Qt/Qt-5.15.10_Licenses.zip"
+                                    },
+                                    "icon": "fas fa-file-archive",
+                                    "children": [
+                                       {
+                                          "text": "Public Suffix List sources",
+                                          "a_attr": {
+                                             "href": "https://github.com/publicsuffix/list"
+                                          },
+                                          "icon": "fab fa-github-square"
+                                       }
+                                    ]
+                                 },
+                                 {
+                                    "text": "Das U-Boot sources",
+                                    "icon": "fab fa-github-square",
+                                    "a_attr": {
+                                       "href": "https://github.com/Draegerwerk/u-boot/releases/tag/PCS_3.3.0"
+                                    }
+                                 }
+                              ]
+                           },
+                           {
                               "text": "3.10.01",
                               "children": [
                                  {
