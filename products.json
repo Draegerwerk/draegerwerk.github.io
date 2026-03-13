@@ -249,10 +249,24 @@
                               "text": "4.n",
                               "children": [
                                  {
-                                    "text": "License Agreements",
+                                    "text": "SmartPilot View 4.0 License Agreements",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Decision%20support/SmartPilot%20View/4.n/SmartPilot%20Agreements.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Decision%20support/SmartPilot%20View/4.n/SmartPilot%204.0%20Agreements.pdf"
+                                    }
+                                 },
+                                 {
+                                    "text": "SmartPilot View 4.1 License Agreements",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Decision%20support/SmartPilot%20View/4.n/SmartPilot%204.1%20Agreements.pdf"
+                                    }
+                                 },
+                                 {
+                                    "text": "SmartPilot View Trainer 4.0 License Agreements",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Decision%20support/SmartPilot%20View/4.n/SmartPilot%20Trainer%204.0%20Agreements.pdf"
                                     }
                                  }
                               ]
