@@ -311,10 +311,17 @@
                         "text": "Innovian Anesthesia",
                         "children": [
                            {
-                              "text": "License Agreements",
+                              "text": "Version 8.x License Agreements",
                               "icon": "fas fa-file-pdf",
                               "a_attr": {
-                                 "href": "assets/licenses/Hospital%20Products/Monitoring%20&%20IT%20Applications/Information%20Systems/Innovian%20Anesthesia/Innovian_Anesthesia_AGREEMENT.pdf"
+                                 "href": "assets/licenses/Hospital%20Products/Monitoring%20&%20IT%20Applications/Information%20Systems/Innovian%20Anesthesia/8.x/Innovian_Anesthesia_AGREEMENT.pdf"
+                              }
+                           },
+                           {
+                              "text": "Version 9.x License Agreements",
+                              "icon": "fas fa-file-pdf",
+                              "a_attr": {
+                                 "href": "assets/licenses/Hospital%20Products/Monitoring%20&%20IT%20Applications/Information%20Systems/Innovian%20Anesthesia/9.x/Innovian_Anesthesia_AGREEMENT.pdf"
                               }
                            }
                         ]
@@ -1646,6 +1653,28 @@
                                     "icon": "fab fa-github-square",
                                     "a_attr": {
                                        "href": "https://github.com/Draegerwerk/u-boot/tree/TN500_2.00.00"
+                                    }
+                                 }
+                              ]
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "text": "Jaundice Management",
+                  "children": [
+                     {
+                        "text": "BiliLux",
+                        "children": [
+                           {
+                              "text": "1.01",
+                              "children": [
+                                 {
+                                    "text": "License Agreements",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital Products/Thermoregulation Applications/Jaundice Management/BiliLux_AGREEMENT.pdf"
                                     }
                                  }
                               ]
