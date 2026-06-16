@@ -1433,6 +1433,42 @@
                         ]
                      },
                      {
+                        "text": "Infinity Converter Service",
+                        "children": [
+                           {
+                              "text": "3.n",
+                              "children": [
+                                 {
+                                    "text": "License Agreements",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Infinity%20Converter%20Service/3.n/FOSS%20License%20Documentation.pdf"
+                                    }
+                                 }
+                              ]
+                           },
+                           {
+                              "text": "4.n",
+                              "children": [
+                                 {
+                                    "text": "License Agreements",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Infinity%20Converter%20Service/4.n/Infinity_Converter_Service_AGREEMENTS.pdf"
+                                    }
+                                 },
+                                 {
+                                    "text": "Acknowledgement of Open Source Projects",
+                                    "icon": "fas fa-file-pdf",
+                                    "a_attr": {
+                                       "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Infinity%20Converter%20Service/4.n/Infinity_Converter_Service_ACK.pdf"
+                                    }
+                                 }
+                              ]
+                           }
+                        ]
+                     },
+                     {
                         "text": "Lung Protective Ventilation Analytics - Anesthesia",
                         "children": [
                            {
@@ -1440,6 +1476,25 @@
                               "icon": "fas fa-file-pdf",
                               "a_attr": {
                                  "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Lung%20Protective%20Ventilation%20Analytics - Anesthesia/Lung%20Protective%20Ventilation%20Analytics%20-%20Anesthesia_license-report.pdf"
+                              }
+                           }
+                        ]
+                     },
+                     {
+                        "text": "Lung Protective Ventilation Analytics - IC",
+                        "children": [
+                           {
+                              "text": "Backend License Agreements",
+                              "icon": "fas fa-file-pdf",
+                              "a_attr": {
+                                 "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Lung%20Protective%20Ventilation%20Analytics - IC/lpv-ic-backend_agreements.pdf"
+                              }
+                           },
+                           {
+                              "text": "Frontend License Agreements",
+                              "icon": "fas fa-file-pdf",
+                              "a_attr": {
+                                 "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Lung%20Protective%20Ventilation%20Analytics - IC/lpv-ic-frontend_agreements.pdf"
                               }
                            }
                         ]
@@ -1462,18 +1517,6 @@
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
                                        "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/M540%20Converter%20Service/2.n/M540_Converter_Service_ACK.pdf"
-                                    }
-                                 }
-                              ]
-                           },
-                           {
-                              "text": "3.n",
-                              "children": [
-                                 {
-                                    "text": "License Agreements",
-                                    "icon": "fas fa-file-pdf",
-                                    "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/M540%20Converter%20Service/3.n/FOSS License Documentation.pdf"
                                     }
                                  }
                               ]
