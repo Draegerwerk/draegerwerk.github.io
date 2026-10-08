@@ -21,22 +21,22 @@
                                     "text": "License Agreements",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "/assets/licenses/Hospital Products/Anesthesiology Applications/Anesthesia machine/Atlan A100%2C A100 XL%2C A300%2C A300 XL%2C A350%2C A350 XL/1.0n/9510561_2019_08_13.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Anesthesia%20machine/Atlan%20A100%2C%20A100%20XL%2C%20A300%2C%20A300%20XL%2C%20A350%2C%20A350%20XL/1.0n/9510561_2019_08_13.pdf"
                                     }
                                  },
                                  {
                                     "text": "Acknowledgement of Open Source Projects",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital Products/Anesthesiology Applications/Anesthesia machine/Atlan A100%2C A100 XL%2C A300%2C A300 XL%2C A350%2C A350 XL/1.0n/9510594.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Anesthesia%20machine/Atlan%20A100%2C%20A100%20XL%2C%20A300%2C%20A300%20XL%2C%20A350%2C%20A350%20XL/1.0n/9510594.pdf"
                                     }
                                  },
                                  {
                                     "text": "WindRiver Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/WindRiver/a60ad9ea93d10036b263446bb98e1a57257ad914a83a97726d7959478837ef40/windriver-legal-notices.zip"
-                                    },
-                                    "icon": "fas fa-file-archive"
+                                       "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks7/windriver-legal-notices_v2.9.zip"
+                                    }
                                  },
                                  {
                                     "text": "Das U-Boot sources",
@@ -67,22 +67,22 @@
                                     "text": "License Agreements",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital Products/Anesthesiology Applications/Anesthesia machine/Atlan A100%2C A100 XL%2C A300%2C A300 XL%2C A350%2C A350 XL/2.0n/Atlan_AGREEMENT.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Anesthesia%20machine/Atlan%20A100%2C%20A100%20XL%2C%20A300%2C%20A300%20XL%2C%20A350%2C%20A350%20XL/2.0n/Atlan_AGREEMENT.pdf"
                                     }
                                  },
                                  {
                                     "text": "Acknowledgement of Open Source Projects",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital Products/Anesthesiology Applications/Anesthesia machine/Atlan A100%2C A100 XL%2C A300%2C A300 XL%2C A350%2C A350 XL/2.0n/Atlan_ACK.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Anesthesia%20machine/Atlan%20A100%2C%20A100%20XL%2C%20A300%2C%20A300%20XL%2C%20A350%2C%20A350%20XL/2.0n/Atlan_ACK.pdf"
                                     }
                                  },
                                  {
                                     "text": "WindRiver Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/WindRiver/a60ad9ea93d10036b263446bb98e1a57257ad914a83a97726d7959478837ef40/windriver-legal-notices.zip"
-                                    },
-                                    "icon": "fas fa-file-archive"
+                                       "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks7/windriver-legal-notices_v2.9.zip"
+                                    }
                                  },
                                  {
                                     "text": "Das U-Boot sources",
@@ -100,22 +100,22 @@
                                     "text": "License Agreements",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital Products/Anesthesiology Applications/Anesthesia machine/Atlan A100%2C A100 XL%2C A300%2C A300 XL%2C A350%2C A350 XL/2.10/Atlan_2_10_AGREEMENT.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Anesthesia%20machine/Atlan%20A100%2C%20A100%20XL%2C%20A300%2C%20A300%20XL%2C%20A350%2C%20A350%20XL/2.10/Atlan_2_10_AGREEMENT.pdf"
                                     }
                                  },
                                  {
                                     "text": "Acknowledgement of Open Source Projects",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital Products/Anesthesiology Applications/Anesthesia machine/Atlan A100%2C A100 XL%2C A300%2C A300 XL%2C A350%2C A350 XL/2.10/Atlan_2_10_ACK.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Anesthesia%20machine/Atlan%20A100%2C%20A100%20XL%2C%20A300%2C%20A300%20XL%2C%20A350%2C%20A350%20XL/2.10/Atlan_2_10_ACK.pdf"
                                     }
                                  },
                                  {
                                     "text": "WindRiver Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/WindRiver/a60ad9ea93d10036b263446bb98e1a57257ad914a83a97726d7959478837ef40/windriver-legal-notices.zip"
-                                    },
-                                    "icon": "fas fa-file-archive"
+                                       "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks7/windriver-legal-notices_v2.9.zip"
+                                    }
                                  },
                                  {
                                     "text": "Das U-Boot sources",
@@ -133,22 +133,22 @@
                                     "text": "License Agreements",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital Products/Anesthesiology Applications/Anesthesia machine/Atlan A100%2C A100 XL%2C A300%2C A300 XL%2C A350%2C A350 XL/2.11/Atlan_2_11_AGREEMENT.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Anesthesia%20machine/Atlan%20A100%2C%20A100%20XL%2C%20A300%2C%20A300%20XL%2C%20A350%2C%20A350%20XL/2.11/Atlan_2_11_AGREEMENT.pdf"
                                     }
                                  },
                                  {
                                     "text": "Acknowledgement of Open Source Projects",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital Products/Anesthesiology Applications/Anesthesia machine/Atlan A100%2C A100 XL%2C A300%2C A300 XL%2C A350%2C A350 XL/2.11/Atlan_2_11_ACK.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Anesthesiology%20Applications/Anesthesia%20machine/Atlan%20A100%2C%20A100%20XL%2C%20A300%2C%20A300%20XL%2C%20A350%2C%20A350%20XL/2.11/Atlan_2_11_ACK.pdf"
                                     }
                                  },
                                  {
                                     "text": "WindRiver Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/WindRiver/a60ad9ea93d10036b263446bb98e1a57257ad914a83a97726d7959478837ef40/windriver-legal-notices.zip"
-                                    },
-                                    "icon": "fas fa-file-archive"
+                                       "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks7/windriver-legal-notices_v2.9.zip"
+                                    }
                                  },
                                  {
                                     "text": "Das U-Boot sources",
@@ -183,10 +183,10 @@
                                  },
                                  {
                                     "text": "WindRiver Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/WindRiver/08b03cdb23a9366d8ab695631004167e95dc50b92642048bbc96dd3abb705649/windriver-legal-notices.zip"
-                                    },
-                                    "icon": "fas fa-file-archive"
+                                       "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks6.9/windriver-legal-notices.zip"
+                                    }
                                  }
                               ]
                            },
@@ -209,10 +209,10 @@
                                  },
                                  {
                                     "text": "WindRiver Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/WindRiver/08b03cdb23a9366d8ab695631004167e95dc50b92642048bbc96dd3abb705649/windriver-legal-notices.zip"
-                                    },
-                                    "icon": "fas fa-file-archive"
+                                       "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks6.9/windriver-legal-notices.zip"
+                                    }
                                  }
                               ]
                            }
@@ -372,68 +372,68 @@
                                     "text": "License Agreements",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/1.01/9510821_2019_10_02.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600%2C%20V800%2C%20Babylog%20VN600%2C%20VN800/1.01/9510821_2019_10_02.pdf"
                                     }
                                  },
                                  {
                                     "text": "Acknowledgement of Open Source Projects",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/1.01/9510822_Acknowledgment.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600%2C%20V800%2C%20Babylog%20VN600%2C%20VN800/1.01/9510822_Acknowledgment.pdf"
                                     }
                                  },
                                  {
                                     "text": "WindRiver Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/WindRiver/a60ad9ea93d10036b263446bb98e1a57257ad914a83a97726d7959478837ef40/windriver-legal-notices.zip"
-                                    },
-                                    "icon": "fas fa-file-archive"
+                                       "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks7/windriver-legal-notices_v2.9.zip"
+                                    }
                                  },
                                  {
                                     "text": "Qt Third Party Legal Notices",
-                                    "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/Qt/efa51470f6a142218a7fe959fd1ba0521a0cde72979ca713fdd54a0b9876728e/OpenSource_qt_5_9_2.zip"
-                                    },
                                     "icon": "fas fa-file-archive",
+                                    "a_attr": {
+                                       "href": "assets/licenses/thirdparty_notices/Qt/OpenSource_qt_5_9_2.zip"
+                                    },
                                     "children": [
                                        {
                                           "text": "Public Suffix List sources",
+                                          "icon": "fab fa-github-square",
                                           "a_attr": {
                                              "href": "https://github.com/publicsuffix/list"
-                                          },
-                                          "icon": "fab fa-github-square"
+                                          }
                                        }
                                     ]
                                  },
                                  {
                                     "text": "Solvatio Third Party Legal Notices",
-                                    "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/Solvatio/a8509eba94f400a89e6143db63f3436f328a42c34b4b378f48971645c07ea89c/Solvatio_licences.zip"
-                                    },
                                     "icon": "fas fa-file-archive",
+                                    "a_attr": {
+                                       "href": "assets/licenses/thirdparty_notices/Solvatio/Solvatio_licences.zip"
+                                    },
                                     "children": [
                                        {
                                           "text": "Eclipse Jetty® sources",
+                                          "icon": "fab fa-github-square",
                                           "a_attr": {
                                              "href": "https://github.com/eclipse/jetty.project"
-                                          },
-                                          "icon": "fab fa-github-square"
+                                          }
                                        },
                                        {
                                           "text": "jsci sources",
+                                          "icon": "fas fa-code",
                                           "a_attr": {
                                              "href": "https://sourceforge.net/p/jsci/jsci/ci/default/tree/"
-                                          },
-                                          "icon": "fas fa-code"
+                                          }
                                        }
                                     ]
                                  },
                                  {
                                     "text": "aicas JamaicaVM Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/Jamaica/1a9c9a23540cbcf4463822d8e4a95d3beb26254bc246c4753d4f6cee273d472d/Jamaica_licenses.zip"
-                                    },
-                                    "icon": "fas fa-file-archive"
+                                       "href": "assets/licenses/thirdparty_notices/Jamaica/Jamaica_licenses.zip"
+                                    }
                                  },
                                  {
                                     "text": "Das U-Boot sources",
@@ -464,68 +464,68 @@
                                     "text": "License Agreements",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/1.05/9510821_2020_03_23_final.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600%2C%20V800%2C%20Babylog%20VN600%2C%20VN800/1.05/9510821_2020_03_23_final.pdf"
                                     }
                                  },
                                  {
                                     "text": "Acknowledgement of Open Source Projects",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/1.05/Acknowledgment.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600%2C%20V800%2C%20Babylog%20VN600%2C%20VN800/1.05/Acknowledgment.pdf"
                                     }
                                  },
                                  {
                                     "text": "WindRiver Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/WindRiver/9ba710f7f604bc88ddad2745c731a61ed42607a78872703e08221cf124669af5/windriver-legal-notices.zip"
-                                    },
-                                    "icon": "fas fa-file-archive"
+                                       "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks7/windriver-legal-notices_v2.9.zip"
+                                    }
                                  },
                                  {
                                     "text": "Qt Third Party Legal Notices",
-                                    "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/Qt/efa51470f6a142218a7fe959fd1ba0521a0cde72979ca713fdd54a0b9876728e/OpenSource_qt_5_9_2.zip"
-                                    },
                                     "icon": "fas fa-file-archive",
+                                    "a_attr": {
+                                       "href": "assets/licenses/thirdparty_notices/Qt/OpenSource_qt_5_9_2.zip"
+                                    },
                                     "children": [
                                        {
                                           "text": "Public Suffix List sources",
+                                          "icon": "fab fa-github-square",
                                           "a_attr": {
                                              "href": "https://github.com/publicsuffix/list"
-                                          },
-                                          "icon": "fab fa-github-square"
+                                          }
                                        }
                                     ]
                                  },
                                  {
                                     "text": "Solvatio Third Party Legal Notices",
-                                    "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/Solvatio/a8509eba94f400a89e6143db63f3436f328a42c34b4b378f48971645c07ea89c/Solvatio_licences.zip"
-                                    },
                                     "icon": "fas fa-file-archive",
+                                    "a_attr": {
+                                       "href": "assets/licenses/thirdparty_notices/Solvatio/Solvatio_licences.zip"
+                                    },
                                     "children": [
                                        {
                                           "text": "Eclipse Jetty® sources",
+                                          "icon": "fab fa-github-square",
                                           "a_attr": {
                                              "href": "https://github.com/eclipse/jetty.project"
-                                          },
-                                          "icon": "fab fa-github-square"
+                                          }
                                        },
                                        {
                                           "text": "jsci sources",
+                                          "icon": "fas fa-code",
                                           "a_attr": {
                                              "href": "https://sourceforge.net/p/jsci/jsci/ci/default/tree/"
-                                          },
-                                          "icon": "fas fa-code"
+                                          }
                                        }
                                     ]
                                  },
                                  {
                                     "text": "aicas JamaicaVM Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/Jamaica/1a9c9a23540cbcf4463822d8e4a95d3beb26254bc246c4753d4f6cee273d472d/Jamaica_licenses.zip"
-                                    },
-                                    "icon": "fas fa-file-archive"
+                                       "href": "assets/licenses/thirdparty_notices/Jamaica/Jamaica_licenses.zip"
+                                    }
                                  },
                                  {
                                     "text": "Das U-Boot sources",
@@ -556,68 +556,68 @@
                                     "text": "License Agreements",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/2.00.00/VFamily_AGREEMENT.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600%2C%20V800%2C%20Babylog%20VN600%2C%20VN800/2.00.00/VFamily_AGREEMENT.pdf"
                                     }
                                  },
                                  {
                                     "text": "Acknowledgement of Open Source Projects",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/2.00.00/VFamily_ACK.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600%2C%20V800%2C%20Babylog%20VN600%2C%20VN800/2.00.00/VFamily_ACK.pdf"
                                     }
                                  },
                                  {
                                     "text": "WindRiver Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/WindRiver/9ba710f7f604bc88ddad2745c731a61ed42607a78872703e08221cf124669af5/windriver-legal-notices.zip"
-                                    },
-                                    "icon": "fas fa-file-archive"
+                                       "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks7/windriver-legal-notices_v2.9.zip"
+                                    }
                                  },
                                  {
                                     "text": "Qt Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
                                        "href": "assets/licenses/thirdparty_notices/Qt/QT5.12.6_Licenses.zip"
                                     },
-                                    "icon": "fas fa-file-archive",
                                     "children": [
                                        {
                                           "text": "Public Suffix List sources",
+                                          "icon": "fab fa-github-square",
                                           "a_attr": {
                                              "href": "https://github.com/publicsuffix/list"
-                                          },
-                                          "icon": "fab fa-github-square"
+                                          }
                                        }
                                     ]
                                  },
                                  {
                                     "text": "Solvatio Third Party Legal Notices",
-                                    "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/Solvatio/a8509eba94f400a89e6143db63f3436f328a42c34b4b378f48971645c07ea89c/Solvatio_licences.zip"
-                                    },
                                     "icon": "fas fa-file-archive",
+                                    "a_attr": {
+                                       "href": "assets/licenses/thirdparty_notices/Solvatio/Solvatio_licences.zip"
+                                    },
                                     "children": [
                                        {
                                           "text": "Eclipse Jetty® sources",
+                                          "icon": "fab fa-github-square",
                                           "a_attr": {
                                              "href": "https://github.com/eclipse/jetty.project"
-                                          },
-                                          "icon": "fab fa-github-square"
+                                          }
                                        },
                                        {
                                           "text": "jsci sources",
+                                          "icon": "fas fa-code",
                                           "a_attr": {
                                              "href": "https://sourceforge.net/p/jsci/jsci/ci/default/tree/"
-                                          },
-                                          "icon": "fas fa-code"
+                                          }
                                        }
                                     ]
                                  },
                                  {
                                     "text": "aicas JamaicaVM Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/Jamaica/1a9c9a23540cbcf4463822d8e4a95d3beb26254bc246c4753d4f6cee273d472d/Jamaica_licenses.zip"
-                                    },
-                                    "icon": "fas fa-file-archive"
+                                       "href": "assets/licenses/thirdparty_notices/Jamaica/Jamaica_licenses.zip"
+                                    }
                                  },
                                  {
                                     "text": "Das U-Boot sources",
@@ -648,68 +648,68 @@
                                     "text": "License Agreements",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/2.00.01/VFamily_AGREEMENT.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600%2C%20V800%2C%20Babylog%20VN600%2C%20VN800/2.00.01/VFamily_AGREEMENT.pdf"
                                     }
                                  },
                                  {
                                     "text": "Acknowledgement of Open Source Projects",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/2.00.01/VFamily_ACK.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600%2C%20V800%2C%20Babylog%20VN600%2C%20VN800/2.00.01/VFamily_ACK.pdf"
                                     }
                                  },
                                  {
                                     "text": "WindRiver Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/WindRiver/9ba710f7f604bc88ddad2745c731a61ed42607a78872703e08221cf124669af5/windriver-legal-notices.zip"
-                                    },
-                                    "icon": "fas fa-file-archive"
+                                       "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks7/windriver-legal-notices_v2.9.zip"
+                                    }
                                  },
                                  {
                                     "text": "Qt Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
                                        "href": "assets/licenses/thirdparty_notices/Qt/QT5.12.6_Licenses.zip"
                                     },
-                                    "icon": "fas fa-file-archive",
                                     "children": [
                                        {
                                           "text": "Public Suffix List sources",
+                                          "icon": "fab fa-github-square",
                                           "a_attr": {
                                              "href": "https://github.com/publicsuffix/list"
-                                          },
-                                          "icon": "fab fa-github-square"
+                                          }
                                        }
                                     ]
                                  },
                                  {
                                     "text": "Solvatio Third Party Legal Notices",
-                                    "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/Solvatio/a8509eba94f400a89e6143db63f3436f328a42c34b4b378f48971645c07ea89c/Solvatio_licences.zip"
-                                    },
                                     "icon": "fas fa-file-archive",
+                                    "a_attr": {
+                                       "href": "assets/licenses/thirdparty_notices/Solvatio/Solvatio_licences.zip"
+                                    },
                                     "children": [
                                        {
                                           "text": "Eclipse Jetty® sources",
+                                          "icon": "fab fa-github-square",
                                           "a_attr": {
                                              "href": "https://github.com/eclipse/jetty.project"
-                                          },
-                                          "icon": "fab fa-github-square"
+                                          }
                                        },
                                        {
                                           "text": "jsci sources",
+                                          "icon": "fas fa-code",
                                           "a_attr": {
                                              "href": "https://sourceforge.net/p/jsci/jsci/ci/default/tree/"
-                                          },
-                                          "icon": "fas fa-code"
+                                          }
                                        }
                                     ]
                                  },
                                  {
                                     "text": "aicas JamaicaVM Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/Jamaica/1a9c9a23540cbcf4463822d8e4a95d3beb26254bc246c4753d4f6cee273d472d/Jamaica_licenses.zip"
-                                    },
-                                    "icon": "fas fa-file-archive"
+                                       "href": "assets/licenses/thirdparty_notices/Jamaica/Jamaica_licenses.zip"
+                                    }
                                  },
                                  {
                                     "text": "Das U-Boot sources",
@@ -740,68 +740,68 @@
                                     "text": "License Agreements",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/2.01.00/VFamily_AGREEMENT.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600%2C%20V800%2C%20Babylog%20VN600%2C%20VN800/2.01.00/VFamily_AGREEMENT.pdf"
                                     }
                                  },
                                  {
                                     "text": "Acknowledgement of Open Source Projects",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/2.01.00/VFamily_ACK.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600%2C%20V800%2C%20Babylog%20VN600%2C%20VN800/2.01.00/VFamily_ACK.pdf"
                                     }
                                  },
                                  {
                                     "text": "WindRiver Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/WindRiver/9ba710f7f604bc88ddad2745c731a61ed42607a78872703e08221cf124669af5/windriver-legal-notices.zip"
-                                    },
-                                    "icon": "fas fa-file-archive"
+                                       "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks7/windriver-legal-notices_v2.9.zip"
+                                    }
                                  },
                                  {
                                     "text": "Qt Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
                                        "href": "assets/licenses/thirdparty_notices/Qt/QT5.12.6_Licenses.zip"
                                     },
-                                    "icon": "fas fa-file-archive",
                                     "children": [
                                        {
                                           "text": "Public Suffix List sources",
+                                          "icon": "fab fa-github-square",
                                           "a_attr": {
                                              "href": "https://github.com/publicsuffix/list"
-                                          },
-                                          "icon": "fab fa-github-square"
+                                          }
                                        }
                                     ]
                                  },
                                  {
                                     "text": "Solvatio Third Party Legal Notices",
-                                    "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/Solvatio/a8509eba94f400a89e6143db63f3436f328a42c34b4b378f48971645c07ea89c/Solvatio_licences.zip"
-                                    },
                                     "icon": "fas fa-file-archive",
+                                    "a_attr": {
+                                       "href": "assets/licenses/thirdparty_notices/Solvatio/Solvatio_licences.zip"
+                                    },
                                     "children": [
                                        {
                                           "text": "Eclipse Jetty® sources",
+                                          "icon": "fab fa-github-square",
                                           "a_attr": {
                                              "href": "https://github.com/eclipse/jetty.project"
-                                          },
-                                          "icon": "fab fa-github-square"
+                                          }
                                        },
                                        {
                                           "text": "jsci sources",
+                                          "icon": "fas fa-code",
                                           "a_attr": {
                                              "href": "https://sourceforge.net/p/jsci/jsci/ci/default/tree/"
-                                          },
-                                          "icon": "fas fa-code"
+                                          }
                                        }
                                     ]
                                  },
                                  {
                                     "text": "aicas JamaicaVM Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/Jamaica/1a9c9a23540cbcf4463822d8e4a95d3beb26254bc246c4753d4f6cee273d472d/Jamaica_licenses.zip"
-                                    },
-                                    "icon": "fas fa-file-archive"
+                                       "href": "assets/licenses/thirdparty_notices/Jamaica/Jamaica_licenses.zip"
+                                    }
                                  },
                                  {
                                     "text": "Das U-Boot sources",
@@ -832,68 +832,68 @@
                                     "text": "License Agreements",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/2.01.01/VFamily_AGREEMENT.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600%2C%20V800%2C%20Babylog%20VN600%2C%20VN800/2.01.01/VFamily_AGREEMENT.pdf"
                                     }
                                  },
                                  {
                                     "text": "Acknowledgement of Open Source Projects",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/2.01.01/VFamily_ACK.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600%2C%20V800%2C%20Babylog%20VN600%2C%20VN800/2.01.01/VFamily_ACK.pdf"
                                     }
                                  },
                                  {
                                     "text": "WindRiver Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/WindRiver/9ba710f7f604bc88ddad2745c731a61ed42607a78872703e08221cf124669af5/windriver-legal-notices.zip"
-                                    },
-                                    "icon": "fas fa-file-archive"
+                                       "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks7/windriver-legal-notices_v2.9.zip"
+                                    }
                                  },
                                  {
                                     "text": "Qt Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
                                        "href": "assets/licenses/thirdparty_notices/Qt/QT5.12.6_Licenses.zip"
                                     },
-                                    "icon": "fas fa-file-archive",
                                     "children": [
                                        {
                                           "text": "Public Suffix List sources",
+                                          "icon": "fab fa-github-square",
                                           "a_attr": {
                                              "href": "https://github.com/publicsuffix/list"
-                                          },
-                                          "icon": "fab fa-github-square"
+                                          }
                                        }
                                     ]
                                  },
                                  {
                                     "text": "Solvatio Third Party Legal Notices",
-                                    "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/Solvatio/a8509eba94f400a89e6143db63f3436f328a42c34b4b378f48971645c07ea89c/Solvatio_licences.zip"
-                                    },
                                     "icon": "fas fa-file-archive",
+                                    "a_attr": {
+                                       "href": "assets/licenses/thirdparty_notices/Solvatio/Solvatio_licences.zip"
+                                    },
                                     "children": [
                                        {
                                           "text": "Eclipse Jetty® sources",
+                                          "icon": "fab fa-github-square",
                                           "a_attr": {
                                              "href": "https://github.com/eclipse/jetty.project"
-                                          },
-                                          "icon": "fab fa-github-square"
+                                          }
                                        },
                                        {
                                           "text": "jsci sources",
+                                          "icon": "fas fa-code",
                                           "a_attr": {
                                              "href": "https://sourceforge.net/p/jsci/jsci/ci/default/tree/"
-                                          },
-                                          "icon": "fas fa-code"
+                                          }
                                        }
                                     ]
                                  },
                                  {
                                     "text": "aicas JamaicaVM Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/Jamaica/1a9c9a23540cbcf4463822d8e4a95d3beb26254bc246c4753d4f6cee273d472d/Jamaica_licenses.zip"
-                                    },
-                                    "icon": "fas fa-file-archive"
+                                       "href": "assets/licenses/thirdparty_notices/Jamaica/Jamaica_licenses.zip"
+                                    }
                                  },
                                  {
                                     "text": "Das U-Boot sources",
@@ -924,36 +924,39 @@
                                     "text": "License Agreements",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/3.00.00/VFamily_AGREEMENT.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600%2C%20V800%2C%20Babylog%20VN600%2C%20VN800/3.00.00/VFamily_AGREEMENT.pdf"
                                     }
                                  },
                                  {
                                     "text": "Acknowledgement of Open Source Projects",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/3.00.00/VFamily_ACK.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600%2C%20V800%2C%20Babylog%20VN600%2C%20VN800/3.00.00/VFamily_ACK.pdf"
                                     }
                                  },
                                  {
                                     "text": "WindRiver Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
                                        "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks7/VxWorks7__ThirdPartyNotices_v5.4_22.06.pdf"
                                     },
-                                    "icon": "fas fa-file-archive"
+                                    "data": {
+                                       "note": "Archive icon on a .pdf: preserved from the original data, not a typo."
+                                    }
                                  },
                                  {
                                     "text": "Qt Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
                                        "href": "assets/licenses/thirdparty_notices/Qt/Qt-5.15.10_Licenses.zip"
                                     },
-                                    "icon": "fas fa-file-archive",
                                     "children": [
                                        {
                                           "text": "Public Suffix List sources",
+                                          "icon": "fab fa-github-square",
                                           "a_attr": {
                                              "href": "https://github.com/publicsuffix/list"
-                                          },
-                                          "icon": "fab fa-github-square"
+                                          }
                                        }
                                     ]
                                  },
@@ -973,36 +976,39 @@
                                     "text": "License Agreements",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/3.00.01/VFamily_AGREEMENT.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600%2C%20V800%2C%20Babylog%20VN600%2C%20VN800/3.00.01/VFamily_AGREEMENT.pdf"
                                     }
                                  },
                                  {
                                     "text": "Acknowledgement of Open Source Projects",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/3.00.01/VFamily_ACK.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600%2C%20V800%2C%20Babylog%20VN600%2C%20VN800/3.00.01/VFamily_ACK.pdf"
                                     }
                                  },
                                  {
                                     "text": "WindRiver Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
                                        "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks7/VxWorks7__ThirdPartyNotices_v5.4_22.06.pdf"
                                     },
-                                    "icon": "fas fa-file-archive"
+                                    "data": {
+                                       "note": "Archive icon on a .pdf: preserved from the original data, not a typo."
+                                    }
                                  },
                                  {
                                     "text": "Qt Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
                                        "href": "assets/licenses/thirdparty_notices/Qt/Qt-5.15.10_Licenses.zip"
                                     },
-                                    "icon": "fas fa-file-archive",
                                     "children": [
                                        {
                                           "text": "Public Suffix List sources",
+                                          "icon": "fab fa-github-square",
                                           "a_attr": {
                                              "href": "https://github.com/publicsuffix/list"
-                                          },
-                                          "icon": "fab fa-github-square"
+                                          }
                                        }
                                     ]
                                  },
@@ -1022,36 +1028,39 @@
                                     "text": "License Agreements",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/3.10.01/VFamily_AGREEMENT.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600%2C%20V800%2C%20Babylog%20VN600%2C%20VN800/3.10.01/VFamily_AGREEMENT.pdf"
                                     }
                                  },
                                  {
                                     "text": "Acknowledgement of Open Source Projects",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600,%20V800,%20Babylog%20VN600,%20VN800/3.10.01/VFamily_ACK.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Respiratory%20Care%20Applications/Ventilation%20devices/Evita%20V600%2C%20V800%2C%20Babylog%20VN600%2C%20VN800/3.10.01/VFamily_ACK.pdf"
                                     }
                                  },
                                  {
                                     "text": "WindRiver Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
                                        "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks7/VxWorks7__ThirdPartyNotices_v5.7_24.03.pdf"
                                     },
-                                    "icon": "fas fa-file-archive"
+                                    "data": {
+                                       "note": "Archive icon on a .pdf: preserved from the original data, not a typo."
+                                    }
                                  },
                                  {
                                     "text": "Qt Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
                                        "href": "assets/licenses/thirdparty_notices/Qt/Qt-5.15.16_Licenses.zip"
                                     },
-                                    "icon": "fas fa-file-archive",
                                     "children": [
                                        {
                                           "text": "Public Suffix List sources",
+                                          "icon": "fab fa-github-square",
                                           "a_attr": {
                                              "href": "https://github.com/publicsuffix/list"
-                                          },
-                                          "icon": "fab fa-github-square"
+                                          }
                                        }
                                     ]
                                  },
@@ -1078,10 +1087,13 @@
                            },
                            {
                               "text": "WindRiver Third Party Legal Notices",
+                              "icon": "fas fa-file-archive",
                               "a_attr": {
                                  "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks5/VxWorks5.5.x.LicenseNotices.pdf"
                               },
-                              "icon": "fas fa-file-archive"
+                              "data": {
+                                 "note": "Archive icon on a .pdf: preserved from the original data, not a typo."
+                              }
                            }
                         ]
                      }
@@ -1218,17 +1230,17 @@
                                  },
                                  {
                                     "text": "WindRiver Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/WindRiver/9ba710f7f604bc88ddad2745c731a61ed42607a78872703e08221cf124669af5/windriver-legal-notices.zip"
-                                    },
-                                    "icon": "fas fa-file-archive"
+                                       "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks7/windriver-legal-notices_v2.9.zip"
+                                    }
                                  },
                                  {
                                     "text": "Das U-Boot sources",
+                                    "icon": "fab fa-github-square",
                                     "a_attr": {
                                        "href": "https://github.com/Draegerwerk/u-boot/releases/tag/v2014.07"
-                                    },
-                                    "icon": "fab fa-github-square"
+                                    }
                                  }
                               ]
                            },
@@ -1251,17 +1263,20 @@
                                  },
                                  {
                                     "text": "WindRiver Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
                                        "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks7/VxWorks7__ThirdPartyNotices_v5.4_22.06.pdf"
                                     },
-                                    "icon": "fas fa-file-archive"
+                                    "data": {
+                                       "note": "Archive icon on a .pdf: preserved from the original data, not a typo."
+                                    }
                                  },
                                  {
                                     "text": "Das U-Boot sources",
+                                    "icon": "fab fa-github-square",
                                     "a_attr": {
                                        "href": "https://github.com/Draegerwerk/u-boot/releases/tag/PCS_3.2.0"
-                                    },
-                                    "icon": "fab fa-github-square"
+                                    }
                                  }
                               ]
                            }
@@ -1475,7 +1490,7 @@
                               "text": "License Agreements",
                               "icon": "fas fa-file-pdf",
                               "a_attr": {
-                                 "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Lung%20Protective%20Ventilation%20Analytics - Anesthesia/Lung%20Protective%20Ventilation%20Analytics%20-%20Anesthesia_license-report.pdf"
+                                 "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Lung%20Protective%20Ventilation%20Analytics%20-%20Anesthesia/Lung%20Protective%20Ventilation%20Analytics%20-%20Anesthesia_license-report.pdf"
                               }
                            }
                         ]
@@ -1487,14 +1502,14 @@
                               "text": "Backend License Agreements",
                               "icon": "fas fa-file-pdf",
                               "a_attr": {
-                                 "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Lung%20Protective%20Ventilation%20Analytics - IC/lpv-ic-backend_agreements.pdf"
+                                 "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Lung%20Protective%20Ventilation%20Analytics%20-%20IC/lpv-ic-backend_agreements.pdf"
                               }
                            },
                            {
                               "text": "Frontend License Agreements",
                               "icon": "fas fa-file-pdf",
                               "a_attr": {
-                                 "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Lung%20Protective%20Ventilation%20Analytics - IC/lpv-ic-frontend_agreements.pdf"
+                                 "href": "assets/licenses/Hospital%20Products/System%20Products/Dräger%20software%20components/Lung%20Protective%20Ventilation%20Analytics%20-%20IC/lpv-ic-frontend_agreements.pdf"
                               }
                            }
                         ]
@@ -1615,10 +1630,10 @@
                                  },
                                  {
                                     "text": "WindRiver Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/WindRiver/a60ad9ea93d10036b263446bb98e1a57257ad914a83a97726d7959478837ef40/windriver-legal-notices.zip"
-                                    },
-                                    "icon": "fas fa-file-archive"
+                                       "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks7/windriver-legal-notices_v2.9.zip"
+                                    }
                                  },
                                  {
                                     "text": "Das U-Boot sources",
@@ -1648,10 +1663,10 @@
                                  },
                                  {
                                     "text": "WindRiver Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/WindRiver/a60ad9ea93d10036b263446bb98e1a57257ad914a83a97726d7959478837ef40/windriver-legal-notices.zip"
-                                    },
-                                    "icon": "fas fa-file-archive"
+                                       "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks7/windriver-legal-notices_v2.9.zip"
+                                    }
                                  },
                                  {
                                     "text": "Das U-Boot sources",
@@ -1681,10 +1696,10 @@
                                  },
                                  {
                                     "text": "WindRiver Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
-                                       "href": "assets/licenses/thirdparty_notices/WindRiver/a60ad9ea93d10036b263446bb98e1a57257ad914a83a97726d7959478837ef40/windriver-legal-notices.zip"
-                                    },
-                                    "icon": "fas fa-file-archive"
+                                       "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks7/windriver-legal-notices_v2.9.zip"
+                                    }
                                  },
                                  {
                                     "text": "Das U-Boot sources",
@@ -1719,10 +1734,13 @@
                                  },
                                  {
                                     "text": "WindRiver Third Party Legal Notices",
+                                    "icon": "fas fa-file-archive",
                                     "a_attr": {
                                        "href": "assets/licenses/thirdparty_notices/WindRiver/VxWorks7/VxWorks7__ThirdPartyNotices_v5.4_22.06.pdf"
                                     },
-                                    "icon": "fas fa-file-archive"
+                                    "data": {
+                                       "note": "Archive icon on a .pdf: preserved from the original data, not a typo."
+                                    }
                                  },
                                  {
                                     "text": "Das U-Boot sources",
@@ -1750,7 +1768,7 @@
                                     "text": "License Agreements",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Hospital Products/Neonatal%20Care Applications/Jaundice Management/BiliLux_AGREEMENT.pdf"
+                                       "href": "assets/licenses/Hospital%20Products/Neonatal%20Care%20Applications/Jaundice%20Management/BiliLux_AGREEMENT.pdf"
                                     }
                                  }
                               ]
@@ -1978,7 +1996,7 @@
                                     "text": "License Agreements",
                                     "icon": "fas fa-file-pdf",
                                     "a_attr": {
-                                       "href": "assets/licenses/Safety%20Products/Gas%20Detection/Mobile%20Gas%20Detection/X-am/X-am%202800%20\u2013%205800/License-Agreements.pdf"
+                                       "href": "assets/licenses/Safety%20Products/Gas%20Detection/Mobile%20Gas%20Detection/X-am/X-am%202800%20–%205800/License-Agreements.pdf"
                                     }
                                  }
                               ]
@@ -2124,36 +2142,39 @@
                               "text": "RAM Connector Licenses Agreements",
                               "icon": "fas fa-file-pdf",
                               "a_attr": {
-                                 "href": "assets/licenses/Safety Products/Service Products & Solutions SD/Emergency_and_Rescue_Services/Web_RAM_FireGround/RAM_Connector_Open_Source_Licenses.pdf"
+                                 "href": "assets/licenses/Safety%20Products/Service%20Products%20&%20Solutions%20SD/Emergency_and_Rescue_Services/Web_RAM_FireGround/RAM_Connector_Open_Source_Licenses.pdf"
                               }
                            },
                            {
                               "text": "RAM/FireGround Web Licenses Agreements",
                               "icon": "fas fa-file-pdf",
                               "a_attr": {
-                                 "href": "assets/licenses/Safety Products/Service Products & Solutions SD/Emergency_and_Rescue_Services/Web_RAM_FireGround/RAM_FireGround_Web_Open_Source_Licenses.pdf"
+                                 "href": "assets/licenses/Safety%20Products/Service%20Products%20&%20Solutions%20SD/Emergency_and_Rescue_Services/Web_RAM_FireGround/RAM_FireGround_Web_Open_Source_Licenses.pdf"
                               }
                            },
                            {
                               "text": "RAM Link License Agreements",
                               "icon": "fas fa-file-pdf",
                               "a_attr": {
-                                 "href": "assets/licenses/Safety Products/Service Products & Solutions SD/Emergency_and_Rescue_Services/Web_RAM_FireGround/RAM_Link_Open_Source_Licenses.pdf"
+                                 "href": "assets/licenses/Safety%20Products/Service%20Products%20&%20Solutions%20SD/Emergency_and_Rescue_Services/Web_RAM_FireGround/RAM_Link_Open_Source_Licenses.pdf"
                               }
                            }
                         ]
                      },
                      {
-                       "text": "Drägerware.ZMS",
-                       "children": [
-                         {
-                           "text": "License Agreements",
-                           "icon": "fas fa-file-pdf",
-                           "a_attr": {
-                             "href": "assets/licenses/Safety%20Products/Service%20Products%20&%20Solutions%20SD/Web_Cloud_Solutions/Draegerware_ZMS/Draegerware_ZMS_App_Open_Source_Licenses.pdf"
+                        "text": "Drägerware.ZMS",
+                        "data": {
+                           "note": "Keep this node exactly as it is. An external CI replaces the PDF below in place at this path and expects the node text and the directory layout to stay unchanged, so this node takes no version in its text and no per-version subdirectories."
+                        },
+                        "children": [
+                           {
+                              "text": "License Agreements",
+                              "icon": "fas fa-file-pdf",
+                              "a_attr": {
+                                 "href": "assets/licenses/Safety%20Products/Service%20Products%20&%20Solutions%20SD/Web_Cloud_Solutions/Draegerware_ZMS/Draegerware_ZMS_App_Open_Source_Licenses.pdf"
+                              }
                            }
-                         }
-                       ]
+                        ]
                      }
                   ]
                }
@@ -2174,7 +2195,7 @@
                   "text": "Open Source Licenses",
                   "icon": "fas fa-file-pdf",
                   "a_attr": {
-                     "href": "assets/licenses/Websites/Licenses Draeger Website.pdf"
+                     "href": "assets/licenses/Websites/Licenses%20Draeger%20Website.pdf"
                   }
                }
             ]
