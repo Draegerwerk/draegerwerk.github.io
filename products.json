@@ -1925,30 +1925,6 @@
                   "text": "Mobile Gas Detection",
                   "children": [
                      {
-                        "text": "Alcotest",
-                        "children": [
-                           {
-                              "text": "Alcohol & Drug Detection",
-                              "children": [
-                                 {
-                                    "text": "Mobile app License Agreements",
-                                    "icon": "fas fa-file-pdf",
-                                    "a_attr": {
-                                       "href": "assets/licenses/Safety%20Products/Gas%20Detection/Mobile%20Gas%20Detection/Alcotest/Alcohol%20&%20Drug%20Detection/add_Mobile_Licenses.pdf"
-                                    }
-                                 },
-                                 {
-                                    "text": "Backend License Agreements",
-                                    "icon": "fas fa-file-pdf",
-                                    "a_attr": {
-                                       "href": "assets/licenses/Safety%20Products/Gas%20Detection/Mobile%20Gas%20Detection/Alcotest/Alcohol%20&%20Drug%20Detection/add_Backend_Licenses.pdf"
-                                    }
-                                 }
-                              ]
-                           }
-                        ]
-                     },
-                     {
                         "text": "Gas detection connect",
                         "children": [
                            {
@@ -2182,6 +2158,49 @@
                               }
                            }
                         ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "text": "Impairment Services",
+            "children": [
+               {
+                  "text": "Interlock Domain Manager",
+                  "children": [
+                     {
+                        "text": "IDM Backend License Agreements",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                           "href": "assets/licenses/IDM%20Backend%20License%20Agreements.pdf"
+                        }
+                     },
+                     {
+                        "text": "IDM Frontend License Agreements",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                           "href": "assets/licenses/IDM%20Frontend%20License%20Agreements.pdf"
+                        }
+                     }
+                  ]
+               },
+               {
+                  "text": "Dräger add",
+                  "children": [
+                     {
+                        "text": "Mobile app License Agreements",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                           "href": "assets/licenses/Safety%20Products/Impairment%20Services/Alcohol%20&%20Drug%20Detection/add_Mobile_Licenses.pdf"
+                        }
+                     },
+                     {
+                        "text": "Backend License Agreements",
+                        "icon": "fas fa-file-pdf",
+                        "a_attr": {
+                           "href": "assets/licenses/Safety%20Products/Impairment%20Services/Alcohol%20&%20Drug%20Detection/add_Backend_Licenses.pdf"
+                        }
                      }
                   ]
                }
