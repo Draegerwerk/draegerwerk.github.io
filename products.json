@@ -358,6 +358,53 @@
                               }
                            }
                         ]
+                     },
+                     {
+                        "text": "Caia",
+                        "children": [
+                           {
+                              "text": "caia-questionnaire-service_license-agreements",
+                              "icon": "fas fa-file-pdf",
+                              "a_attr": {
+                                 "href": "assets/licenses/Hospital%20Products/Monitoring%20&%20IT%20Applications/Information%20Systems/Caia/caia-questionnaire-service_license-agreements.pdf"
+                              }
+                           },
+                           {
+                              "text": "caia-patient-app-backend_license-agreements",
+                              "icon": "fas fa-file-pdf",
+                              "a_attr": {
+                                 "href": "assets/licenses/Hospital%20Products/Monitoring%20&%20IT%20Applications/Information%20Systems/Caia/caia-patient-app-backend_license-agreements.pdf"
+                              }
+                           },
+                           {
+                              "text": "caia-patient-app_license-agreements",
+                              "icon": "fas fa-file-pdf",
+                              "a_attr": {
+                                 "href": "assets/licenses/Hospital%20Products/Monitoring%20&%20IT%20Applications/Information%20Systems/Caia/caia-patient-app_license-agreements.pdf"
+                              }
+                           },
+                           {
+                              "text": "caia-media-service_license-agreements",
+                              "icon": "fas fa-file-pdf",
+                              "a_attr": {
+                                 "href": "assets/licenses/Hospital%20Products/Monitoring%20&%20IT%20Applications/Information%20Systems/Caia/caia-media-service_license-agreements.pdf"
+                              }
+                           },
+                           {
+                              "text": "caia-cockpit-frontend_license-agreements",
+                              "icon": "fas fa-file-pdf",
+                              "a_attr": {
+                                 "href": "assets/licenses/Hospital%20Products/Monitoring%20&%20IT%20Applications/Information%20Systems/Caia/caia-cockpit-frontend_license-agreements.pdf"
+                              }
+                           },
+                           {
+                              "text": "caia-cockpit-backend_license-agreements",
+                              "icon": "fas fa-file-pdf",
+                              "a_attr": {
+                                 "href": "assets/licenses/Hospital%20Products/Monitoring%20&%20IT%20Applications/Information%20Systems/Caia/caia-cockpit-backend_license-agreements.pdf"
+                              }
+                           }
+                        ]
                      }
                   ]
                }
